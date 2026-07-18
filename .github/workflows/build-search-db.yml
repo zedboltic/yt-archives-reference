@@ -1,0 +1,173 @@
+name: Build and publish search database
+
+on:
+  schedule:
+    # 03:00 JST (18:00 UTC on the previous day)
+    - cron: "41 * * * *"
+    # Gemini APIの日次枠リセット後に過去動画を再解析する（00:10 Pacific以降）。
+    - cron: "10 9 * * *"
+  workflow_dispatch:
+    inputs:
+      reanalyze:
+        description: Reanalyze historical videos after the normal refresh
+        required: false
+        type: boolean
+        default: false
+
+concurrency:
+  group: search-db-build-publish
+  cancel-in-progress: false
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Create tools repository token
+        id: tools-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ secrets.ARCHIVE_APP_CLIENT_ID }}
+          private-key: ${{ secrets.ARCHIVE_APP_PRIVATE_KEY }}
+          owner: zedboltic
+          repositories: yt-archives-tools
+          permission-contents: read
+
+      - name: Create view checkout token
+        id: view-checkout-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ secrets.ARCHIVE_APP_CLIENT_ID }}
+          private-key: ${{ secrets.ARCHIVE_APP_PRIVATE_KEY }}
+          owner: zedboltic
+          repositories: yt-archives-view
+          permission-contents: read
+
+      - name: Check out reference data
+        uses: actions/checkout@v4
+        with:
+          path: reference
+
+      - name: Check out build tools
+        uses: actions/checkout@v4
+        with:
+          repository: zedboltic/yt-archives-tools
+          path: tools
+          token: ${{ steps.tools-token.outputs.token }}
+
+      - name: Check out view data
+        uses: actions/checkout@v4
+        with:
+          repository: zedboltic/yt-archives-view
+          path: view
+          token: ${{ steps.view-checkout-token.outputs.token }}
+          # 読取用tokenをgit設定へ残さず、push時は後段の書込用tokenを使用する。
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: tools/package-lock.json
+
+      - name: Install tool dependencies
+        working-directory: tools
+        run: npm ci
+
+      - name: Configure build environment
+        run: |
+          umask 077
+          printf '%s\n' "$AUTOMATION_ENV" > tools/.env
+        env:
+          AUTOMATION_ENV: ${{ secrets.AUTOMATION_ENV }}
+
+      - name: Refresh archive data
+        id: refresh-archive
+        continue-on-error: true
+        working-directory: tools
+        env:
+          AUTOMATION_SUMMARY_PATH: ${{ runner.temp }}/automation-summary.json
+          AUTOMATION_LOG_PATH: ${{ runner.temp }}/automation.log
+          RUN_REANALYZE: ${{ github.event.schedule == '10 9 * * *' || inputs.reanalyze }}
+        run: |
+          if [ "$RUN_REANALYZE" = "true" ]; then
+            npm run automation:scheduled-refresh -- --reanalyze-through 2026-07-29
+          else
+            npm run automation:scheduled-refresh
+          fi
+
+      - name: Show archive refresh summary
+        if: always()
+        working-directory: tools
+        env:
+          AUTOMATION_SUMMARY_PATH: ${{ runner.temp }}/automation-summary.json
+        run: node tool/render_automation_summary.js "$AUTOMATION_SUMMARY_PATH" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Report archive refresh warnings
+        if: always()
+        working-directory: tools
+        env:
+          AUTOMATION_SUMMARY_PATH: ${{ runner.temp }}/automation-summary.json
+        run: node tool/render_automation_summary.js "$AUTOMATION_SUMMARY_PATH" --annotations
+
+      - name: Fail when archive refresh failed
+        if: steps.refresh-archive.outcome == 'failure'
+        run: exit 1
+
+      - name: Upload automation log
+        if: always()
+        working-directory: tools
+        run: node tool/upload_automation_log.js "$RUNNER_TEMP/automation.log"
+
+      - name: Create view push token
+        id: view-push-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ secrets.ARCHIVE_APP_CLIENT_ID }}
+          private-key: ${{ secrets.ARCHIVE_APP_PRIVATE_KEY }}
+          owner: zedboltic
+          repositories: yt-archives-view
+          permission-contents: write
+
+      - name: Commit generated view data
+        working-directory: view
+        env:
+          VIEW_PUSH_TOKEN: ${{ steps.view-push-token.outputs.token }}
+        run: |
+          if [ -z "$VIEW_PUSH_TOKEN" ]; then
+            echo "View push token was not created."
+            exit 1
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${VIEW_PUSH_TOKEN}@github.com/zedboltic/yt-archives-view.git"
+          if ! git ls-remote --exit-code origin HEAD > /dev/null; then
+            echo "View push token cannot access the target repository."
+            exit 1
+          fi
+
+          git add src/lib/generated/latest.json src/lib/generated/tag-directory.json
+          if git diff --cached --quiet; then
+            echo "No generated view data changes."
+            exit 0
+          fi
+          git commit -m "Update generated view data"
+          for attempt in 1 2 3; do
+            if git push origin HEAD:${{ github.event.repository.default_branch }}; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 3 ]; then
+              echo "View data push failed (attempt ${attempt}/3); retrying in 10 seconds."
+              sleep 10
+            fi
+          done
+          echo "View data push failed after 3 attempts."
+          exit 1
+
+      - name: Remove build environment
+        if: always()
+        run: rm -f tools/.env

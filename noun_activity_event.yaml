@@ -1,0 +1,715 @@
+﻿version: 1
+kind: 活動・イベント・企画
+comment: 
+  - 配信企画、イベント、コラボ、キャンペーン、ライブ、スポーツ大会、ゲーム大会、展示会、祭り、記念日など
+  - 期日を限定して開催されるもの
+entries:
+  - canonicalName: hololive SUPER EXPO 2025
+    aliases:
+      - ホロライブSUPER EXPO 2025 後夜祭
+  - canonicalName: AKUKIN建設本社建設リレー
+    aliases:
+      - AKUKIN本社建設リレー
+  - canonicalName: AZKi 1st Live The Shit Starts Here
+    aliases:
+      - AZKi 1st LIVE『The Shit』
+  - canonicalName: AZKi 4th Anniversary Live "Pages"
+    aliases:
+      - AZKi 4th Live
+  - canonicalName: AZKi 5th Anniversary Live "with U"
+    aliases:
+      - AZKi 5th Anniversary Live "with U -みんなと一緒にこれからも-"
+      - AZKi 5周年記念ライブ
+  - canonicalName: AZKi 5th LiVE [three for the hood]
+    aliases:
+      - AZKi 5th LIVE R.I.P AZHOOD
+  - canonicalName: Cosmic Wonderful Tour!
+    aliases:
+      - コズミック・ワンダフル・ツアー！
+  - canonicalName: DreamHack Japan
+    aliases:
+      - ドリームハック ジャパン
+  - canonicalName: HAACHAMACOOKING
+    aliases:
+      - はあちゃまクッキング
+  - canonicalName: hololive × HoneyWorks
+    aliases:
+      - ホロライブとHoneyWorks
+  - canonicalName: hololive 1st fes. 「non stop story」
+    aliases:
+      - hololive 1st fes.『ノンストップ・ストーリー』
+  - canonicalName: hololive 1st Generation Anniversary Parade -Celestial-
+    aliases:
+      - ホロライブ1期生 アニバーサリーパレード -Celestial-
+  - canonicalName: hololive 3rd fes.
+  - canonicalName: hololive 6th fes. Color Rise Harmony
+    aliases:
+      - hololive 6th fes. Color Rise Harmon
+  - canonicalName: hololive 7th fes.
+    aliases:
+      - hololive 7th fes. EXPO
+      - hololive 7th fes. Ridin' on Dreams
+      - hololive SUPER EXPO 2026 / 7th fes.
+  - canonicalName: hololive fes. EXPO 2026
+    aliases:
+      - hololive fes. EXPO 26
+  - canonicalName: hololive friends
+    aliases:
+      - ホロライブフレンズ
+  - canonicalName: hololive GAMERS Anniversary Parade
+    aliases:
+      - ホロライブゲーマーズ アニバーサリーパレード
+  - canonicalName: hololive Gamers Fes.
+    aliases:
+      - ホロライブゲーマーズフェス
+  - canonicalName: hololive official shop
+    aliases:
+      - ホロライブオフィシャルショップ
+  - canonicalName: hololive pixel art
+    aliases:
+      - ホロライブピクセルアート
+  - canonicalName: hololive production COUNTDOWN LIVE
+    aliases:
+      - ホロライブプロダクション カウントダウンライブ
+  - canonicalName: hololive Seasonal Days
+    aliases:
+      - ホロライブシーズナルデイズ
+  - canonicalName: hololive Station
+    aliases:
+      - ホロライブステーション
+  - canonicalName: hololive SUPER EXPO 2022
+    aliases:
+      - ホロライブ SUPER EXPO 2022
+  - canonicalName: hololive SUPER EXPO 2023
+    aliases:
+      - ホロライブSUPER EXPO 2023
+  - canonicalName: hololive SUPER EXPO 2024
+    aliases:
+      - ホロライブSUPER EXPO 2024
+  - canonicalName: hololive Xmas AR LIVE
+    aliases:
+      - ホロライブクリスマスARライブ
+  - canonicalName: hololive-Advent
+    aliases:
+      - ホロライブEnglish -Advent-
+  - canonicalName: hololiveCITY
+    aliases:
+      - ホロライブシティ
+  - canonicalName: hololivesummer2023
+    aliases:
+      - ホロライブサマー2023
+  - canonicalName: holoX MEETing
+    aliases:
+      - holoXミーティング
+  - canonicalName: Hoshimatic Project
+    aliases:
+      - ホシマティックプロジェクト
+  - canonicalName: Hyper Jumpin'
+    aliases:
+      - ハイパージャンピン
+  - canonicalName: Japan Expo 2024
+    aliases:
+      - ジャパンエキスポ2024
+  - canonicalName: KURO-OBI - VIRTUAL IDOL POWER 2021
+    aliases:
+      - クロオビ - VIRTUAL IDOL POWER 2021
+  - canonicalName: Lamy＊Love♡Fest☆
+    aliases:
+      - ラミィ＊Love♡Fest☆
+  - canonicalName: LEVEL5 VISION 2023 II
+    aliases:
+      - レベルファイブビジョン2023 II
+  - canonicalName: Live Again
+    aliases:
+      - リブアゲイン
+  - canonicalName: "Midnight Grand Orchestra 2nd LIVE「Project: Allegro」"
+    aliases:
+      - "Midnight Grand Orchestra Project: Allegro"
+  - canonicalName: Mori Calliope 2nd Concert "Grimoire"
+    aliases:
+      - 森カリオペ 2nd Concert "Grimoire"
+  - canonicalName: Nintendo Direct 2024.2.21
+    aliases:
+      - ニンテンドーダイレクト 2024.2.21
+  - canonicalName: Pokemon Presents
+    aliases:
+      - ポケモンプレゼンツ
+  - canonicalName: Pokémon Presents
+    aliases:
+      - Pokémon Presents 2026.2.27
+  - canonicalName: Riot Games ONE
+    aliases:
+      - ライアットゲームズ ワン
+  - canonicalName: Riot Games ONE 2024
+    aliases:
+      - ライアットゲームズ ワン 2024
+  - canonicalName: RTA in Japan
+    aliases:
+      - RTAインジャパン
+  - canonicalName: Sakura Miko 1st Live 「flower fantasista!」
+    aliases:
+      - さくらみこ 1st Live "flower fantasista!" / さくらみこ1st Live "flower fantasista!"
+      - さくらみこ1st Live "flower fantasista!"
+  - canonicalName: Sanrio Virtual Festival 2026
+    aliases:
+      - サンリオバーチャルフェス2026
+      - サンリオバーチャルフェスティバル2026
+  - canonicalName: Shadowverse World Grand Prix 2025
+    aliases:
+      - シャドウバース ワールドグランプリ2025
+  - canonicalName: ShirakamiFINE!!
+    aliases:
+      - 白上ファイン!!
+  - canonicalName: SORA-PARADE
+    aliases:
+      - ソラパレード
+  - canonicalName: STAGE:0
+    aliases:
+      - ステージゼロ
+  - canonicalName: Summer Game Fest 2025
+    aliases:
+      - サマーゲームフェスト2025
+  - canonicalName: V-carnival
+  - canonicalName: VAXEE x Shishiro Botan
+    aliases:
+      - VAXEE×獅白ぼたん
+      - VAXEE×獅白ぼたんコラボ
+      - VAXEEx獅白ぼたん
+      - VAXEEx獅白ぼたん コラボ製品
+  - canonicalName: アニメローサマーライブ
+  - canonicalName: おしゃべりフェス
+    aliases:
+      - おしゃフェス
+  - canonicalName: テレビ東京音楽祭
+    aliases:
+      - テレ東音楽祭
+  - canonicalName: ときそら 8th Anniversary Party「Starry Bl∞min’」
+    aliases:
+      - ときのおと (8th Anniversary Party Starry Bl∞min’)
+      - ときのそら 8th Anniversary Party「Starry Bl∞min’」
+      - ときのはら 8th Anniversary Party「Starry Bl∞min’」
+  - canonicalName: ねねいろ NOODLE らいぶ
+  - canonicalName: ねねねねねねねね！大爆走🍑
+    aliases:
+      - ねねねねねねねね！大爆走
+      - ねねねね大爆走
+  - canonicalName: パイパイ仮面でどうかしらん？
+    aliases:
+      - パイパイ仮面でどうかしら
+  - canonicalName: ヒロインオーディション/HeroineAudition
+    aliases:
+      - ヒロインオーディション
+  - canonicalName: ほろ〜かる京都篇
+  - canonicalName: ホロライブ 2nd fes. Beyond the Stage
+    aliases:
+      - ホロライブ 2ndフェス Beyond the Stage
+  - canonicalName: ホロライブ 6th fes
+    aliases:
+      - ホロライブ 6フェス
+  - canonicalName: ホロライブ×ドン・キホーテ コラボ
+    aliases:
+      - ホロライブ×ドン・キホーテ
+  - canonicalName: ホロライブ×ローソンコラボ
+    aliases:
+      - ホロライブ×ローソン
+  - canonicalName: ホロライブ3rdFES
+    aliases:
+      - ホロライブ3rdフェス
+  - canonicalName: ホロライブ3期生1stライブ「HOLOLIVE FANTASY 1st LIVE FAN FUN ISLAND」
+    aliases:
+      - ホロライブ3期生1stライブ
+  - canonicalName: ホロライブカウントダウンライブ2025→2026
+    aliases:
+      - ホロライブカウントダウンライブ2025▷2026
+  - canonicalName: ホロライブ焼き
+    aliases:
+      - ホロライブ焼
+  - canonicalName: ホロライブ新春ゲーム祭り
+    aliases:
+      - ホロライブ新春ゲーム祭
+  - canonicalName: ヨーコソ！Sweet Carnival！
+    aliases:
+      - ようこそスイートカーニバル
+  - canonicalName: リアニメーション13
+    aliases:
+      - リアニ13
+  - canonicalName: 異次元フェス アイドルマスター★♥ラブライブ！歌合戦
+    aliases:
+      - 異次元フェス アイドルマスター・ラブライブ！歌合戦
+  - canonicalName: 角巻わため 1st Live「わためぇ Night Fever!! in Zepp Tokyo」
+    aliases:
+      - 角巻わため 1st ソロライブ「わためぇ Night Fever!! in Zepp Tokyo」
+  - canonicalName: 獅白杯 スト６東西対抗戦
+    aliases:
+      - 獅白杯・東西対抗戦
+  - canonicalName: 紫咲シオン Magical Cafe
+    aliases:
+      - 紫咲シオン マジカルカフェ
+      - 紫咲シオンのMagical cafe
+  - canonicalName: 常闇トワ 1stソロライブ Break your ×××
+  - canonicalName: 星街すいせい 2nd solo LIVE「Shout in Crisis」
+    aliases:
+      - 星街すいせい 2ndソロライブ「Shout in Crisis」
+  - canonicalName: 赤井はあと爆誕祭2025
+    aliases:
+      - 赤井はあと爆弾祭2025
+  - canonicalName: 全人類 兎化計画！
+  - canonicalName: 大空スバル4周年記念ライブ
+    aliases:
+      - 大空スバル4周年ライブ
+  - canonicalName: 天音かなた 3周年記念3DLIVE「別世界」
+    aliases:
+      - 天音かなた 3周年記念3DLIVE
+      - 天音かなた 3周年記念3Dライブ
+  - canonicalName: 兎田ぺこら 1st兎田ぺこらいぶ「うさぎ the MEGAMI!!」
+    aliases:
+      - 兎田ぺこら 1stソロライブ「うさぎ the MEGAMI!!」
+      - 兎田ぺこら 1stライブ「うさぎ the MEGAMI!!」
+  - canonicalName: 日本画聖地巡礼2025展
+    aliases:
+      - 日本画聖地巡礼展
+  - canonicalName: 年末ジャンボ宝くじ
+    aliases:
+      - 年末ジャンボ
+  - canonicalName: 白上フブキ 1st LIVE FBKINGDOM “ANTHEM”
+    aliases:
+      - 白上フブキ 1stソロライブ FBKINGDOM “ANTHEM”
+  - canonicalName: 風真いろは生誕LIVE2025
+    aliases:
+      - 風真いろは生誕ライブ2025
+  - canonicalName: HOLOIDCUP2023
+    aliases:
+      - ホロお正月CUP2023
+  - canonicalName: 3Dお披露目
+    aliases:
+      - 3D配信
+      - 3D初披露
+  - canonicalName: メンバー限定配信
+    aliases:
+      - メンバー限定
+      - メン限
+      - めんげん
+      - メンバーシップ限定
+  - canonicalName: 案件
+    aliases:
+      - PR
+      - タイアップ
+  - canonicalName: 記念配信
+    aliases:
+      - 記念枠
+      - 耐久配信
+  - canonicalName: 生誕祭
+    aliases:
+      - 誕生日配信
+      - 誕生日記念
+  - canonicalName: RDY challenge!
+  - canonicalName: iO 獅白杯3rd Edition
+  - canonicalName: IGL MASTERS
+  - canonicalName: 有馬記念
+  - canonicalName: INDIE Live Expo
+    aliases:
+      - インディーライブエキスポ
+  - canonicalName: ヴァイスシュヴァルツ×ホロライブ
+  - canonicalName: ヴィクトリアマイル2024
+  - canonicalName: HP麻雀杯
+  - canonicalName: EVO
+  - canonicalName: Apex Legends Global Series
+    aliases:
+      - ALGS
+  - canonicalName: Apex Legends Global Series Year 3
+    aliases:
+      - ALGS Year 3
+  - canonicalName: Apex Legends Global Series Year 2
+    aliases:
+      - ALGS Year2
+  - canonicalName: Apex Legends Global Series Year 2 Playoffs
+    aliases:
+      - ALGS Year2 Playoffs
+  - canonicalName: NHKマイルカップ
+  - canonicalName: FFL SELeCT CUP
+  - canonicalName: えぺまつり
+  - canonicalName: m VTuber Poker Festival
+  - canonicalName: Mリーグ
+  - canonicalName: 桜花賞
+  - canonicalName: 大阪杯
+  - canonicalName: CAPCOM NEXT -SUMMER 2024-
+    aliases:
+      - CAPCOM NEXT 2024 SUMMER
+  - canonicalName: カプコンネクスト 2024 サマー
+  - canonicalName: 川崎記念
+  - canonicalName: 京都金杯
+  - canonicalName: グランツーリスモ ワールドシリーズ 2024
+  - canonicalName: Crazy Raccoon Cup
+    aliases:
+      - クレイジーラクーンカップ
+  - canonicalName: Crazy Raccoon Cup Street Fighter 6
+    aliases:
+      - クレイジーラクーンカップ ストリートファイター6
+  - canonicalName: 最勇記
+  - canonicalName: The Game Awards
+  - canonicalName: The Game Awards 2025
+  - canonicalName: 札幌記念
+  - canonicalName: CRカスタム
+  - canonicalName: CRカップ
+  - canonicalName: CR Streamer League
+  - canonicalName: 獅白杯
+  - canonicalName: 獅白杯3rd
+  - canonicalName: 獅白杯2nd
+  - canonicalName: 渋ハルカスタム
+  - canonicalName: スーパーマリオブラザーズ35周年
+  - canonicalName: SCARZCUP
+  - canonicalName: "ストリートファイターリーグ: Pro-JP 2024"
+    aliases:
+      - ストリートファイターリーグ2024
+  - canonicalName: スプリンターズステークス
+  - canonicalName: 関屋記念
+  - canonicalName: 第3回 Crazy Raccoon Cup Street Fighter 6
+  - canonicalName: 第3回ホロライブカップ
+  - canonicalName: 第13回TOPANGAチャリティーカップ
+  - canonicalName: 第2回獅白杯
+  - canonicalName: 第2回 全日本高校eスポーツ選手権
+  - canonicalName: 第4回ホロライブ麻雀杯
+  - canonicalName: TIE RECON CUP
+  - canonicalName: 高松宮記念
+  - canonicalName: 宝塚記念
+  - canonicalName: チャンピオンズカップ
+  - canonicalName: 中京記念
+  - canonicalName: DTTO. CUP
+  - canonicalName: D4DJ
+  - canonicalName: 東海ステークス
+  - canonicalName: 東京ゲームショウ
+  - canonicalName: 東京ゲームダンジョン6
+  - canonicalName: 東京大賞典
+  - canonicalName: Tokyo Online Party 2024
+  - canonicalName: Tokyo Online Party 2024 Spring 3on3
+  - canonicalName: ときのそら 6th Anniversary Party「Keep Shinin'」
+    aliases:
+      - ときのそら 6th Anniversary Party「Keep Shining」
+  - canonicalName: ドズル社ランド
+  - canonicalName: ドズル社ランド2025
+  - canonicalName: TOPANGAチャリティーカップ
+  - canonicalName: DREAM MATCH 雀魂 下剋上リーグ
+  - canonicalName: 中山金杯
+  - canonicalName: 日本ダービー
+  - canonicalName: 日本ダービー(東京優駿)
+  - canonicalName: Nintendo World Championships ファミコン世界大会
+  - canonicalName: VARKライブ
+  - canonicalName: 春のVTuber甲子園
+  - canonicalName: BitSummit
+    aliases:
+      - ビットサミット
+  - canonicalName: BitSummit外伝
+  - canonicalName: BitSummit the 13th
+  - canonicalName: VTuber最協決定戦
+    aliases:
+      - V最協
+      - V最協決定戦
+  - canonicalName: VTuber最協決定戦 S5
+    aliases:
+      - V最協決定戦S5
+  - canonicalName: VTuber甲子園
+  - canonicalName: VTuber甲子園2025
+  - canonicalName: VTuber最協決定戦S3
+  - canonicalName: VTuber最協決定戦 SEASON3
+  - canonicalName: VTuber最協決定戦S2
+  - canonicalName: VTuber最協決定戦 S4
+  - canonicalName: フェブラリーステークス
+    aliases:
+      - フェブラリーS
+  - canonicalName: ホープフルステークス
+  - canonicalName: ホロ運動会2020
+  - canonicalName: ホロオジ選手権
+  - canonicalName: ホロお正月CUP
+    aliases:
+      - ホロお正月カップ
+  - canonicalName: ホロお正月CUP2022
+  - canonicalName: ホロお正月CUP2024
+  - canonicalName: ホロ鯖サマーパーク
+  - canonicalName: ホロ新春ゲーム祭2026
+  - canonicalName: ホロ新春ゲーム祭り
+    aliases:
+      - ホロ新集ゲーム祭り
+  - canonicalName: ホロ謎ミュージアム
+  - canonicalName: ホロポケカップ
+  - canonicalName: ホロヨット大会
+  - canonicalName: ホロライブ運動会
+  - canonicalName: ホロライブお正月カップ2024
+  - canonicalName: ホロライブCUP
+    aliases:
+      - ホロライブカップ
+  - canonicalName: ホロライブゴールデンゲームウィーク
+  - canonicalName: ホロライブ正月カップ
+  - canonicalName: ホロライブ新春ゲーム大会
+  - canonicalName: ホロライブ大運動会2023
+  - canonicalName: hololive production ~6周年からの脱出~
+    aliases:
+      - ホロライブプロダクション6周年からの脱出
+  - canonicalName: Honda Racing eMS
+  - canonicalName: Honda Racing eMS 2025
+  - canonicalName: マイクラ肝試し
+  - canonicalName: マイクラ肝試し2025
+  - canonicalName: マイクラ肝試し2023
+  - canonicalName: マイクラ肝試し2024
+  - canonicalName: MIKU LAND
+    aliases:
+      - ミクランド
+  - canonicalName: 安田記念
+    aliases:
+      - 競馬/安田記念
+  - canonicalName: Rakuten esports cup
+    aliases:
+      - 楽天eスポーツカップ
+  - canonicalName: リアル脱出ゲーム
+  - canonicalName: Rainbow Six Japan League 2021
+  - canonicalName: Red Bull Kumite 2024
+  - canonicalName: Red Bull Kumite Paris
+  - canonicalName: Red Bull Home Ground 2024
+  - canonicalName: Red Bull LEGENDUS
+  - canonicalName: Red Bull LEGENDUS SF6 最強道場決定戦
+  - canonicalName: STAR WARS GALAXY in SHIBUYA
+    aliases:
+      - スター・ウォーズ ギャラクシー・イン・渋谷
+  - canonicalName: thek4sen
+  - canonicalName: 雑ホロ杯
+  - canonicalName: 渋谷ハルカスタム
+  - canonicalName: State of Play
+  - canonicalName: VCR
+  - canonicalName: VCR ARK
+  - canonicalName: VCRGTA
+  - canonicalName: VCRGTA2
+  - canonicalName: VCRGTA3
+  - canonicalName: VCR Minecraft
+    aliases:
+      - VCRマイクラ
+  - canonicalName: VCR RUST
+  - canonicalName: VCR RUSTⅡ
+  - canonicalName: VCC
+  - canonicalName: VCC PUBG
+  - canonicalName: ホロGTA
+    aliases:
+      - ホロライブGTA
+      - hololive GTA
+      - holoGTA
+      - ホロサントスGTA
+      - ホロライブ・グラセフ
+  - canonicalName: ホロRUST
+    aliases:
+      - ホロ鯖RUST
+      - holoRUST
+  - canonicalName: アーク(VCR ARK)
+  - canonicalName: ホロARK
+    aliases:
+      - ホロライブ・アーク
+  - canonicalName: ホロ金策サバイバル
+  - canonicalName: ホロ金策サバイバル2
+    aliases:
+      - ホロライブ金策サバイバル2
+  - canonicalName: ホロ鯖ハードコアマイクラ
+  - canonicalName: ホロGGW
+  - canonicalName: ホロ7DTD
+  - canonicalName: ホロ釣り
+  - canonicalName: ホロドラゴンマイクラ
+  - canonicalName: ホロドロケイ
+  - canonicalName: ホロドロケイ2024
+  - canonicalName: ホロナツパラダイス
+    aliases:
+      - holonatsuParadise
+  - canonicalName: ホロマイクラ
+  - canonicalName: ホロマイクラ人狼RPG
+  - canonicalName: ホロライブ甲子園
+  - canonicalName: ホロライブ甲子園2025
+  - canonicalName: ホロライブサンタバトル
+  - canonicalName: ホロライブ人狼RPG
+  - canonicalName: ホロライブファンタジーバトル
+  - canonicalName: マイクラバーサス
+    aliases:
+      - マイクラバーサス ~ バトル・オブ・ファーマーズ
+  - canonicalName: MadTown GTA
+    aliases:
+      - MAD TOWN
+  - canonicalName: 雪山ホロ人狼
+  - canonicalName: ホロ五目並べ
+  - canonicalName: Apex Legends Global Series
+    aliases:
+      - Apex Legends Global Series (ALGS)
+      - エーペックスレジェンズ グローバルシリーズ
+      - エーペックスレジェンズ グローバルシリーズ（ALGS）
+  - canonicalName: Astonishingly KAEOTIC! Minecraft Event MOD
+  - canonicalName: ホロテラリア
+  - canonicalName: ホロに恋する
+  - canonicalName: ホロに恋する For Girls
+  - canonicalName: ホロに恋する2
+  - canonicalName: ホロだぁれ
+  - canonicalName: ホロのすごろく
+  - canonicalName: ホロワードウルフ
+  - canonicalName: 戌神ころね恋愛シミュレーションゲーム
+  - canonicalName: 蟷螂村
+  - canonicalName: GTA NEWTOWN
+    aliases:
+      - GTA5│NEW TOWN
+      - NEWTOWNGTA
+  - canonicalName: MIMESISコラボ
+    aliases: []
+  - canonicalName: VTuber最弱マリパ決定戦
+    aliases:
+      - V最弱マリパ決定戦
+      - V最弱マリパ決戦
+  - canonicalName: ストリートファイター6 ホロライブコラボ
+    aliases:
+      - ストリートファイター6×ホロライブコラボ
+      - STREET FIGHTER 6×hololive キャンペーン
+  - canonicalName: にじホロスレスパ
+    aliases:
+      - NijiHoloSlaySpa
+  - canonicalName: はじまりの王者決定戦 ホロライブ杯
+    aliases:
+      - ポケチャンホロライブ杯
+      - Pokémon Champions ホロライブ杯
+      - ホロライブ杯
+  - canonicalName: ポップン3D実機プレイ/後夜祭
+    aliases:
+      - Pop'n Music 3D Live Gameplay/After-Party
+  - canonicalName: ホロコンパニオンズ
+    aliases:
+      - ホロCursed Companions
+  - canonicalName: ホロのエアライダー
+    aliases:
+      - HoloAirRider
+  - canonicalName: ホロ夏AmongUs
+    aliases:
+      - ホロ夏Among
+  - canonicalName: 無礼講アモアス
+    aliases:
+      - 無礼講Among us
+  - canonicalName: 鳴潮2周年
+    aliases:
+      - 鳴潮二周年
+  - canonicalName: 遊戯王マスターデュエルパーク
+    aliases: []
+  - canonicalName: hololive DEV_IS NEW WAVE POP UP STORE in OIOI
+    aliases:
+      - ホロライブデバイス ポップアップストア
+  - canonicalName: 2026 ワールド・ベースボール・クラシック
+    aliases:
+      - WBC2026
+      - 2026 World Baseball Classic
+  - canonicalName: オークス
+    aliases:
+      - 競馬/オークス
+      - 優駿牝馬
+  - canonicalName: ドバイワールドカップ
+    aliases:
+      - ドバイWC
+      - ドバイワールドC
+      - Dubai World Cup
+  - canonicalName: ドバイシーマクラシック
+    aliases:
+      - Dubai Sheema Classic
+  - canonicalName: 皐月賞
+    aliases:
+      - 競馬/皐月賞
+  - canonicalName: 小倉記念
+    aliases:
+      - 競馬/小倉記念
+  - canonicalName: 中山記念
+    aliases:
+      - 競馬/中山記念
+  - canonicalName: 100年桃鉄ハンデ戦
+    aliases:
+      - こより100年桃鉄ハンデ戦
+  - canonicalName: AZKi's LOCATION!
+    aliases:
+      - AZロケ
+  - canonicalName: Sakura Miko 2nd Live “Blooming Parade!!”
+    aliases:
+      - Blooming Parade!!
+      - さくらみこ 2ndライブ
+  - canonicalName: Custom Rule Cup
+    aliases:
+      - シャドバ Custom Rule Cup
+  - canonicalName: DEV_IS正月リレー
+    aliases:
+      - hololive DEV_IS 正月衣装お披露目リレー
+  - canonicalName: hololive 5th Generation Live “Twinkle 4 You”
+    aliases:
+      - T4U
+  - canonicalName: 大神ミオ 1st Live.「Our Sparkle」
+    aliases:
+      - Our Sparkle
+  - canonicalName: PUBG MOBILE×兎田ぺこらコラボ
+    aliases:
+      - PUBGぺコラボ
+      - PUBGモバイル×兎田ぺこらコラボ
+  - canonicalName: U-NEXTプレミアリーグ ウォッチパーティー
+    aliases:
+      - プレミアリーグ ウォッチパーティー
+  - canonicalName: アニソンNightFever2
+    aliases:
+      - アニソンナイトフィーバー2
+  - canonicalName: ときのそら生放送
+    aliases: []
+  - canonicalName: ぺこらいぶ
+    aliases: []
+  - canonicalName: ぺこらマミー新衣装
+    aliases:
+      - ぺこらマミー新衣装お披露目
+  - canonicalName: ポルカ公演中
+    aliases: []
+  - canonicalName: hololive SUPER EXPO
+    aliases:
+      - ホロライブ EXPO
+      - ホロライブSUPER EXPO
+      - ホロライブスーパーエキスポ
+      - ホロライブエキスポフェス
+      - ホロライブエキスポ&フェス
+      - ホロライブエキスポ
+  - canonicalName: ホロライブ 的中チャレンジバトル
+    aliases:
+      - ホロ的中バトル
+  - canonicalName: ホロライブ・サマー
+    aliases:
+      - hololive Summer
+  - canonicalName: "hololive 3rd Generation Live #きゅるるん大作戦 〜最強アイドル、推すしかないでしょ〜"
+    aliases:
+      - ホロライブサードジェネレーションライブ
+      - ホロライブ3期生ライブ
+      - "#きゅるるん大作戦"
+  - canonicalName: ホロライブスタディツアー
+    aliases:
+      - ホロライブスタディツアーin九州
+  - canonicalName: hololive Splash T-Party!
+    aliases:
+      - ホロライブスパイスTパーティー
+  - canonicalName: ホロライブマインクラフト
+    aliases:
+      - ホロライブ マイクラ
+    hypernyms:
+      - Minecraft
+  - canonicalName: ホロライブ歌うま大賞
+    aliases:
+      - ホロライブ歌う大将
+  - canonicalName: ホロライブ分かり手クイズ
+    aliases:
+      - ホロライブわかり手クイズ
+  - canonicalName: みこにゅーす
+    aliases:
+      - 週末みこにゅーす
+  - canonicalName: みこに勝たないと出られない部屋
+    aliases:
+      - みこに勝たないと出れない部屋
+  - canonicalName: メンバー限定同時視聴
+    aliases:
+      - メン限同時視聴
+  - canonicalName: ゆいそら質問会
+    aliases:
+      - "#ゆいそらへ質問会"
+  - canonicalName: ロボ子さん 活動8周年記念
+    aliases:
+      - ロボ子さん 活動8周年記念グッズ
+  - canonicalName: 角巻わため 2nd Live「わためぇ Night Fever!! in TOKYO GARDEN THEATER」
+    aliases:
+      - わためセカンドライブ
+  - canonicalName: WBC
+    aliases:
+      - ワールド・ベースボール・クラシック
+      - World Baseball Classic

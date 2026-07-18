@@ -1,0 +1,280 @@
+﻿version: 1
+kind: 用語・概念・その他
+comment:
+  - 用語、概念、その他の既存分類項目に該当しない名詞など
+  - 上位語は登録しない
+entries:
+  - canonicalName: ホロメン
+    aliases:
+      - ホロライブメンバー
+  - canonicalName: 35P
+    aliases:
+      - みこぴー
+  - canonicalName: SSRB
+    aliases:
+      - ししろぼ
+  - canonicalName: vivid
+    aliases:
+      - ビビッド
+      - ヴィヴィッド
+  - canonicalName: あくあクルー
+    aliases:
+      - クルー
+  - canonicalName: エルフレンド
+    aliases:
+      - エルフレ
+  - canonicalName: おにぎりゃー
+  - canonicalName: かざま隊
+    aliases:
+      - かざまたい
+  - canonicalName: こよりの助手くん
+    aliases:
+      - こよりのじょしゅくん
+      - 助手くん
+  - canonicalName: ころねすきー
+  - canonicalName: すうりす
+  - canonicalName: すこん部
+    aliases:
+      - すこんぶ
+      - ふれんず
+  - canonicalName: スバ友
+    aliases:
+      - アヒージョ
+  - canonicalName: そらとも
+  - canonicalName: ちはニック
+  - canonicalName: ちょこめいと
+  - canonicalName: でん同士
+    aliases:
+      - でんどうし
+  - canonicalName: ニコ担
+    aliases:
+      - にこたん
+  - canonicalName: ねっ子
+    aliases:
+      - ねっこ
+  - canonicalName: はあとん
+  - canonicalName: ぷらすめいと
+  - canonicalName: へい民
+    aliases:
+      - へいみん
+  - canonicalName: まつりす
+    aliases:
+      - まちゅこーん
+  - canonicalName: みおーんファミリー
+    aliases:
+      - ミオファ
+  - canonicalName: ルイ友
+    aliases:
+      - るいとも
+  - canonicalName: ルーナイト
+  - canonicalName: ロゼ隊
+    aliases:
+      - ろぜたい
+  - canonicalName: ろぼさー
+  - canonicalName: わためいと
+  - canonicalName: 塩っ子
+    aliases:
+      - しおっこ
+  - canonicalName: 音の勢
+    aliases:
+      - おとのぜい
+      - おまえら
+  - canonicalName: 開拓者
+    aliases:
+      - かいたくしゃ
+  - canonicalName: 響咲連合
+    aliases:
+      - いさきれんごう
+  - canonicalName: 桐生会
+    aliases:
+      - きりゅうかい
+  - canonicalName: 座員
+    aliases:
+      - ざいん
+  - canonicalName: 飼育員
+    aliases:
+      - しいくいん
+  - canonicalName: 常闇眷属
+    aliases:
+      - とこやみけんぞく
+      - 眷属
+      - けんぞく
+  - canonicalName: 真っす組
+    aliases:
+      - まっすぐみ
+  - canonicalName: 星詠み
+    aliases:
+      - ほしよみ
+  - canonicalName: 雪民
+    aliases:
+      - ゆきみん
+  - canonicalName: 読者
+    aliases:
+      - どくしゃ
+      - 火女
+      - 火男
+      - ひおんな
+      - ひおとこ
+  - canonicalName: 白銀聖騎士団
+    aliases:
+      - しろがねきしだん
+      - 騎士団
+      - きしだん
+  - canonicalName: 秘書見習い
+    aliases:
+      - ひしょみならい
+  - canonicalName: 百鬼組
+    aliases:
+      - なきりぐみ
+  - canonicalName: 宝鐘の一味
+    aliases:
+      - ほうしょうのいちみ
+      - 一味
+      - いちみ
+  - canonicalName: 野うさぎ同盟
+    aliases:
+      - のうさぎどうめい
+      - 野うさぎ
+  - canonicalName: FLOW GLOW
+    aliases:
+      - フロウグロウ
+      - フログロ
+  - canonicalName: hololive DEV_IS
+    aliases:
+      - ホロライブデバイス
+      - DEV_IS
+      - デバイス
+  - canonicalName: 休止
+    aliases:
+      - 活動休止
+  - canonicalName: 卒業
+    aliases:
+      - 活動終了
+      - 配信活動終了
+  - canonicalName: IQテスト(アプリ・Web)
+  - canonicalName: 以心伝心
+  - canonicalName: インディーゲーム
+  - canonicalName: エアホッケー
+  - canonicalName: 英語検定
+  - canonicalName: AI
+  - canonicalName: AI10
+  - canonicalName: Escalator
+    aliases:
+      - エスカレーター
+  - canonicalName: FPS
+  - canonicalName: おうち3D
+  - canonicalName: オートレース
+  - canonicalName: 音ゲー
+  - canonicalName: 乙女ゲーム
+  - canonicalName: 株式会社TT
+    aliases:
+      - 株式会社TTのゲーム
+  - canonicalName: 枯山水
+  - canonicalName: 餓狼伝説
+  - canonicalName: 鬼滅の刃
+  - canonicalName: 狂気の山脈
+  - canonicalName: くろまめ様制作のフリーゲーム
+  - canonicalName: 競馬
+  - canonicalName: 競輪
+  - canonicalName: サーモンラン
+  - canonicalName: GeckoLib
+  - canonicalName: 自殺
+  - canonicalName: 進撃の巨人
+  - canonicalName: シンデレラSWITCH
+    aliases:
+      - シンデレラスイッチ
+  - canonicalName: Steampunk
+    aliases:
+      - スチームパンク
+  - canonicalName: スペル唱える
+  - canonicalName: すみっコぐらし
+  - canonicalName: ダービー
+  - canonicalName: タロットカード
+  - canonicalName: チェス
+  - canonicalName: TRPG
+  - canonicalName: 丁字路
+  - canonicalName: デジタルモンスター
+  - canonicalName: デジモン
+  - canonicalName: テニスの王子様
+  - canonicalName: トイレの花子さん
+  - canonicalName: 東方Project
+    aliases:
+      - 東方プロジェクト
+  - canonicalName: ドラゴンボール
+  - canonicalName: トランプ
+  - canonicalName: 日本地図
+  - canonicalName: 日本地理
+  - canonicalName: 任天堂著作物
+  - canonicalName: 任天堂のゲーム
+  - canonicalName: 猫又おかゆのゲーム
+  - canonicalName: ハードコアマイクラ
+  - canonicalName: VRホラーゲーム
+    aliases:
+      - VRホラー
+  - canonicalName: 不審者情報
+  - canonicalName: 不審者情報通報システム
+  - canonicalName: 不審者通報
+  - canonicalName: ホグワーツ
+  - canonicalName: 麻雀
+  - canonicalName: マーダーミステリー
+  - canonicalName: マルバツクイズ
+  - canonicalName: Mini Tokyo 3D
+    aliases:
+      - ミニ東京3D
+  - canonicalName: 遊☆戯☆王
+    aliases:
+      - 遊戯王
+  - canonicalName: ヨット
+  - canonicalName: リズムゲーム
+    aliases:
+      - リズムゲー
+  - canonicalName: 利用規約
+  - canonicalName: ロイヤルフラッシュ
+  - canonicalName: 箱企画
+    aliases:
+      - 全体企画
+  - canonicalName: 兎田ぺこらサーバー
+  - canonicalName: ホロライブサーバー
+  - canonicalName: ホロライブMinecraftサーバー
+  - canonicalName: 代替現実ゲーム
+    aliases:
+      - ARG
+      - Alternate Reality Game
+  - canonicalName: 3D
+    aliases: []
+  - canonicalName: 3Dライブ
+    aliases:
+      - 3D LIVE
+  - canonicalName: ミュージックビデオ
+    aliases:
+      - MV
+      - Music Video
+  - canonicalName: VTuber
+    aliases:
+      - バーチャルYouTuber
+      - Virtual YouTuber
+  - canonicalName: W杯同時視聴
+    aliases:
+      - ワールドカップ同時視聴
+  - canonicalName: スパチャ読み
+    aliases:
+      - スーパーチャット読み上げ
+      - SuperChatReading
+  - canonicalName: Super Chat
+    aliases:
+      - スーパーチャット
+      - スパチャ
+  - canonicalName: ボカロ曲
+    aliases:
+      - ボーカロイド曲
+  - canonicalName: ホロライブソング
+    aliases:
+      - ホロライブ楽曲
+  - canonicalName: ミラー配信
+    aliases:
+      - 同時視聴
+      - コ・ストリーミング
+      - Co-streaming
+  - canonicalName: コラボ
+    aliases:
+      - コラボレーション

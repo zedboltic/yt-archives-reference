@@ -1,0 +1,889 @@
+﻿version: 1
+kind: タレント
+comment:
+  - VTuber, ストリーマー、実況配信者に限定する
+  - その他の人物・キャラクターなどは人物・キャラクターに登録する
+  - 上位語は登録しない
+entries:
+  - canonicalName: 七詩ムメイ
+    aliases:
+      - mumei
+      - ななしむめい
+      - ムメイ
+      - Nanashi Mumei
+  - canonicalName: AZKi
+    aliases:
+      - あずき
+      - AZKiちゃん
+      - あずきち
+  - canonicalName: IRyS
+    aliases:
+      - アイリス
+  - canonicalName: アーニャ・メルフィッサ
+    aliases:
+      - アーニャ
+      - Anya Melfissa
+      - アイラ・メルフィッサ
+  - canonicalName: アイラニ・イオフィフティーン
+    aliases:
+      - Airani Iofifteen
+      - イオフィ
+  - canonicalName: アキ・ローゼンタール
+    aliases:
+      - アキロゼ
+      - アキちゃん
+      - 秋・ローゼンタール
+  - canonicalName: アユンダ・リス
+    aliases:
+      - Ayunda Risu
+      - リス
+  - canonicalName: エリザベス・ローズ・ブラッドフレイム
+    aliases:
+      - エリザベス
+      - Elizabeth Rose Bloodfream
+      - Elizabeth Rose Bloodflame
+  - canonicalName: オーロ・クロニー
+    aliases:
+      - クロニー
+      - Ouro Crony
+  - canonicalName: がうる・ぐら
+    aliases:
+      - ぐら
+      - Gawr Gura
+  - canonicalName: カエラ・コヴァルスキア
+    aliases:
+      - カエラ
+      - カエラ神
+      - Kaela Kovalskia
+  - canonicalName: クレイジ・オリー
+    aliases:
+      - オリー
+      - Crazy Olie
+      - Kureiji Ollie
+  - canonicalName: こぼ・かなえる
+    aliases:
+      - こぼ
+      - Kobo Kanaeru
+  - canonicalName: さくらみこ
+    aliases:
+      - みこち
+      - みこ
+      - ホロライブ/さくらみこ
+  - canonicalName: シオリ・ノヴェラ
+    aliases:
+      - シオリ
+      - Shiori Novella
+  - canonicalName: ジジ・ムリン
+    aliases:
+      - ジジ
+      - Gigi Mulin
+      - Gigi Murin
+  - canonicalName: セシリア・イマーグリーン
+    aliases:
+      - セシリア
+      - セシ
+      - Cecilia Imargreen
+      - Cecilia Immergreen
+  - canonicalName: セレス・ファウナ
+    aliases:
+      - ファウナ
+      - Ceres Fauna
+  - canonicalName: ときのそら
+    aliases:
+      - そらちゃん
+      - そら先輩
+      - 時のそら
+      - 時の空
+      - ときめそら
+      - ときのはそら
+  - canonicalName: ネリッサ・レイヴンクロフト
+    aliases:
+      - ネリッサ
+      - nerissa Ravenclaw
+  - canonicalName: パヴォリア・レイネ
+    aliases:
+      - レイネ
+      - Reine Pavolia
+      - Pavolia Reine
+  - canonicalName: ハコス・ベールズ
+    aliases:
+      - ハコス
+      - ハコ太郎
+      - Hakos Baelz
+  - canonicalName: フワワ・アビスガード
+    aliases:
+      - フワワ
+      - Fwawa Abyssgard
+      - Fuwawa Abyssgard
+  - canonicalName: ベスティア・ゼータ
+    aliases:
+      - ゼータ
+      - Vestia Zeta
+  - canonicalName: ムーナ・ホシノヴァ
+    aliases:
+      - Moona Hoshinova
+      - ムーナ
+  - canonicalName: モココ・アビスガード
+    aliases:
+      - モココ
+      - Mococo Abyssgard
+  - canonicalName: ラオーラ・パンテーラ
+    aliases:
+      - ラオーラ
+      - Raora Pantera
+  - canonicalName: ラプラス・ダークネス
+    aliases:
+      - ラプラス
+      - ラプ様
+      - ラプちゃん
+  - canonicalName: ロボ子さん
+    aliases:
+      - ろぼこさん
+      - ロボ子
+  - canonicalName: ワトソン・アメリア
+    aliases:
+      - アメリア
+      - アメ
+      - Watson Amelia
+  - canonicalName: 一伊那尓栖
+    aliases:
+      - にのまえいなにす
+      - イナニス
+      - イナ
+      - Ninashi Inanis
+      - Ninomae Ina'nis
+  - canonicalName: 一条莉々華
+    aliases:
+      - いちじょうりりか
+      - 莉々華
+      - りりか
+      - 社長
+      - 一一条莉々華
+  - canonicalName: 音乃瀬奏
+    aliases:
+      - おとのせかなで
+      - 奏
+      - かなで
+  - canonicalName: 夏色まつり
+    aliases:
+      - なついろまつり
+      - まつり
+      - まつりちゃん
+      - まちゅ
+      - 夏色祭り
+      - ホロライブ/夏色まつり
+  - canonicalName: 火威青
+    aliases:
+      - ひおどしあお
+      - 青くん
+      - 青君
+      - あおくゆ
+      - かめくゆ
+      - HiodoshiAo
+  - canonicalName: 角巻わため
+    aliases:
+      - つのまきわため
+      - わため
+      - わためぇ
+  - canonicalName: 響咲リオナ
+    aliases:
+      - いさきりおな
+      - リオナ
+      - ホロライブ DEV_IS 響咲リオナ
+      - Isaki Riona
+  - canonicalName: 桐生ココ
+    aliases:
+      - きりゅうここ
+      - ココ
+      - 会長
+      - ココ会長
+  - canonicalName: 九十九佐命
+    aliases:
+      - つくもさな
+      - さな
+  - canonicalName: 古石・ビジュー
+    aliases:
+      - こせきびじゅー
+      - ビジュー
+      - ビブ
+      - Koséki Bijou
+  - canonicalName: 虎金妃笑虎
+    aliases:
+      - こがねいにこ
+      - 笑虎
+      - にこ
+  - canonicalName: 轟はじめ
+    aliases:
+      - とどろきはじめ
+      - はじめ
+      - 番長
+      - ばんちょー
+      - はじぇ
+  - canonicalName: 沙花叉クロヱ
+    aliases:
+      - さかまたくろえ
+      - クロヱ
+      - クロエ
+      - 沙花叉
+  - canonicalName: 獅白ぼたん
+    aliases:
+      - ししろぼたん
+      - ぼたん
+      - ししろん
+      - ぼっさん
+  - canonicalName: 紫咲シオン
+    aliases:
+      - しさきしおん
+      - シオン
+  - canonicalName: 儒烏風亭らでん
+    aliases:
+      - じゅんぷうていらでん
+      - らでん
+  - canonicalName: 春先のどか
+    aliases:
+      - 春崎のどか
+      - 春先どどか
+  - canonicalName: 小鳥遊キアラ
+    aliases:
+      - たかなしきあら
+      - キアラ
+      - キワワ
+      - Takanashi Kiara
+  - canonicalName: 常闇トワ
+    aliases:
+      - とこやみとわ
+      - トワ
+      - トワ様
+  - canonicalName: 森カリオペ
+    aliases:
+      - もりかりおぺ
+      - カリオペ
+      - カリ
+      - Calliope Mori
+      - Mori Calliope
+  - canonicalName: 水宮枢
+    aliases:
+      - みずみやすう
+      - 枢
+      - すう
+      - 水宮すう
+      - すー
+      - すーちゃん
+  - canonicalName: 星街すいせい
+    aliases:
+      - ほしまちすいせい
+      - すいちゃん
+      - すいせい
+      - 星街
+  - canonicalName: 赤井はあと
+    aliases:
+      - あかいはあと
+      - はあと
+      - はあちゃま
+      - ちゃま
+  - canonicalName: 雪花ラミィ
+    aliases:
+      - ゆきはならみい
+      - ラミィ
+      - ラミィちゃん
+  - canonicalName: 大空スバル
+    aliases:
+      - おおぞらすばる
+      - スバル
+      - スバちゃん
+      - ホロライブ/大空スバル
+  - canonicalName: 大神ミオ
+    aliases:
+      - おおがみみお
+      - ミオ
+      - ミオしゃ
+  - canonicalName: 鷹嶺ルイ
+    aliases:
+      - たかねるい
+      - ルイ
+      - ルイ姉
+  - canonicalName: 天音かなた
+    aliases:
+      - あまねかなた
+      - かなた
+      - かなたそ
+  - canonicalName: 兎田ぺこら
+    aliases:
+      - うさだぺこら
+      - ぺこら
+      - ぺこちゃん
+      - 兔田ぺこら
+  - canonicalName: 桃鈴ねね
+    aliases:
+      - ももすずねね
+      - ねね
+      - ねねち
+      - 桃園ねね
+  - canonicalName: 猫又おかゆ
+    aliases:
+      - ねこまたおかゆ
+      - おかゆ
+      - おかゆん
+  - canonicalName: 博衣こより
+    aliases:
+      - はくいこより
+      - こより
+      - こよ
+      - ずぬー
+      - 白衣こより
+  - canonicalName: 白銀ノエル
+    aliases:
+      - しろがねのえる
+      - ノエル
+      - 団長
+      - 白金ノエル
+  - canonicalName: 白上フブキ
+    aliases:
+      - しらかみふぶき
+      - フブキ
+      - フブさん
+      - FBK
+      - 白神フブキ
+      - 不知火フブキ
+      - ホロライブ/白上フブキ
+      - 白上フブキ/ホロライブ
+  - canonicalName: 尾丸ポルカ
+    aliases:
+      - おまるぽるか
+      - ポルカ
+      - ポルポル
+      - ぽうぽう
+  - canonicalName: 姫森ルーナ
+    aliases:
+      - ひめもりるーな
+      - ルーナ
+      - ルーナ姫
+  - canonicalName: 百鬼あやめ
+    aliases:
+      - なきりあやめ
+      - あやめ
+      - お嬢
+  - canonicalName: 不知火フレア
+    aliases:
+      - しらぬいふれあ
+      - フレア
+  - canonicalName: 風真いろは
+    aliases:
+      - かざまいろは
+      - いろは
+      - いろは殿
+      - ござる
+      - 風間いろは
+  - canonicalName: 宝鐘マリン
+    aliases:
+      - ほうしょうまりん
+      - マリン
+      - 船長
+      - ホロライブ/宝鐘マリン
+  - canonicalName: 湊あくあ
+    aliases:
+      - みなとあくあ
+      - あくあ
+      - あくたん
+  - canonicalName: 癒月ちょこ
+    aliases:
+      - ゆづきちょこ
+      - ちょこ先生
+      - ちょこ先
+      - ちょこ
+  - canonicalName: 輪堂千速
+    aliases:
+      - りんどうちはや
+      - 千速
+      - ちは
+      - ちはや
+      - 輪堂千早
+  - canonicalName: 戌神ころね
+    aliases:
+      - いぬがみころね
+      - ころね
+      - ころさん
+      - 犬神ころね
+  - canonicalName: 綺々羅々ヴィヴィ
+    aliases:
+      - ききららびび
+      - ヴィヴィ
+      - vivi
+  - canonicalName: A_S_Syndrome
+    aliases:
+      - Abyss Song Syndrome
+  - canonicalName: アルランディス
+    aliases:
+      - Arurandeisu
+  - canonicalName: アクセル・シリオス
+    aliases:
+      - Axel Syrios
+  - canonicalName: ヌンボラ
+    aliases:
+      - Bora Nun
+      - Bora
+      - ボラ
+  - canonicalName: CR Cpt
+    aliases:
+      - cpt
+  - canonicalName: でびでびでびる
+    aliases:
+      - Debidebi Debiru
+  - canonicalName: DTTO.
+    aliases:
+      - だっと
+      - dtttodot
+  - canonicalName: エクス・アルビオ
+    aliases:
+      - Ex Albio
+  - canonicalName: Francisco
+    aliases:
+      - Francisco_T
+      - ふらんしすこ
+  - canonicalName: フワモコ
+    aliases:
+      - FUWAMOCO
+  - canonicalName: 葉加瀬冬雪
+    aliases:
+      - Hakase Fuyuki
+  - canonicalName: HaseShin
+    aliases:
+      - HasuShin
+      - はせしん
+  - canonicalName: 樋口楓
+    aliases:
+      - HiguchiKaede
+      - ひぐち村長
+      - 樋口
+      - ひぐち
+  - canonicalName: はやまりん
+  - canonicalName: K4SEN
+    aliases:
+      - けんせん
+  - canonicalName: カワセ
+    aliases:
+      - kawase
+  - canonicalName: きなこ
+    aliases:
+      - Kinako
+  - canonicalName: 心白てと
+    aliases:
+      - Kohaku Teto
+      - こはくてときゅー
+      - Syusetu Kohaku
+      - こはーく
+      - 琥白
+      - こはくちゃん
+      - 拾雪琥白
+      - あきゆきこはく
+      - 秋雪こはく
+      - しゅうせつこはく
+  - canonicalName: 昏昏アリア
+    aliases:
+      - KonkonAria
+      - コンコンアリア
+  - canonicalName: レイン・パターソン
+    aliases:
+      - Lain Paterson
+  - canonicalName: リモーネ先生
+    aliases:
+      - limone_teacher
+  - canonicalName: まいたけ
+    aliases:
+      - maitake
+  - canonicalName: Middleee
+    aliases:
+      - Middleeetv
+      - ドリさん
+      - ドリ
+  - canonicalName: 光葉エニ
+    aliases:
+      - Mitsuba_Eni
+      - 蜜葉えに
+      - 三つ葉えに
+  - canonicalName: Mondo
+  - canonicalName: MOTHER3rd
+    aliases:
+      - MOTHER3
+      - RC MOTHER3
+      - まざー3
+  - canonicalName: Mukai
+    aliases:
+      - Mukai_fps
+      - むかい
+  - canonicalName: Murakumo Kagetsu
+  - canonicalName: なちょねこ
+    aliases:
+      - Nachoneko
+      - なちょ
+  - canonicalName: 猫宮ひなた
+    aliases:
+      - NekomiyaHinata
+  - canonicalName: なるせ
+    aliases:
+      - nqrse
+  - canonicalName: Ran Hinokuma
+  - canonicalName: らっだぁ
+    aliases:
+      - rassya
+      - ラッシャー
+  - canonicalName: ラトナ・プティ
+    aliases:
+      - Ratna Petit
+  - canonicalName: RC あきら
+    aliases:
+      - あきら
+  - canonicalName: Reimu Endou
+  - canonicalName: RiskivzyAt'z
+  - canonicalName: 緑仙
+    aliases:
+      - Ryushen
+  - canonicalName: ササモ
+    aliases:
+      - sasamo
+  - canonicalName: セリー
+    aliases:
+      - Selly
+  - canonicalName: 司賀りこ
+    aliases:
+      - ShigaRiko
+      - 志賀理子
+  - canonicalName: SPYGEA
+  - canonicalName: SqLA
+  - canonicalName: するがモンキー
+    aliases:
+      - SurugaMonkey
+  - canonicalName: tamatsuki
+    aliases:
+      - tamatsuki_YHch
+  - canonicalName: Umi
+    aliases:
+      - TIE Umi
+  - canonicalName: ととみっくす
+    aliases:
+      - tototmix
+  - canonicalName: URS-No.1005
+    aliases:
+      - URS
+      - あーるゆーえすのーてんぜろぜろご
+  - canonicalName: うるか
+    aliases:
+      - Uruca
+      - CR うるか
+  - canonicalName: 一ノ瀬うるは
+    aliases:
+      - Uruha Ichinose
+  - canonicalName: 歌衣メイカ
+    aliases:
+      - UTAIMEIKA
+  - canonicalName: VanilLa
+    aliases:
+      - VaniILa
+      - CR VanilLa
+  - canonicalName: わきを
+    aliases:
+      - wakiwo_
+  - canonicalName: XQQ
+    aliases:
+      - えっくすきゅーきゅー
+  - canonicalName: Aira
+    aliases:
+      - アイラ
+  - canonicalName: アステル・レダ
+    aliases:
+      - アステル
+      - AstelLeda
+  - canonicalName: 空澄セナ
+    aliases:
+      - あすみせな
+  - canonicalName: 天鬼ぷるる
+    aliases:
+      - あまきぷるる
+      - ぷるる
+      - Amaki Pururu
+  - canonicalName: Arisakaaa
+    aliases:
+      - ありさか
+  - canonicalName: アルス・アルマル
+    aliases:
+      - アルス
+  - canonicalName: AlphaAzur
+    aliases:
+      - アルファアズール
+  - canonicalName: 伊波ライ
+    aliases:
+      - イナミライ
+      - 稲美ライ
+      - イナミ
+  - canonicalName: しぐれうい
+    aliases:
+      - ういママ
+  - canonicalName: ウォッカ
+    aliases:
+      - CR うぉっか
+  - canonicalName: 夜乃くろむ
+    aliases:
+      - うみんぐ
+      - 矢野くろむ
+  - canonicalName: 潤羽るしあ
+  - canonicalName: 友人A
+    aliases:
+      - えーちゃん
+  - canonicalName: える
+  - canonicalName: エルセとさめのぽき
+    aliases:
+      - エルセ
+  - canonicalName: ガッチマン
+    aliases:
+      - ガッチマンV
+  - canonicalName: 叶
+    aliases:
+      - かなえ
+      - Kanae
+  - canonicalName: 赤見かるび
+    aliases:
+      - かるび
+  - canonicalName: カルロ・ピノ
+  - canonicalName: 如月れん
+    aliases:
+      - キサラギレン
+  - canonicalName: 北白川かかぽ
+    aliases:
+      - きたしらかわかこぽわ
+  - canonicalName: ギル
+  - canonicalName: 切嘛 / Kiruma
+    aliases:
+      - キルマ
+  - canonicalName: 胡桃のあ
+    aliases:
+      - くるみのあ
+  - canonicalName: 小雀とと
+    aliases:
+      - こがらとと
+      - totokogara
+      - とと
+  - canonicalName: 小森めと
+    aliases:
+      - こもりめと
+      - こもりめっと
+      - Met_Komori
+  - canonicalName: 椎名唯華
+    aliases:
+      - しいなゆいか
+  - canonicalName: しすこ
+  - canonicalName: 白波らむね
+    aliases:
+      - しらなみらむね
+  - canonicalName: しんじさん
+    aliases:
+      - しんじ
+  - canonicalName: Zerost
+    aliases:
+      - ゼロスト
+  - canonicalName: だるまいずごっど
+    aliases:
+      - だるま
+  - canonicalName: どぐら
+  - canonicalName: とっぴー
+  - canonicalName: Nacchi
+    aliases:
+      - なっち
+  - canonicalName: 奈羅花
+    aliases:
+      - ならか
+      - Naraka_nijisanji
+      - Naraka
+  - canonicalName: Noah
+    aliases:
+      - のあ
+  - canonicalName: HIKAKIN
+    aliases:
+      - ヒカキン
+  - canonicalName: HIMEHINA
+    aliases:
+      - ヒメヒナ
+      - 姫雛
+  - canonicalName: ペトラ・グリン
+  - canonicalName: ボンちゃん
+  - canonicalName: もこ田めめめ
+    aliases:
+      - もこめめ
+  - canonicalName: ゆきお
+  - canonicalName: 夜見れな
+    aliases:
+      - よるみれな
+  - canonicalName: rion
+    aliases:
+      - リオン
+  - canonicalName: ローレン・イロアス
+    aliases:
+      - ローレン
+  - canonicalName: RobiN
+    aliases:
+      - ろびん
+  - canonicalName: 1tappy
+    aliases:
+      - わんたっぴー
+  - canonicalName: 因幡はねる
+    aliases:
+      - 稲葉はねる
+      - Inaba_Haneru
+  - canonicalName: 宇野昌磨
+    aliases:
+      - 宇野翔馬
+  - canonicalName: 加賀イズミ
+    aliases:
+      - 加賀すずみ
+  - canonicalName: 花芽すみれ
+    aliases:
+      - 加賀スミレ
+      - KagaSumire
+  - canonicalName: 英リサ
+    aliases:
+      - 花ぶさ
+  - canonicalName: 海妹四葉
+    aliases:
+      - 海妹四つ葉
+  - canonicalName: 橘ひなの
+    aliases:
+      - 橘ひな
+      - たちばな
+      - 立花
+      - ひなーの
+      - hinanotachiba
+      - ひなのたちばな
+  - canonicalName: 狂蘭メロコ
+    aliases:
+      - 強乱メロコ
+      - Meloco Kyoran
+  - canonicalName: tsukumo_yagami
+    aliases:
+      - 九十九やがみ
+  - canonicalName: 甲賀流忍者！ぽんぽこ
+    aliases:
+      - ぽんぽこちゃんねる
+      - ぽんぽこ
+  - canonicalName: 荒咬オウガ
+    aliases:
+      - 荒神オウガ
+  - canonicalName: 鷹宮リオン
+    aliases:
+      - 高宮リオン
+  - canonicalName: 黒神フブキ
+    aliases:
+      - 黒上フブキ
+      - 黒上
+  - canonicalName: 笹木咲
+    aliases:
+      - 佐々木咲
+  - canonicalName: 獅子神レオナ
+    aliases:
+      - 獅神レオナ
+  - canonicalName: 紫宮るな
+    aliases:
+      - 篠宮るな
+      - shinomiyaruna
+  - canonicalName: SHAKA
+    aliases:
+      - 釈迦
+  - canonicalName: 周央サンゴ
+  - canonicalName: 水無世燐央
+    aliases:
+      - 水無瀬燐央
+      - 皆瀬りお
+      - 水瀬涼
+  - canonicalName: 周防パトラ
+    aliases:
+      - 蘇芳パトラ
+  - canonicalName: 宗谷いちか
+    aliases:
+      - 惣谷いちか
+  - canonicalName: 藍沢エマ
+    aliases:
+      - 相沢えま
+      - 相沢絵馬
+      - AizawaEma
+  - canonicalName: 天神子兎音
+    aliases:
+      - 天神ことね
+  - canonicalName: 兎鞠まり
+    aliases:
+      - 兎毬まり
+  - canonicalName: 猫汰つな
+    aliases:
+      - 猫田つな
+      - 津田ねこた
+      - tsuna
+      - つな
+      - ツナ・ネコタ
+      - 津奈猫太
+      - 綱猫太
+      - ねこたつ
+  - canonicalName: 猫麦とろろ
+    aliases:
+      - 猫麦とろ
+  - canonicalName: 白那しずく
+    aliases:
+      - 白凪しずく
+  - canonicalName: 柊ツルギ
+    aliases:
+      - HiiragiTsurugi
+  - canonicalName: 姫乃みえる
+    aliases:
+      - 姫野みえる
+  - canonicalName: 壱百満天原サロメ
+    aliases:
+      - 百満天原サロメ
+  - canonicalName: 富士葵
+    aliases:
+      - Aoi ch.
+  - canonicalName: 風見くく
+    aliases:
+      - 風見くくる
+  - canonicalName: 夢野あかり
+    aliases:
+      - 夢のあり
+  - canonicalName: 音ノ乃のの
+    aliases:
+      - 野乃ののの
+  - canonicalName: 夕陽リリ
+    aliases:
+      - 遊火りり
+  - canonicalName: 夕刻ロベル
+    aliases:
+      - 遊国ロベル
+      - 有国ロベル
+  - canonicalName: 龍ヶ崎リン
+    aliases:
+      - 竜ヶ崎リン
+  - canonicalName: 戌亥とこ
+    aliases:
+      - 戌井とこ
+  - canonicalName: 96猫
+    aliases:
+      - 黯希ナツメ
+  - canonicalName: 栞葉るり
+    aliases:
+      - しおりるり
+      - Shioriha Ruri
+  - canonicalName: 小柳ロウ
+    aliases:
+      - Koyanagi Rou
+  - canonicalName: 宇推くりあ
+    aliases:
+      - 薄井クリア
+      - Clear Usui
+  - canonicalName: 風白ゆき
+    aliases:
+      - Kazeshiro Yuki
+  - canonicalName: 魔灰えん
+    aliases:
+      - MAKAI EN
+  - canonicalName: ぺこらマミー
+    aliases:
+      - ママライブ/ぺこらマミー
+      - ママライブ
+  - canonicalName: メタばあちゃん
+    aliases:
+      - メタばあちゃん_MetaGrandma
+      - MetaGrandma

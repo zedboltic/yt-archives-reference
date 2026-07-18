@@ -1,0 +1,28 @@
+﻿version: 1
+kind: 場所・施設・空間
+comment: 
+  - 美術館、博物館、図書館、動物園、水族館、遊園地、テーマパーク、商業施設、飲食店、宿泊施設、イベント会場など
+  - 実在するものだけでなく仮想空間も含む
+entries:
+  - canonicalName: MoMA
+    aliases:
+      - ニューヨーク近代美術館
+  - canonicalName: RAKU SPA
+    aliases:
+      - らくスパ
+  - canonicalName: RED° TOKYO TOWER
+    aliases:
+      - レッド°トーキョータワー
+  - canonicalName: STELLAMAP CAFE
+    aliases:
+      - ステラマップカフェ
+  - canonicalName: さくらみこのえりぃとかふぇ × STELLAMAP CAFE
+  - canonicalName: 北海道
+  - canonicalName: 松沢村
+  - canonicalName: ぽこピーランド
+    aliases:
+      - PokoPeaLand
+      - ポコピアランド
+  - canonicalName: イマーシブ・フォート東京
+    aliases:
+      - IMMERSIVE FORT TOKYO

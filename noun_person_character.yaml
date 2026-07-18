@@ -1,0 +1,42 @@
+﻿version: 1
+kind: 人物・キャラクター
+comment: 
+  - 実在の人物、架空の人物、キャラクターなど
+entries:
+  - canonicalName: HIKAKIN
+    aliases:
+      - ヒカキン
+  - canonicalName: 谷郷元昭
+    aliases:
+      - たにごうもとあき
+      - 谷郷
+      - YAGOO
+      - ヤゴー
+  - canonicalName: アグネスデジタル
+  - canonicalName: しんちゃん
+  - canonicalName: ゼルダ
+  - canonicalName: ソニック
+  - canonicalName: ドラえもん
+  - canonicalName: 猫又おかゆ 2.0
+  - canonicalName: パックンフラワー
+  - canonicalName: ピカチュウ
+  - canonicalName: ホゲータ
+  - canonicalName: Holstin
+    aliases:
+      - ホルスティン
+  - canonicalName: マヤノトップガン
+  - canonicalName: マリオ
+  - canonicalName: ライスシャワー
+  - canonicalName: ルイージ
+  - canonicalName: レイトン教授
+  - canonicalName: Orangestar
+    aliases:
+      - オレンジスター
+      - 蜜柑星P
+  - canonicalName: カラスヤサボウ
+    aliases:
+      - 烏屋茶房
+  - canonicalName: ボバ・フェット
+    aliases:
+      - Boba Fett
+

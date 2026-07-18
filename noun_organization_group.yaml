@@ -1,0 +1,393 @@
+﻿version: 1
+kind: 組織・団体・グループ・ユニット
+comment: 
+  - 会社企業、スポーツ等競技団体、コラボメンバー名、チーム、サークルなど
+entries:
+  - canonicalName: ASIAN KUNG-FU GENERATION
+    aliases:
+      - アジアン・カンフー・ジェネレーション
+  - canonicalName: BABYMETAL
+    aliases:
+      - ベビーメタル
+  - canonicalName: BAYFM
+    aliases:
+      - ベイエフエム
+  - canonicalName: ChroNoiR
+    aliases:
+      - クロノワール
+  - canonicalName: ClariS
+    aliases:
+      - クラリス
+  - canonicalName: Club Blue Fire
+  - canonicalName: Da-iCE
+    aliases:
+      - ダイス
+  - canonicalName: EGOIST
+    aliases:
+      - エゴイスト
+  - canonicalName: Elements Garden
+    aliases:
+      - エレメンツ・ガーデン
+  - canonicalName: FAKE TYPE.
+    aliases:
+      - フェイクタイプ
+  - canonicalName: femme fatale
+    aliases:
+      - ファム・ファタール
+  - canonicalName: FNATIC
+    aliases:
+      - フナティック
+  - canonicalName: FOUR DOTS
+    aliases:
+      - フォードッツ
+  - canonicalName: fripSide
+    aliases:
+      - フリップサイド
+  - canonicalName: GAZZLELE
+    aliases:
+      - GAZZLELE（ガズレレ）
+  - canonicalName: GEMS COMPANY
+    aliases:
+      - ジェムズカンパニー
+  - canonicalName: GLAY
+    aliases:
+      - グレイ
+  - canonicalName: HIMEHINA
+    aliases:
+      - ヒメヒナ
+  - canonicalName: holoAquarium
+    aliases:
+      - ホロアクアリウム
+  - canonicalName: holoJustice
+    aliases:
+      - ホロジャスティス
+  - canonicalName: hololive 1st Generation
+    aliases:
+      - ホロライブ1期生
+  - canonicalName: holoRêve
+    aliases:
+      - ホロレーヴ
+  - canonicalName: holoRêve collection no.3
+    aliases:
+      - ホロレーヴ コレクション no.3
+  - canonicalName: holoscape
+    aliases:
+      - ホロスケープ
+  - canonicalName: holotori
+    aliases:
+      - ホロドリ
+      - ホロ鳥
+  - canonicalName: HoneyWorks
+    aliases:
+      - ハニーワークス
+  - canonicalName: Hoshimatic
+    aliases:
+      - ホシマティック
+  - canonicalName: JAXA
+    aliases:
+      - ジャクサ
+  - canonicalName: JRA
+    aliases:
+      - ジェイアールエー
+  - canonicalName: JUDY AND MARY
+    aliases:
+      - ジュディ・アンド・マリー
+  - canonicalName: Kalafina
+    aliases:
+      - カラフィナ
+  - canonicalName: Kanaria
+    aliases:
+      - カナリア
+  - canonicalName: KAT-TUN
+    aliases:
+      - カトゥーン
+  - canonicalName: King Gnu
+    aliases:
+      - キングヌー
+  - canonicalName: L'Arc〜en〜Ciel
+    aliases:
+      - ラルク アン シエル
+  - canonicalName: LE SSERAFIM
+    aliases:
+      - ルセラフィム
+  - canonicalName: Leo/need
+    aliases:
+      - レオ/ニード
+  - canonicalName: LiSA
+    aliases:
+      - リサ
+  - canonicalName: MAISONdes
+    aliases:
+      - メゾンデ
+  - canonicalName: NEGI☆U
+    aliases:
+      - ねぎゆー
+  - canonicalName: NIJISANJI EN
+    aliases:
+      - にじさんじEN
+  - canonicalName: OxT
+    aliases:
+      - オーイシマサヨシ×Tom-H@ck
+  - canonicalName: RADWIMPS
+    aliases:
+      - ラッドウィンプス
+  - canonicalName: RAISE A SUILEN
+    aliases:
+      - レイズ ア スイレン
+  - canonicalName: RIP SLYME
+    aliases:
+      - リップスライム
+  - canonicalName: Roselia
+    aliases:
+      - ロゼリア
+  - canonicalName: She is Legend
+    aliases:
+      - シーイズレジェンド
+  - canonicalName: SMAP
+    aliases:
+      - スマップ
+  - canonicalName: SorAZ
+    aliases:
+      - ソラアズ
+  - canonicalName: Sound Horizon
+    aliases:
+      - サウンドホライズン
+  - canonicalName: SPYAIR
+    aliases:
+      - スパイエアー
+  - canonicalName: STAR☆ANIS
+    aliases:
+      - スターアニス
+  - canonicalName: SUNSOFT
+    aliases:
+      - サンソフト
+  - canonicalName: T-SQUARE
+    aliases:
+      - ティー・スクェア
+  - canonicalName: T.M.Revolution
+    aliases:
+      - ティー・エム・レボリューション
+  - canonicalName: THE BLUE HEARTS
+    aliases:
+      - ザ・ブルーハーツ
+  - canonicalName: Ubisoft
+    aliases:
+      - ユービーアイソフト
+  - canonicalName: We are GAMERS !!!!
+  - canonicalName: あくきん建設
+    aliases:
+      - アク禁建設
+  - canonicalName: かなけん（かなた建設）
+    aliases:
+      - かなた建設
+  - canonicalName: 0期生
+    aliases:
+      - hololive 0期生
+  - canonicalName: 2期生
+    aliases:
+      - ホロライブ 2期生
+  - canonicalName: 3期生
+    aliases:
+      - ホロライブ 3期生
+      - ホロライブファンタジー
+  - canonicalName: 4期生
+    aliases:
+      - ホロライブ 4期生
+  - canonicalName: 5期生
+    aliases:
+      - ホロライブ 5期生
+      - ねぽらぼ
+  - canonicalName: miComet
+    aliases:
+      - みこめっと
+  - canonicalName: ReGLOSS
+    aliases:
+      - リグロス
+  - canonicalName: UMISEA
+    aliases:
+      - うみしー
+  - canonicalName: おかころ
+  - canonicalName: カバー株式会社
+    aliases:
+      - かばーかぶしきがいしゃ
+      - カバー
+  - canonicalName: スバちょこるなたん
+  - canonicalName: フワモコ
+    aliases:
+      - FUWAMOCO
+  - canonicalName: ホロスターズ
+  - canonicalName: 不知火建設
+    aliases:
+      - しらぬいけんせつ
+      - しらけん
+  - canonicalName: I've Sound 2
+  - canonicalName: AKUKIN建設
+  - canonicalName: ALcot
+  - canonicalName: SBI NEXUM
+  - canonicalName: オインクゲームズ
+  - canonicalName: カイロソフト
+  - canonicalName: カプコン
+  - canonicalName: 株式会社TT
+  - canonicalName: 株式会社ポケットペア
+    aliases:
+      - ポケットペア
+  - canonicalName: GiGO
+    aliases:
+      - ギーゴ
+  - canonicalName: Secret Society holoX
+    aliases:
+      - 秘密結社holoX
+      - ひみつけっしゃほろっくす
+      - holoX
+      - 6期生
+      - 秘密結社ホロックス
+  - canonicalName: 上海アリス幻樂団
+  - canonicalName: STUDIO EBANS
+    aliases:
+      - STUDIO EBANSのホラーゲーム
+  - canonicalName: ZETA DIVISION
+  - canonicalName: Chilla's Art
+    aliases:
+      - チラズアート
+  - canonicalName: ドジャース
+  - canonicalName: ドズル社
+  - canonicalName: にじさんじ
+  - canonicalName: 日本一ソフトウェア
+  - canonicalName: 任天堂
+  - canonicalName: 初星学園
+  - canonicalName: パドレス
+  - canonicalName: FLOW GLOW
+  - canonicalName: holo Indie
+  - canonicalName: hololive
+    aliases:
+      - ホロライブ
+  - canonicalName: hololive English
+    aliases:
+      - ホロライブEnglish
+      - EN
+      - イーエヌ
+  - canonicalName: hololive Indie
+  - canonicalName: hololive Indonesia
+    aliases:
+      - ホロライブインドネシア
+      - ID
+      - アイディー
+  - canonicalName: hololive GAMERS
+    aliases:
+      - ホロライブゲーマーズ
+      - ゲーマーズ
+  - canonicalName: ホロライブDEV_IS
+  - canonicalName: hololive DEV_IS
+  - canonicalName: hololive production
+    aliases:
+      - ホロライブプロダクション
+      - ホロライブプロ
+  - canonicalName: White Tails
+  - canonicalName: MARVEL
+    aliases:
+      - マーベル
+  - canonicalName: 有閑喫茶あにまーれ
+    aliases:
+      - あにまーれ
+  - canonicalName: ゆずソフト
+  - canonicalName: Laumania ApS
+  - canonicalName: Rush Gaming
+  - canonicalName: レベルファイブ
+  - canonicalName: Rockstar Games
+    aliases:
+      - ロックスター・ゲームス
+  - canonicalName: ワイテルズ
+  - canonicalName: 551蓬莱
+    aliases:
+      - "551"
+  - canonicalName: Anker
+    aliases:
+      - アンカー
+  - canonicalName: BEAMS
+    aliases:
+      - ビームス
+  - canonicalName: Corsair
+    aliases:
+      - コルセア
+  - canonicalName: elgato
+    aliases:
+      - エルガト
+  - canonicalName: GIGABYTE
+    aliases:
+      - ギガバイト
+  - canonicalName: GUCCI
+    aliases:
+      - グッチ
+  - canonicalName: PACIFIC RACING
+    aliases:
+      - パシフィックレーシング
+  - canonicalName: Pulsar Gaming Gears
+    aliases:
+      - パルサーゲーミングギアーズ
+  - canonicalName: Red Bull
+    aliases:
+      - レッドブル
+  - canonicalName: Red Bull Japan
+    aliases:
+      - レッドブル・ジャパン
+  - canonicalName: SuperGroupies
+    aliases:
+      - スーパーグルーピーズ
+  - canonicalName: SUZUKI
+    aliases:
+      - スズキ
+  - canonicalName: TAMIYA
+    aliases:
+      - タミヤ
+  - canonicalName: TSUKUMO
+    aliases:
+      - ツクモ
+  - canonicalName: TurtleBeach
+    aliases:
+      - タートルビーチ
+  - canonicalName: YAMAHA
+    aliases:
+      - ヤマハ
+  - canonicalName: セブン-イレブン
+    aliases:
+      - セブンイレブン
+  - canonicalName: LEGO
+    aliases:
+      - レゴ
+  - canonicalName: GIANTS Software
+    aliases:
+      - ジャイアンツソフトウェア
+  - canonicalName: サンリオゲームズ
+    aliases:
+      - Sanrio Games
+  - canonicalName: PARCO GAMES
+    aliases:
+      - パルコゲーム
+      - パルコゲームズ
+  - canonicalName: QuizKnock
+    aliases:
+      - クイズノック
+      - QK
+  - canonicalName: カルディコーヒーファーム
+    aliases:
+      - カルディ
+      - KALDI
+  - canonicalName: マンチェスター・シティFC
+    aliases:
+      - マンチェスター・C
+      - マンチェスター・シティ
+      - マンシティ
+      - Manchester City
+      - Manchester City Football Club
+  - canonicalName: だぶちーず
+    aliases:
+      - DoubleCheese
+  - canonicalName: ラミこよ
+    aliases:
+      - こよラミ
+  - canonicalName: 横浜DeNAベイスターズ
+    aliases:
+      - 横浜ベイスターズ
+  - canonicalName: ほっともっと
+    aliases:
+      - Hotto Motto
