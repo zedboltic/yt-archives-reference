@@ -1,4 +1,4 @@
-﻿version: 1
+version: 1
 kind: 商品・コンテンツ・サービス
 comment:
   - 商品、物品、グッズ、サービス、ゲーム以外のソフトウェア、アニメ、音楽、漫画、小説、映像作品、舞台、映画、ラジオ番組など
@@ -118,6 +118,12 @@ entries:
     aliases:
       - 儒烏風亭らでん 公式ラインスタンプ
       - 儒烏風亭らでん（ホロライブ公式ラインスタンプ）
+      - ホロライブ公式ラインスタンプ「儒烏風亭らでん」
+      - 儒烏風亭らでんスタンプ
+      - Juufuutei Raden Sticker
+      - 儒烏風亭らでん（LINEスタンプ）
+    hypernyms:
+      - 儒烏風亭らでん
   - canonicalName: 常闇トワ 推しTシャツ
     aliases:
       - 常闇トワの推しTシャツ
@@ -125,6 +131,8 @@ entries:
     aliases:
       - 毒林檎
   - canonicalName: 日清×常闇トワ「U.F.O. - U Feel Overjoyed! - 」
+    aliases:
+      - U.F.O. - U Feel Overjoyed! -
   - canonicalName: 日清焼きそばU.F.O.
     aliases:
       - 日清焼そばU.F.O.
@@ -186,6 +194,8 @@ entries:
     aliases:
       - シンプルボイスチャット
   - canonicalName: スーパーファミコン
+    aliases:
+      - SFC
   - canonicalName: Studio One
     aliases:
       - スタジオ・ワン
@@ -329,10 +339,6 @@ entries:
       - エックスボックス
   - canonicalName: Xbox Series X|S
     aliases: []
-  - canonicalName: ときのそら 8th Anniversary Party「Starry Bl∞min'」 (Live Blu-ray)
-    aliases:
-      - Live Blu-ray 『ときのそら 8th Anniversary Party「Starry Bl∞min’」』
-      - ときのそら 8th Anniversary Party「Starry Bl∞min'」 (Blu-ray)
   - canonicalName: hololive RECORDS HISTORY COLLECTION
     aliases:
       - ホロライブレコードヒストリーコレクション
@@ -421,6 +427,7 @@ entries:
   - canonicalName: VOCALOID
     aliases:
       - ボーカロイド
+      - ボカロ
   - canonicalName: VOICEVOX
     aliases:
       - ボイスボックス
@@ -629,18 +636,27 @@ entries:
   - canonicalName: glory days
     aliases:
       - グローリー・デイズ
-  - canonicalName: Harry Potter
+  - canonicalName: ハリー・ポッターシリーズ
     aliases:
+      - Harry Potter
       - ハリー・ポッター
+      - Harry Potter series
   - canonicalName: heart♡connect
     aliases:
       - ハート♡コネクト
+      - 1st EP『heart♡connect』
+      - heart♡connect (1st EP)
   - canonicalName: HIKAKIN TV
     aliases:
       - ヒカキンTV
   - canonicalName: Hop Step Sheep
     aliases:
       - ホップステップシープ
+      - 3rdアルバム「Hop Step Sheep」
+      - 角巻わため 3rdアルバム『Hop Step Sheep』
+      - 角巻わため 3rd Album『Hop Step Sheep』
+    hypernyms:
+      - 角巻わため
   - canonicalName: Ievan Polkka
     aliases:
       - イエヴァン・ポルッカ
@@ -674,6 +690,9 @@ entries:
   - canonicalName: LOKI
     aliases:
       - ロキ
+      - LOKI -ロキ-
+    hypernyms:
+      - マーベル・シネマティック・ユニバース
   - canonicalName: Loveit?
     aliases:
       - ラヴィット
@@ -711,6 +730,9 @@ entries:
   - canonicalName: Pleiades
     aliases:
       - プレアデス
+      - 大空スバル 1st Album Pleiades
+    hypernyms:
+      - 大空スバル
   - canonicalName: RAD DOGS
     aliases:
       - ラッドドッグス
@@ -771,9 +793,10 @@ entries:
   - canonicalName: Starpeggio
     aliases:
       - スターペジオ
-  - canonicalName: STELLAR into the GALAXY
-    aliases:
-      - ステラ・イントゥ・ザ・ギャラクシー
+      - Midnight Grand Orchestra / Starpeggio
+      - Midnight Grand Orchestra 2nd MINI ALBUM「Starpeggio」
+    hypernyms:
+      - Midnight Grand Orchestra
   - canonicalName: Stellar Stellar
     aliases:
       - ステラーステラー
@@ -813,10 +836,18 @@ entries:
   - canonicalName: あくあ色すーぱー☆どり～む♪
     aliases:
       - アクア色すーぱーどりーむ
+      - 湊あくあ アニバーサリーライブ 2020 『あくあ色すーぱー☆どり～む♪』
+      - 湊あくあソロライブ2020
+    hypernyms:
+      - 湊あくあ
   - canonicalName: あさココ
   - canonicalName: いろはにほへっとあやふぶみ - 色は匂えども
     aliases:
       - いろはにほへっと あやふぶみ
+      - いろはにほへとあやふぶみ
+      - あやふぶみ
+    hypernyms:
+      - ホロライブ
   - canonicalName: おねがいダーリン
     aliases:
       - お願いダーリン
@@ -864,9 +895,12 @@ entries:
   - canonicalName: 常闇トワ 2ndアルバム『SHIN』
     aliases:
       - 常闇トワ 2stアルバム『SHIN』
+      - 2nd Album『SHIN』
+      - Tokoyami Towa 2nd Album "SHIN"
   - canonicalName: 星街すいせい 1stAlbum『Still Still Stellar』
     aliases:
       - 星街すいせい 1stアルバム『Still Still Stellar』
+      - Still Still Stellar
   - canonicalName: 青春のアーカイブ
     aliases:
       - 青春アーカイブ
@@ -978,6 +1012,12 @@ entries:
   - canonicalName: ホロライブリゾート
   - canonicalName: ホロライブワールド
   - canonicalName: 魔法少女ホロウィッチ!
+    aliases:
+      - ホロウィッチ
+      - Magical Girl holoWitches!
+      - 魔法少女ホロウィッチ！ 3D衣装グッズ
+    hypernyms:
+      - ホロライブプロダクション
   - canonicalName: 幽拐食堂
   - canonicalName: らでん館長がミュージアムをご案内
   - canonicalName: Re:VER PROJECT -TOKYO-
@@ -1065,6 +1105,7 @@ entries:
   - canonicalName: ストレンジャー・シングス 未知の世界
     aliases:
       - Stranger Things
+      - ストレンジャー・シングス
   - canonicalName: ダイアモンド クレバス
     aliases:
       - ダイヤモンドクレバス
@@ -1194,12 +1235,18 @@ entries:
   - canonicalName: NANA
     aliases:
       - ナナ
+      - an・an
+      - アンアン
+    hypernyms:
+      - 雑誌
   - canonicalName: NARUTO
     aliases:
       - ナルト
+      - NARUTO -ナルト-
   - canonicalName: PSYCHO-PASS
     aliases:
       - サイコパス
+      - PSYCHO-PASS サイコパス
   - canonicalName: SAKAMOTO DAYS
     aliases:
       - サカモトデイズ
@@ -1226,6 +1273,11 @@ entries:
     aliases:
       - シュタインズ・ゲート ゼロ
   - canonicalName: エンジェルビーツ！
+    aliases:
+      - Angel Beats!
+      - AB
+    hypernyms:
+      - アニメ
   - canonicalName: お願い！マイメロディ
     aliases:
       - おねがいマイメロディ
@@ -1472,3 +1524,4625 @@ entries:
   - canonicalName: ぐるぐる＠まわる＠まわルーナ
     aliases:
       - ぐるぐるまわるまわるルーナ
+  - canonicalName: 機動戦士ガンダム
+    aliases:
+      - MOBILE SUIT GUNDAM
+      - ガンダム
+      - GUNDAM
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: ウルトラマン
+    aliases:
+      - ULTRAMAN
+    hypernyms:
+      - ウルトラマンシリーズ
+  - canonicalName: ちいかわ
+    aliases:
+      - ちいかわ なんか小さくてかわいいやつ
+    hypernyms:
+      - 漫画
+  - canonicalName: スケルトニクス
+    aliases:
+      - SKELETONICS
+    hypernyms:
+      - 外骨格ロボット
+  - canonicalName: 「ふわふわ羊の寝かしつけ」ASMRボイス
+    aliases:
+      - ふわふわ羊の寝かしつけ
+    hypernyms:
+      - 角巻わため
+  - canonicalName: ∞超スーパー無限インフィニティ∞
+    aliases:
+      - 超スーパー無限インフィニティ
+      - スーパーインフィニティ
+    hypernyms:
+      - ときのそら
+  - canonicalName: ♡あくあたいむ・せれくと♡
+    aliases:
+      - Aqua Time Select
+      - あくあたいむせれくと
+    hypernyms:
+      - 湊あくあ
+  - canonicalName: 100日後に死ぬワニ
+    aliases:
+      - 100ワニ
+  - canonicalName: 猫又おかゆ 1stアルバム『ぽいずにゃ〜しんどろーむ』
+    aliases:
+      - 1stアルバム「ぽいずにゃ〜しんどろーむ」
+      - ぽいずにゃ～しんどろーむ
+      - POISONYA SYNDROME
+      - 猫又おかゆ 1st album『ぽいずにゃ〜しんどろーむ』
+    hypernyms:
+      - 猫又おかゆ
+  - canonicalName: 2.5次元の誘惑
+    aliases:
+      - にごリリ
+  - canonicalName: ホロライブ 七夕・夏祭りボイス2021
+    aliases:
+      - 2021夏祭りボイス
+      - 夏祭りボイス2021
+      - 七夕・夏祭りボイス2021
+    hypernyms:
+      - ホロライブ
+  - canonicalName: 3Dio
+    aliases:
+      - 3ディオ
+  - canonicalName: 3月のライオン
+    aliases:
+      - March Comes in Like a Lion
+    hypernyms:
+      - 漫画
+  - canonicalName: ホロライブ カップ麺3分ボイス
+    aliases:
+      - 3分カップ麺ボイス
+      - カップ麺3分ボイス
+    hypernyms:
+      - ホロライブ
+  - canonicalName: 五等分の花嫁
+    aliases:
+      - 5等分の花嫁
+      - The Quintessential Quintuplets
+  - canonicalName: A Perfect Sky
+    aliases:
+      - ア・パーフェクト・スカイ
+    hypernyms:
+      - BONNIE PINK
+  - canonicalName: ABEMA
+    aliases:
+      - アベマ
+      - AbemaTV
+  - canonicalName: Agape (楽曲)
+    aliases:
+      - Agape
+      - アガペ
+    hypernyms:
+      - メロキュア
+  - canonicalName: Ahoy!! 我ら宝鐘海賊団☆
+    aliases:
+      - Ahoy!! 我ら宝鐘海賊団
+  - canonicalName: Android
+    aliases:
+      - アンドロイド
+  - canonicalName: Apple Watch
+    aliases:
+      - アップルウォッチ
+    hypernyms:
+      - スマートウォッチ
+  - canonicalName: 猫又おかゆ『おうちでほろ酔い、猫とまどろむ夜』ASMRボイス
+    aliases:
+      - ASMRボイス『おうちでほろ酔い、猫とまどろむ夜』
+      - おうちでほろ酔い、猫とまどろむ夜
+      - 猫又おかゆ ASMRボイス「おうちでほろ酔い、猫とまどろむ夜」
+      - ASMR Voice "A Snoozy Tipsy Night in with the Cat"
+    hypernyms:
+      - 猫又おかゆ
+  - canonicalName: Route If
+    aliases:
+      - AZKi メジャー1stアルバム Route If
+    hypernyms:
+      - AZKi
+  - canonicalName: BASE FOOD
+    aliases:
+      - ベースフード
+  - canonicalName: BASE YAKISOBA
+    aliases:
+      - BASE焼きそば
+      - ベース焼きそば
+    hypernyms:
+      - BASE FOOD
+  - canonicalName: BASTARD!! -暗黒の破壊神-
+    aliases:
+      - BASTARD!!
+      - バスタード
+  - canonicalName: Bling-Bang-Bang-Born
+    aliases:
+      - ブリン・バン・バン・ボーン
+    hypernyms:
+      - Creepy Nuts
+  - canonicalName: Blue Journey 1st Album「夜明けのうた」
+    aliases:
+      - Blue Journey 1st Album 'Yoake no Uta'
+    hypernyms:
+      - Blue Journey
+  - canonicalName: BRAIN (楽曲)
+    aliases:
+      - BRAIN
+      - BRAIN(Kanaria)
+  - canonicalName: Bunny Girl (AKASAKI)
+    aliases:
+      - Bunny Girl
+      - バニーガール (AKASAKI)
+  - canonicalName: Burst Song of Destruction
+    aliases:
+      - 滅びのBurst Song
+      - 滅びのバーストソング
+      - 癒月ちょこ 1stアルバム
+      - 癒月ちょこ 1stアルバム Burst Song of Destruction
+    hypernyms:
+      - 癒月ちょこ
+  - canonicalName: Butter-Fly
+    aliases:
+      - バタフライ
+    hypernyms:
+      - デジモンアドベンチャー
+  - canonicalName: カノウプス
+    aliases:
+      - CANOPUS
+    hypernyms:
+      - 楽曲
+      - オリジナルソング
+  - canonicalName: CHA-LA HEAD-CHA-LA
+    aliases:
+      - チャラ・ヘッチャラ
+    hypernyms:
+      - ドラゴンボールZ
+  - canonicalName: ChatGPT
+    aliases:
+      - チャットGPT
+  - canonicalName: Choco♡Melty
+    aliases:
+      - ちょこメルティー
+    hypernyms:
+      - メルキス
+  - canonicalName: chocolate box
+    aliases:
+      - チョコレートボックス
+    hypernyms:
+      - VOCALOID楽曲
+  - canonicalName: DAM
+    aliases:
+      - 通信カラオケDAM
+      - カラオケDAM
+    hypernyms:
+      - 通信カラオケ
+  - canonicalName: Dream☆Story
+    aliases:
+      - ドリームストーリー
+    hypernyms:
+      - Dreaming!
+  - canonicalName: dアニメストア
+    aliases:
+      - ディーアニメストア
+  - canonicalName: FACT
+    aliases:
+      - ファクト
+    hypernyms:
+      - 楽曲
+  - canonicalName: MUSICAL Fantasia of Bremen
+    aliases:
+      - Fantasia of Bremen
+  - canonicalName: 劇場版「Fate/stay night [Heaven's Feel]」
+    aliases:
+      - Fate/stay night Heaven's Feel
+      - HF
+    hypernyms:
+      - Fate/stay nightシリーズ
+  - canonicalName: 劇場版「Fate/stay night [Heaven's Feel]」II.lost butterfly
+    aliases:
+      - "Fate/stay night: Heaven's Feel II. Lost Butterfly"
+    hypernyms:
+      - Fate/stay night [Heaven's Feel] (シリーズ)
+  - canonicalName: Fate/stay night [Unlimited Blade Works]
+    aliases:
+      - Fate/stay night UBW
+    hypernyms:
+      - Fate/stay night
+  - canonicalName: FBKINGDOM
+    aliases:
+      - フブキングダム
+    hypernyms:
+      - 白上フブキ
+  - canonicalName: FBKINGDOM “Blessing”
+    aliases:
+      - 白上フブキ 1st ALBUM「FBKINGDOM “Blessing”」
+    hypernyms:
+      - 白上フブキ
+  - canonicalName: FITBOX
+    aliases:
+      - フィットボックス
+    hypernyms:
+      - フィットネスバイク
+  - canonicalName: Flightradar24
+    aliases:
+      - フライトレーダー24
+      - FR24
+  - canonicalName: FLOW GLOW 1st Album『FLOW GLOW』
+    aliases:
+      - FLOW GLOW 1stアルバム「FLOW GLOW」
+    hypernyms:
+      - FLOW GLOW
+  - canonicalName: LOAD (FLOW GLOW)
+    aliases:
+      - FLOW GLOW 3rd Single LOAD
+      - LOAD
+    hypernyms:
+      - FLOW GLOW
+  - canonicalName: FLOW GLOW's MIXTAPE
+    aliases:
+      - FLOW GLOW's MIXTAPEグッズ
+    hypernyms:
+      - FLOW GLOW
+  - canonicalName: FOD
+    aliases:
+      - フジテレビオンデマンド
+  - canonicalName: Futurity Step
+    aliases:
+      - フューチャリティー ステップ
+    hypernyms:
+      - SorAZ
+  - canonicalName: GeForce NOW
+    aliases:
+      - ジーフォースナウ
+    hypernyms:
+      - NVIDIA
+  - canonicalName: GeForce NOW Powered by SoftBank
+    aliases:
+      - GeForce NOW ソフトバンク版
+    hypernyms:
+      - GeForce NOW
+  - canonicalName: Get Wild
+    aliases:
+      - ゲットワイルド
+    hypernyms:
+      - TM NETWORK
+  - canonicalName: Gimme×Gimme
+    aliases:
+      - Gimme Gimme
+  - canonicalName: 乙女よ求めよQ.E.D.
+    aliases:
+      - Girl's seek Q.E.D.
+      - GirlsseeksQED
+      - 乙女を求めるQED
+    hypernyms:
+      - 博衣こより
+  - canonicalName: Google Play Games
+    aliases:
+      - Google Play ゲーム
+      - Google Play ゲームズ
+  - canonicalName: GU
+    aliases:
+      - ジーユー
+    hypernyms:
+      - ファッションブランド
+  - canonicalName: GRAPHT
+    aliases:
+      - グラフト
+  - canonicalName: hololive Islandボイス
+    aliases:
+      - hololive Island Voice Pack
+      - hololive Islandボイス ～side ホロライブ～
+      - hololive Islandボイス ～side ホロスターズ～
+    hypernyms:
+      - ホロライブ
+  - canonicalName: hololive Seasonal Days オータムスクールダイアリー
+    aliases:
+      - オータムスクールダイアリー
+    hypernyms:
+      - hololive Seasonal Days
+  - canonicalName: HOT LIMIT
+    aliases:
+      - ホット・リミット
+    hypernyms:
+      - T.M.Revolution
+  - canonicalName: Huel
+    aliases:
+      - ヒュエル
+      - ヒュール
+    hypernyms:
+      - 完全栄養食
+  - canonicalName: I’m Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。
+    aliases:
+      - あなたは マリンせんちょうを たからばこからみつけた。
+      - マリ箱
+    hypernyms:
+      - 宝鐘マリン
+  - canonicalName: iPad
+    aliases:
+      - アイパッド
+    hypernyms:
+      - タブレット
+  - canonicalName: iPhone
+    aliases:
+      - アイフォン
+    hypernyms:
+      - スマートフォン
+  - canonicalName: IRIS OUT
+    aliases:
+      - アイリスアウト
+    hypernyms:
+      - 米津玄師
+  - canonicalName: KING (Kanaria)
+    aliases:
+      - KING
+  - canonicalName: KING OF PRISM
+    aliases:
+      - キンプリ
+      - キングオブプリズム
+    hypernyms:
+      - プリティーシリーズ
+  - canonicalName: ランボルギーニ・ヴェネーノ
+    aliases:
+      - Lamborghini Veneno
+      - ヴェネーノ
+      - Veneno
+    hypernyms:
+      - ランボルギーニ
+  - canonicalName: Lapis Lazuli
+    aliases:
+      - ラピスラズリ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: Lemon (米津玄師の楽曲)
+    aliases:
+      - Lemon
+      - レモン
+    hypernyms:
+      - 米津玄師
+  - canonicalName: LINE
+    aliases:
+      - ライン
+      - LINEアプリ
+  - canonicalName: Lollipop (miComet)
+    aliases:
+      - Lollipop
+      - miComet 2nd Original Music 『Lollipop』
+    hypernyms:
+      - miComet
+  - canonicalName: LUSH
+    aliases:
+      - ラッシュ
+  - canonicalName: なんもない feat. 星街すいせい, sakuma.
+    aliases:
+      - MAISONdes「なんもない feat. 星街すいせい, sakuma.」
+      - なんもない feat. 星街すいせい & sakuma.
+    hypernyms:
+      - MAISONdes
+  - canonicalName: McLaren 600LT
+    aliases:
+      - マクラーレン 600LT
+    hypernyms:
+      - マクラーレン
+  - canonicalName: Overture (Midnight Grand Orchestra)
+    aliases:
+      - Midnight Grand Orchestra 1st Mini-Album "Overture"
+      - Overture
+    hypernyms:
+      - Midnight Grand Orchestra
+  - canonicalName: MILGRAM -ミルグラム-
+    aliases:
+      - MILGRAM
+      - ミルグラム
+    hypernyms:
+      - メディアミックスプロジェクト
+  - canonicalName: MIU404
+    aliases:
+      - ミュウ ヨンマルヨン
+  - canonicalName: mond
+    aliases:
+      - モンド
+  - canonicalName: My Sparkle
+    aliases:
+      - 大神ミオ 2nd Album「My Sparkle」
+    hypernyms:
+      - 大神ミオ
+  - canonicalName: NEKO BIG ぬいぐるみ
+    aliases:
+      - 湊あくあ NEKO BIGぬいぐるみ
+  - canonicalName: NELL 置くだけ敷きパッド
+    aliases:
+      - 置くだけ敷きパッド
+    hypernyms:
+      - NELL
+  - canonicalName: New Order
+    aliases:
+      - ニュー・オーダー
+    hypernyms:
+      - 楽曲
+  - canonicalName: NEXTGEAR
+    aliases:
+      - ネクストギア
+    hypernyms:
+      - ゲーミングPC
+  - canonicalName: Night walk (大神ミオのアルバム)
+    aliases:
+      - Night walk
+      - 大神ミオ 1st Album「Night walk」
+      - 大神ミオ First Album「Night walk」
+      - 大神ミオ 1stアルバム『Night walk』
+    hypernyms:
+      - 大神ミオのアルバム
+  - canonicalName: NoDistance
+    aliases:
+      - ノー・ディスタンス
+    hypernyms:
+      - 癒月ちょこ
+  - canonicalName: NOPE
+    aliases:
+      - ギルティ炭酸 NOPE
+      - ノープ
+  - canonicalName: 角巻わため NowLoading Tシャツ
+    aliases:
+      - NowLoading Tシャツ
+    hypernyms:
+      - ホロライブプロダクション
+      - 角巻わため
+  - canonicalName: OMEN 35L
+    aliases:
+      - HP OMEN 35L
+      - OMEN 35L Gaming Desktop
+    hypernyms:
+      - OMENシリーズ
+  - canonicalName: only my railgun
+    aliases:
+      - オンリー・マイ・レールガン
+    hypernyms:
+      - とある科学の超電磁砲
+  - canonicalName: Overdose (なとりの曲)
+    aliases:
+      - Overdose
+      - オーバードーズ
+  - canonicalName: PP天使Tシャツ
+    aliases:
+      - ★PP天使★ Tシャツ
+    hypernyms:
+      - 天音かなた
+  - canonicalName: Pretender (Official髭男dismの楽曲)
+    aliases:
+      - Pretender
+      - プリテンダー
+    hypernyms:
+      - Official髭男dism
+  - canonicalName: Re:flection (さくらみこ)
+    aliases:
+      - Re:flection
+  - canonicalName: Re:ゼロから始める異世界生活
+    aliases:
+      - リゼロ
+      - "Re: Life in a Different World from Zero"
+      - Re:Zero -Starting Life in Another World-
+  - canonicalName: REALiZE
+    aliases:
+      - リアライズ
+  - canonicalName: RHINOSHIELD
+    aliases:
+      - ライノシールド
+  - canonicalName: secret base 〜君がくれたもの〜
+    aliases:
+      - シークレット・ベース・きみがくれたもの
+  - canonicalName: ReGLOSS 2nd Album “Snapshot”
+    aliases:
+      - Snapshot
+    hypernyms:
+      - ReGLOSS
+  - canonicalName: Specter (星街すいせいのアルバム)
+    aliases:
+      - Specter
+      - 星街すいせい 2ndアルバム Specter
+  - canonicalName: スターティングボイス
+    aliases:
+      - Starting Voice
+  - canonicalName: ston s
+    aliases:
+      - ストンエス
+    hypernyms:
+      - ston
+  - canonicalName: Sweet Devil
+    aliases:
+      - スイートデビル
+  - canonicalName: sweets parade
+    aliases:
+      - すぃーつぱれーど
+    hypernyms:
+      - 妖狐×僕SS
+  - canonicalName: TEMPLATE／Wicked feat. Mori Calliope
+    aliases:
+      - TEMPLATE／Wicked
+  - canonicalName: TierMaker
+    aliases:
+      - ティアメーカー
+  - canonicalName: TIGER & BUNNY
+    aliases:
+      - タイガー・アンド・バニー
+      - タイバニ
+      - T&B
+  - canonicalName: TikTok
+    aliases:
+      - ティックトック
+  - canonicalName: ホロライブ バレンタインボイス2024
+    aliases:
+      - Valentineボイス2024
+      - ホロライブValentineボイス2024
+    hypernyms:
+      - ホロライブ
+  - canonicalName: VTuberスタイル
+    aliases:
+      - ブイチューバースタイル
+    hypernyms:
+      - 雑誌
+  - canonicalName: VTuberチップス第3弾
+    aliases:
+      - VTuberチップス3
+    hypernyms:
+      - VTuberチップス
+  - canonicalName: Vジャンプ
+    aliases:
+      - ブイジャンプ
+  - canonicalName: ホロライブpresents Vのすこんなオタ活なんだワ！
+    aliases:
+      - Vのすこんなオタ活なんだワ！
+      - すこだワ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: W/X/Y
+    aliases:
+      - ダブリューエックスワイ
+  - canonicalName: WALLHACK
+    aliases:
+      - WALLHACK JAPAN
+    hypernyms:
+      - ゲーミングデバイス
+  - canonicalName: Weather Hackers☆
+    aliases:
+      - うぇざーはっかーず
+  - canonicalName: WHAT A MESS!!!
+    aliases:
+      - WHAT A MESS!!! - EP
+      - 角巻わため EP『WHAT A MESS!!!』
+      - 角巻わため 新EP『WHAT A MESS!!!』
+      - EP『WHAT A MESS!!!』
+    hypernyms:
+      - 角巻わため
+  - canonicalName: ホワット・イフ...?
+    aliases:
+      - What If...?
+    hypernyms:
+      - マーベル・シネマティック・ユニバース
+  - canonicalName: ウィキッド
+    aliases:
+      - Wicked
+  - canonicalName: WIND BREAKER
+    aliases:
+      - ウィンドブレイカー
+      - ウィンブレ
+  - canonicalName: without U
+    aliases:
+      - without U (AZKi)
+    hypernyms:
+      - AZKi
+  - canonicalName: Yahoo!カーナビ
+    aliases:
+      - ヤフーカーナビ
+    hypernyms:
+      - Yahoo! JAPAN
+  - canonicalName: Yahoo!ショッピング
+    aliases:
+      - ヤフーショッピング
+      - ヤフショ
+    hypernyms:
+      - Yahoo! JAPAN
+  - canonicalName: You & 合図
+    aliases:
+      - You & aIzu
+    hypernyms:
+      - 音乃瀬奏
+  - canonicalName: YouTube
+    aliases:
+      - ユーチューブ
+  - canonicalName: ZOZOTOWN
+    aliases:
+      - ゾゾタウン
+  - canonicalName: アーサー・クリスマスの大冒険
+    aliases:
+      - Arthur Christmas
+  - canonicalName: アイ,ロボット
+    aliases:
+      - I, Robot
+  - canonicalName: アイシールド21
+    aliases:
+      - EYESHIELD 21
+  - canonicalName: アイネクライネ
+    aliases:
+      - Eine Kleine
+    hypernyms:
+      - 米津玄師
+  - canonicalName: あいわな (湊あくあ)
+    aliases:
+      - あいわな
+  - canonicalName: アカギ 〜闇に降り立った天才〜
+    aliases:
+      - アカギ
+  - canonicalName: ねんどろいど アキ・ローゼンタール
+    aliases:
+      - アキ・ローゼンタール ねんどろいど
+      - アキロゼねんどろいど
+    hypernyms:
+      - ねんどろいど
+  - canonicalName: あさココT
+    aliases:
+      - 着るタイプのあさココ
+    hypernyms:
+      - ホロライブプロダクション
+  - canonicalName: あずいろ BESTIE DAYS
+    aliases:
+      - AZUIRO BESTIE DAYS
+    hypernyms:
+      - あずいろ
+  - canonicalName: アダムス・ファミリー
+    aliases:
+      - The Addams Family
+  - canonicalName: アディショナルメモリー
+    aliases:
+      - Additional Memory
+    hypernyms:
+      - カゲロウプロジェクト
+  - canonicalName: アデュー、サロー
+    aliases:
+      - Adieu, Salauds
+    hypernyms:
+      - 猫又おかゆ
+  - canonicalName: アトリエ
+    aliases: []
+    hypernyms:
+      - 楽曲
+  - canonicalName: あなぐらぐらし
+    aliases:
+      - Hole Dwelling
+    hypernyms:
+      - きくおミク
+  - canonicalName: アナと雪の女王
+    aliases:
+      - Frozen
+    hypernyms:
+      - アナと雪の女王シリーズ
+  - canonicalName: アニメディア
+    aliases:
+      - Animedia
+  - canonicalName: あの日見た花の名前を僕達はまだ知らない。
+    aliases:
+      - あの花
+      - "Anohana: The Flower We Saw That Day"
+  - canonicalName: アバター
+    aliases:
+      - Avatar
+    hypernyms:
+      - 映画
+  - canonicalName: アベンジャーズ
+    aliases:
+      - Avengers
+    hypernyms:
+      - マーベル
+  - canonicalName: アベンジャーズ/インフィニティ・ウォー
+    aliases:
+      - "Avengers: Infinity War"
+    hypernyms:
+      - アベンジャーズシリーズ
+  - canonicalName: アベンジャーズ／エイジ・オブ・ウルトロン
+    aliases:
+      - "Avengers: Age of Ultron"
+    hypernyms:
+      - アベンジャーズシリーズ
+  - canonicalName: アベンジャーズ／エンドゲーム
+    aliases:
+      - "Avengers: Endgame"
+    hypernyms:
+      - アベンジャーズ
+  - canonicalName: あやかしトライアングル
+    aliases:
+      - AYAKASHI TRIANGLE
+      - あやトラ
+  - canonicalName: アレジオン
+    aliases:
+      - Alesion
+    hypernyms:
+      - 医薬品
+  - canonicalName: アントマン
+    aliases:
+      - Ant-Man
+    hypernyms:
+      - アントマンシリーズ
+  - canonicalName: アンナチュラル
+    aliases:
+      - UNNATURAL
+    hypernyms:
+      - テレビドラマ
+  - canonicalName: アンパンマン
+    aliases:
+      - それいけ!アンパンマン
+      - Anpanman
+  - canonicalName: いーあるふぁんくらぶ
+    aliases:
+      - 12ファンクラブ
+  - canonicalName: いいわけバニー
+    aliases:
+      - AlibiBunny
+    hypernyms:
+      - 兎田ぺこら
+  - canonicalName: イカゲーム
+    aliases:
+      - Squid Game
+    hypernyms:
+      - ドラマ
+  - canonicalName: イタズラーニャ！
+    aliases:
+      - Itazuranya!
+  - canonicalName: いつも何度でも
+    aliases:
+      - Always with me
+    hypernyms:
+      - 千と千尋の神隠し
+  - canonicalName: いらすとや
+    aliases:
+      - Irasutoya
+  - canonicalName: いろはすてっぷ！
+    aliases:
+      - Iroha Step
+    hypernyms:
+      - 風真いろは
+  - canonicalName: インサイド・ヘッド
+    aliases:
+      - Inside Out
+    hypernyms:
+      - インサイド・ヘッドシリーズ
+  - canonicalName: インターステラー
+    aliases:
+      - Interstellar
+  - canonicalName: ヴィラン
+    aliases:
+      - Villain
+  - canonicalName: うえきの法則
+    aliases:
+      - うえき
+  - canonicalName: ヴェノム：ザ・ラストダンス
+    aliases:
+      - "Venom: The Last Dance"
+    hypernyms:
+      - ヴェノム
+  - canonicalName: ヴェノム：レット・ゼア・ビー・カーネイジ
+    aliases:
+      - "Venom: Let There Be Carnage"
+    hypernyms:
+      - ヴェノムシリーズ
+  - canonicalName: ウォーキング・デッド
+    aliases:
+      - The Walking Dead
+      - TWD
+    hypernyms:
+      - ウォーキング・デッドシリーズ
+  - canonicalName: うぉんちゅーばっど
+    aliases:
+      - Want You Bad
+  - canonicalName: うっせぇわ
+    aliases:
+      - Usseewa
+    hypernyms:
+      - 楽曲
+  - canonicalName: うまい棒
+    aliases:
+      - Umaibo
+    hypernyms:
+      - 駄菓子
+  - canonicalName: ウマ娘 シンデレラグレイ
+    aliases:
+      - "Umamusume: Cinderella Gray"
+    hypernyms:
+      - ウマ娘 プリティーダービー
+  - canonicalName: うる星やつら
+    aliases:
+      - Urusei Yatsura
+      - うる星
+  - canonicalName: エア・ギア
+    aliases:
+      - Air Gear
+  - canonicalName: エイムに愛されしガール
+    aliases:
+      - Girl loved by aim
+  - canonicalName: エイリアン
+    aliases:
+      - Alien
+    hypernyms:
+      - エイリアンシリーズ
+  - canonicalName: エイリアン2
+    aliases:
+      - Aliens
+    hypernyms:
+      - エイリアンシリーズ
+  - canonicalName: エヴァーブルー
+    aliases:
+      - Everblue
+    hypernyms:
+      - 尾丸ポルカ
+  - canonicalName: 新世紀エヴァンゲリオン
+    aliases:
+      - エヴァンゲリオン
+      - Neon Genesis EVANGELION
+      - エヴァ
+  - canonicalName: エメラルドシティ (TOKOTOKO(西沢さんP)の楽曲)
+    aliases:
+      - エメラルドシティ
+    hypernyms:
+      - VOCALOID楽曲
+  - canonicalName: エレクトーン
+    aliases:
+      - Electone
+    hypernyms:
+      - 楽器
+  - canonicalName: みんなでつくるエレクトーン「LUNA」
+    aliases:
+      - エレクトーン「LUNA」
+      - LUNA
+    hypernyms:
+      - エレクトーン
+  - canonicalName: エンヴィーベイビー
+    aliases:
+      - Envy Baby
+  - canonicalName: おおきく振りかぶって
+    aliases:
+      - おお振り
+      - Big Windup!
+  - canonicalName: オーバーライド
+    aliases:
+      - Override
+  - canonicalName: オーバーロード
+    aliases:
+      - OVERLORD
+      - オバロ
+  - canonicalName: おジャ魔女どれみ
+    aliases:
+      - Magical DoReMi
+    hypernyms:
+      - おジャ魔女どれみシリーズ
+  - canonicalName: オズの魔法使い
+    aliases:
+      - The Wonderful Wizard of Oz
+  - canonicalName: おそ松さん
+    aliases:
+      - Mr. Osomatsu
+    hypernyms:
+      - おそ松くんシリーズ
+  - canonicalName: オタマトーン
+    aliases:
+      - Otamatone
+    hypernyms:
+      - 電子楽器
+      - 玩具
+  - canonicalName: おちゃめ機能
+    aliases:
+      - Ochame Kinou
+    hypernyms:
+      - 楽曲
+  - canonicalName: オッドタクシー
+    aliases:
+      - ODDTAXI
+  - canonicalName: オトナブルー
+    aliases:
+      - OTONABLUE
+    hypernyms:
+      - 新しい学校のリーダーズ
+  - canonicalName: おにおにこんこんわおん
+    aliases:
+      - OniOniKonKonWaon
+    hypernyms:
+      - いろはにほへっと あやふぶみ
+  - canonicalName: おにけもだんす
+    aliases:
+      - ONIKEMODANCE
+    hypernyms:
+      - いろはにほへっと あやふぶみ
+  - canonicalName: からくりサーカス
+    aliases:
+      - Karakuri Circus
+    hypernyms:
+      - 漫画
+      - アニメ
+  - canonicalName: NELLまくら
+    aliases:
+      - NELL枕
+      - ネル枕
+    hypernyms:
+      - 寝具
+  - canonicalName: NELLマットレス
+    aliases:
+      - ネルマットレス
+      - NELL
+      - ネル
+  - canonicalName: お願いマッスル
+    aliases:
+      - おねがいマッスル
+    hypernyms:
+      - ダンベル何キロ持てる?
+  - canonicalName: お返事まだカナ💦❓おじさん構文😁❗️
+    aliases:
+      - お返事まだカナ？おじさん構文！
+  - canonicalName: ガーディアンズ・オブ・ギャラクシー：リミックス
+    aliases:
+      - Guardians of the Galaxy Vol. 2
+    hypernyms:
+      - ガーディアンズ・オブ・ギャラクシーシリーズ
+  - canonicalName: カードキャプターさくら
+    aliases:
+      - CARDCAPTOR SAKURA
+      - CCさくら
+      - CCS
+  - canonicalName: ガールズ&パンツァー
+    aliases:
+      - GIRLS und PANZER
+      - ガルパン
+  - canonicalName: カイジ 人生逆転ゲーム
+    aliases:
+      - "Kaiji: The Ultimate Gambler"
+    hypernyms:
+      - 賭博黙示録カイジ
+  - canonicalName: カウボーイビバップ
+    aliases:
+      - Cowboy Bebop
+  - canonicalName: かぐや姫の物語
+    aliases:
+      - The Tale of the Princess Kaguya
+  - canonicalName: かぐや様は告らせたい～天才たちの恋愛頭脳戦～
+    aliases:
+      - かぐや様は告らせたい
+  - canonicalName: カグラバチ
+    aliases:
+      - 神楽鉢
+  - canonicalName: カゲロウノ調
+    aliases:
+      - Kagero no shirabe
+  - canonicalName: カゲロウプロジェクト
+    aliases:
+      - カゲプロ
+  - canonicalName: ガザニア
+    aliases: []
+    hypernyms:
+      - オリジナル曲
+  - canonicalName: ガチ恋粘着獣〜ネット配信者の彼女になりたくて〜
+    aliases:
+      - ガチ恋粘着獣
+  - canonicalName: カップヌードル
+    aliases:
+      - Cup Noodles
+      - カプヌ
+    hypernyms:
+      - 日清食品
+  - canonicalName: カップヌードル 謎肉牛丼
+    aliases:
+      - 日清カップヌードル 謎肉牛丼
+    hypernyms:
+      - カップヌードル
+  - canonicalName: カミサマ・ネコサマ
+    aliases:
+      - Kamisama nekosama
+    hypernyms:
+      - 猫又おかゆ
+  - canonicalName: からかい上手の高木さん
+    aliases:
+      - Teasing Master Takagi-san
+  - canonicalName: ガリガリ君
+    aliases:
+      - ガリガリくん
+  - canonicalName: カリスマ
+    aliases:
+      - 超人的シェアハウスストーリー『カリスマ』
+      - Charisma
+  - canonicalName: 超人女子戦士 ガリベンガーV
+    aliases:
+      - ガリベンガーV
+      - ガリベンチャーV
+  - canonicalName: 日清カレーメシ
+    aliases:
+      - カレーメシ
+    hypernyms:
+      - 日清食品
+  - canonicalName: 機動戦士ガンダムSEED
+    aliases:
+      - ガンダムSEED
+      - MOBILE SUIT GUNDAM SEED
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: ガンダムシリーズ
+    aliases:
+      - Gundam Series
+      - 機動戦士ガンダムシリーズ
+  - canonicalName: きかんしゃトーマス
+    aliases:
+      - Thomas & Friends
+  - canonicalName: キスだけでいいからね
+    aliases:
+      - just a kiss
+    hypernyms:
+      - 猫又おかゆ
+  - canonicalName: キセキ結び
+    aliases:
+      - Kiseki Knot
+      - 奇跡結び
+    hypernyms:
+      - ホロライブ4期生
+      - ホロライブ
+  - canonicalName: きっと、うまくいく
+    aliases:
+      - 3 Idiots
+  - canonicalName: キミだけのメロディ
+    aliases:
+      - Melody For You
+    hypernyms:
+      - 角巻わため
+  - canonicalName: ギミチョコ！！
+    aliases:
+      - Gimme Chocolate!!
+    hypernyms:
+      - BABYMETAL
+  - canonicalName: キミにまつわる運命事情
+    aliases:
+      - 君にまつわる運命事情
+      - Your Destiny Situation
+    hypernyms:
+      - アキ・ローゼンタール
+  - canonicalName: 増田こうすけ劇場 ギャグマンガ日和
+    aliases:
+      - ギャグマンガ日和
+  - canonicalName: キャットラビング
+    aliases:
+      - Cat Loving
+    hypernyms:
+      - 香椎モイミ
+  - canonicalName: キャプテン・マーベル
+    aliases:
+      - Captain Marvel
+    hypernyms:
+      - マーベル・シネマティック・ユニバース
+  - canonicalName: ギャラクシーエンジェル
+    aliases:
+      - Galaxy Angel
+    hypernyms:
+      - Project G.A.
+  - canonicalName: キューティーハニー
+    aliases:
+      - Cutie Honey
+    hypernyms:
+      - キューティーハニーシリーズ
+  - canonicalName: きゅーぴっど。
+    aliases:
+      - Cupid
+    hypernyms:
+      - 天音かなた
+  - canonicalName: きゅんきゅんみこきゅんきゅん♡
+    aliases:
+      - Kyun kyun Miko kyun kyun
+    hypernyms:
+      - さくらみこ
+  - canonicalName: ギラギラ
+    aliases:
+      - Gira Gira
+  - canonicalName: ねねちのギラギラファンミーティング
+    aliases:
+      - ギラギラファンミーティング
+      - Nenechi no Giragira Fan Meeting
+  - canonicalName: キングスマン
+    aliases:
+      - Kingsman
+    hypernyms:
+      - キングスマンシリーズ
+  - canonicalName: キングダム
+    aliases:
+      - KINGDOM
+    hypernyms:
+      - 漫画
+  - canonicalName: キン肉マン
+    aliases:
+      - Kinnikuman
+    hypernyms:
+      - キン肉マンシリーズ
+  - canonicalName: クーリッシュ
+    aliases:
+      - Coolish
+    hypernyms:
+      - アイスクリーム
+  - canonicalName: くもはれ
+    aliases:
+      - KumoHurray!
+    hypernyms:
+      - ときのそら
+  - canonicalName: グラコロ
+    aliases:
+      - グラタンコロッケバーガー
+  - canonicalName: グラップラー刃牙
+    aliases:
+      - BAKI THE GRAPPLER
+      - グラップラーバキ
+      - バキ
+      - 刃牙
+    hypernyms:
+      - 刃牙シリーズ
+  - canonicalName: グランド・イリュージョン
+    aliases:
+      - Now You See Me
+    hypernyms:
+      - グランド・イリュージョンシリーズ
+  - canonicalName: グリーンチャンネル
+    aliases:
+      - GREEN CHANNEL
+  - canonicalName: グリーンマイル
+    aliases:
+      - The Green Mile
+  - canonicalName: ホロライブクリスマスボイス2021
+    aliases:
+      - クリスマスボイス2021
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ぐりとぐら
+    aliases:
+      - Guri and Gura
+    hypernyms:
+      - 絵本
+  - canonicalName: クリミナル・マインド
+    aliases:
+      - Criminal Minds
+  - canonicalName: グレイテスト・ショーマン
+    aliases:
+      - The Greatest Showman
+  - canonicalName: グレイプニル
+    aliases:
+      - Gleipnir
+  - canonicalName: グローエンブレイス
+    aliases:
+      - Glow Embrace
+    hypernyms:
+      - 白上フブキ
+  - canonicalName: けいおん!
+    aliases:
+      - K-ON!
+    hypernyms:
+      - 漫画
+  - canonicalName: ゲームセンターCX
+    aliases:
+      - GameCenter CX
+  - canonicalName: 鬼太郎誕生 ゲゲゲの謎
+    aliases:
+      - ゲゲゲの謎
+      - ゲ謎
+    hypernyms:
+      - ゲゲゲの鬼太郎
+  - canonicalName: ゲッターロボ
+    aliases:
+      - Getter Robo
+    hypernyms:
+      - ゲッターロボシリーズ
+  - canonicalName: けものフレンズ
+    aliases:
+      - けもフレ
+    hypernyms:
+      - けものフレンズプロジェクト
+  - canonicalName: ケロロ軍曹
+    aliases:
+      - Sergeant Frog
+      - ケロロ
+  - canonicalName: コアラマットレス
+    aliases:
+      - Koala Mattress
+      - Koala
+    hypernyms:
+      - 寝具
+  - canonicalName: コアラマットレスPLUS
+    aliases:
+      - コアラマットレスプラス
+      - コアラマットレスプラス PLUS
+    hypernyms:
+      - コアラマットレス
+  - canonicalName: コードギアスシリーズ
+    aliases:
+      - コードギアス
+  - canonicalName: コードギアス 奪還のロゼ
+    aliases:
+      - CODE GEASS Rozé of the Recapture
+    hypernyms:
+      - コードギアスシリーズ
+  - canonicalName: コードギアス 反逆のルルーシュ
+    aliases:
+      - CODE GEASS Lelouch of the Rebellion
+    hypernyms:
+      - コードギアスシリーズ
+  - canonicalName: コードギアス 復活のルルーシュ
+    aliases:
+      - "Code Geass: Lelouch of the Re;surrection"
+    hypernyms:
+      - コードギアスシリーズ
+  - canonicalName: ゴールデンカムイ
+    aliases:
+      - GOLDEN KAMUY
+      - 金カム
+  - canonicalName: コカ・コーラ
+    aliases:
+      - Coca-Cola
+      - コーク
+      - Coke
+    hypernyms:
+      - 飲料
+  - canonicalName: ゴジラ-1.0
+    aliases:
+      - ゴジラ マイナスワン
+      - GODZILLA MINUS ONE
+    hypernyms:
+      - ゴジラシリーズ
+  - canonicalName: ホロライブ 日常ささやき「こたつでまったり」ボイス
+    aliases:
+      - こたつでまったりASMR
+      - こたつでまったり
+      - ホロライブASMR こたつでまったり
+      - ホロライブASMR こたつでまったりボイス
+      - 日常ささやきASMR「こたつでまったり」
+    hypernyms:
+      - ホロライブ
+  - canonicalName: こちら葛飾区亀有公園前派出所
+    aliases:
+      - こち亀
+    hypernyms:
+      - 漫画
+  - canonicalName: ゴッドタン
+    aliases:
+      - ゴッドタン 〜The God Tongue 神の舌〜
+  - canonicalName: この素晴らしい世界に祝福を！
+    aliases:
+      - このすば
+      - konosuba
+    hypernyms:
+      - この素晴らしい世界に祝福を！シリーズ
+  - canonicalName: コマンドー
+    aliases:
+      - Commando
+    hypernyms:
+      - 映画
+  - canonicalName: ゴメンねメディスン
+    aliases:
+      - Forgive Me Medicine
+    hypernyms:
+      - 紫咲シオン
+  - canonicalName: コンバース
+    aliases:
+      - CONVERSE
+  - canonicalName: コンプティーク
+    aliases:
+      - Comptiq
+    hypernyms:
+      - 雑誌
+  - canonicalName: ザ・スーパーマリオブラザーズ・ムービー
+    aliases:
+      - The Super Mario Bros. Movie
+    hypernyms:
+      - スーパーマリオシリーズ
+  - canonicalName: ザ・ボーイズ
+    aliases:
+      - The Boys
+    hypernyms:
+      - ドラマシリーズ
+      - 漫画
+  - canonicalName: サイキョウチックポルカ
+    aliases:
+      - Saikyou-tic Polka
+    hypernyms:
+      - 尾丸ポルカ
+  - canonicalName: "サイバーパンク: エッジランナーズ"
+    aliases:
+      - "Cyberpunk: Edgerunners"
+    hypernyms:
+      - サイバーパンク2077
+  - canonicalName: サウスパーク
+    aliases:
+      - South Park
+  - canonicalName: サクラカゼ
+    aliases:
+      - Sakura Kaze
+    hypernyms:
+      - さくらみこ
+  - canonicalName: さくらみこ × Della Key コラボキーキャップ
+    aliases:
+      - さくらみこ × Della Key コラボ
+      - さくらみこ × Della Key キーキャップ
+      - Della key x hololive さくらみこ キーキャップ
+      - さくらみこ 35P Della keyハンドメイドキーキャップセット
+      - Sakura Miko Artisan Keycap
+      - Della key x hololive Sakura Miko Artisan Keycap
+    hypernyms:
+      - さくらみこ
+  - canonicalName: さくらみこ エリート♡"初"個人ボイス
+    aliases:
+      - さくらみこ 個人ボイス
+      - さくらみこ エリート初個人ボイス
+    hypernyms:
+      - さくらみこ
+  - canonicalName: サザエさん
+    aliases:
+      - Sazae-san
+  - canonicalName: サマーウォーズ
+    aliases:
+      - SUMMER WARS
+  - canonicalName: サマージャンボ宝くじ
+    aliases:
+      - サマージャンボ
+    hypernyms:
+      - ジャンボ宝くじ
+  - canonicalName: サマータイムレンダ
+    aliases:
+      - Summer Time Rendering
+  - canonicalName: サマーハイヒール
+    aliases:
+      - Summer High Heels
+    hypernyms:
+      - 大空スバル
+  - canonicalName: さよならテンダー
+    aliases:
+      - Sayonara Tender
+    hypernyms:
+      - koyori
+  - canonicalName: さよならの朝に約束の花をかざろう
+    aliases:
+      - さよ朝
+    hypernyms:
+      - アニメ映画
+  - canonicalName: サンビタリア
+    aliases:
+      - Sanvitalia
+    hypernyms:
+      - 常闇トワ
+  - canonicalName: シアワセ√コヨリニウム
+    aliases:
+      - 幸せコヨリニウム
+    hypernyms:
+      - 博衣こより
+  - canonicalName: ジェラートピケ
+    aliases:
+      - gelato pique
+    hypernyms:
+      - ファッションブランド
+  - canonicalName: ジオ菓子
+    aliases:
+      - ジオガシ
+    hypernyms:
+      - ジオガシ旅行団
+  - canonicalName: しかのこのこのここしたんたん
+    aliases:
+      - My Deer Friend Nokotan
+  - canonicalName: シカ色デイズ
+    aliases:
+      - Shikairo Days
+    hypernyms:
+      - しかのこのこのここしたんたん
+  - canonicalName: ししわたクッキング
+    aliases:
+      - ししわたクッキング feat. 獅白ぼたん
+  - canonicalName: シスター・プリンセス
+    aliases:
+      - Sister Princess
+      - シスプリ
+  - canonicalName: シニカルナイトプラン
+    aliases:
+      - Cynical Night Plan
+  - canonicalName: シビル・ウォー／キャプテン・アメリカ
+    aliases:
+      - "Captain America: Civil War"
+      - キャプテン・アメリカ/シビル・ウォー
+    hypernyms:
+      - キャプテン・アメリカシリーズ
+  - canonicalName: シミュラクル
+    aliases:
+      - Simulacre
+    hypernyms:
+      - 獅白ぼたん
+  - canonicalName: シャークネード
+    aliases:
+      - Sharknado
+    hypernyms:
+      - シャークネードシリーズ
+  - canonicalName: ジャックダニエル
+    aliases:
+      - Jack Daniel's
+    hypernyms:
+      - ウイスキー
+  - canonicalName: ジャックポットサッドガール
+    aliases:
+      - Jackpot Sad Girl
+    hypernyms:
+      - 楽曲
+  - canonicalName: シャトー・メルシャン 椀子
+    aliases:
+      - シャトー・メルシャン 椀子シリーズ
+    hypernyms:
+      - シャトー・メルシャン
+  - canonicalName: シャルイース
+    aliases:
+      - Shallys
+      - シャルイース/SHALLYS
+      - Sha-Le-Ys
+      - 新シャルイース
+    hypernyms:
+      - アキ・ローゼンタール
+  - canonicalName: シャルル
+    aliases:
+      - Charles
+    hypernyms:
+      - 楽曲
+  - canonicalName: シャングリラ・フロンティア
+    aliases:
+      - シャンフロ
+      - シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜
+  - canonicalName: シュガーソングとビターステップ
+    aliases:
+      - シュガソン
+      - シュガビタ
+  - canonicalName: しゅごキャラ！
+    aliases:
+      - Shugo Chara!
+  - canonicalName: ジュラシック・パーク
+    aliases:
+      - Jurassic Park
+    hypernyms:
+      - ジュラシック・パークシリーズ
+  - canonicalName: ジュラシック・ワールド
+    aliases:
+      - Jurassic World
+    hypernyms:
+      - ジュラシック・パークシリーズ
+  - canonicalName: ジョジョの奇妙な冒険
+    aliases:
+      - JOJO'S BIZARRE ADVENTURE
+      - ジョジョ
+  - canonicalName: ジョジョの奇妙な冒険 第3部 スターダストクルセイダース
+    aliases:
+      - ジョジョの奇妙な冒険 スターダストクルセイダース
+      - JOJO'S BIZARRE ADVENTURE Part3 Stardust Crusaders
+      - ジョジョの奇妙な冒険 第3部
+      - ジョジョの奇妙な冒険 Part3
+      - スターダストクルセイダース
+    hypernyms:
+      - ジョジョの奇妙な冒険シリーズ
+  - canonicalName: ジョジョの奇妙な冒険 第6部 ストーンオーシャン
+    aliases:
+      - ジョジョの奇妙な冒険 ストーンオーシャン
+      - ジョジョの奇妙な冒険 Part6 ストーンオーシャン
+      - JOJO'S BIZARRE ADVENTURE Part6 Stone Ocean
+    hypernyms:
+      - ジョジョの奇妙な冒険シリーズ
+  - canonicalName: ジョジョの奇妙な冒険 第4部 ダイヤモンドは砕けない
+    aliases:
+      - ジョジョの奇妙な冒険 ダイヤモンドは砕けない
+      - JOJO'S BIZARRE ADVENTURE Part4 Diamond is Unbreakable
+      - ジョジョ第4部
+    hypernyms:
+      - ジョジョの奇妙な冒険シリーズ
+  - canonicalName: ジョジョの奇妙な冒険 第5部 黄金の風
+    aliases:
+      - ジョジョの奇妙な冒険 黄金の風
+      - ジョジョの奇妙な冒険 第5部
+      - ジョジョ第5部
+      - "JoJo's Bizarre Adventure: Golden Wind"
+    hypernyms:
+      - ジョジョの奇妙な冒険 シリーズ
+  - canonicalName: ジョジョの奇妙な冒険 第2部 戦闘潮流
+    aliases:
+      - JOJO'S BIZARRE ADVENTURE Part2 Battle Tendency
+      - 戦闘潮流
+    hypernyms:
+      - ジョジョの奇妙な冒険
+  - canonicalName: シル・ヴ・プレジデント
+    aliases:
+      - S'il vous President
+  - canonicalName: シルバニアファミリー
+    aliases:
+      - Sylvanian Families
+    hypernyms:
+      - ドールハウス
+  - canonicalName: シン・ウルトラマン
+    aliases:
+      - Shin Ultraman
+    hypernyms:
+      - ウルトラマンシリーズ
+  - canonicalName: シン・エヴァンゲリオン劇場版
+    aliases:
+      - EVANGELION:3.0+1.0 THRICE UPON A TIME
+      - シン・エヴァンゲリオン劇場版𝄇
+    hypernyms:
+      - ヱヴァンゲリヲン新劇場版
+  - canonicalName: シン・ゴジラ
+    aliases:
+      - Shin Godzilla
+      - Godzilla Resurgence
+    hypernyms:
+      - ゴジラシリーズ
+  - canonicalName: ズージアム
+    aliases:
+      - Zooseum
+    hypernyms:
+      - ツーポイントミュージアム
+  - canonicalName: ずうっといっしょ！
+    aliases:
+      - ALWAYS BE WITH YOU
+  - canonicalName: ズートピア
+    aliases:
+      - Zootopia
+    hypernyms:
+      - ディズニー映画
+  - canonicalName: スーパーナチュラル
+    aliases:
+      - SUPERNATURAL
+    hypernyms:
+      - テレビドラマ
+  - canonicalName: スカルプD
+    aliases:
+      - ScalpD
+    hypernyms:
+      - アンファー
+  - canonicalName: すずめの戸締まり
+    aliases:
+      - Suzume
+    hypernyms:
+      - 映画
+  - canonicalName: スター・ウォーズ エピソード3/シスの復讐
+    aliases:
+      - "Star Wars: Episode III – Revenge of the Sith"
+      - スター・ウォーズ／シスの復讐
+    hypernyms:
+      - スター・ウォーズシリーズ
+  - canonicalName: スタースタースタート
+    aliases:
+      - Star,star,start
+      - スタスタ
+    hypernyms:
+      - STAR STAR☆T
+  - canonicalName: スノーピアサー
+    aliases:
+      - Snowpiercer
+  - canonicalName: スパイダーマン:ファー・フロム・ホーム
+    aliases:
+      - "Spider-Man: Far From Home"
+    hypernyms:
+      - スパイダーマンシリーズ
+  - canonicalName: スパイダーマン:ホームカミング
+    aliases:
+      - "Spider-Man: Homecoming"
+    hypernyms:
+      - スパイダーマン
+  - canonicalName: スポンジ・ボブ
+    aliases:
+      - SpongeBob SquarePants
+  - canonicalName: スマートニュース
+    aliases:
+      - SmartNews
+  - canonicalName: スレイヤーズ
+    aliases:
+      - Slayers
+  - canonicalName: 美少女戦士セーラームーン
+    aliases:
+      - セーラームーン
+      - Pretty Guardian Sailor Moon
+      - Pretty Guardians Sailor Moon
+  - canonicalName: ゼロの使い魔
+    aliases:
+      - ゼロ魔
+  - canonicalName: ゼロの足跡
+    aliases:
+      - Zero no Ashiato
+    hypernyms:
+      - 角巻わため
+  - canonicalName: ソウX
+    aliases:
+      - Saw X
+    hypernyms:
+      - ソウシリーズ
+  - canonicalName: ときのそら 1st写真集「そらびより」
+    aliases:
+      - そらびより
+    hypernyms:
+      - ときのそら
+  - canonicalName: ゾンビランドサガ
+    aliases:
+      - Zombie Land Saga
+      - ゾンサガ
+  - canonicalName: ターミネーター
+    aliases:
+      - The Terminator
+    hypernyms:
+      - ターミネーターシリーズ
+  - canonicalName: ダーリンダンス
+    aliases:
+      - Darling Dance
+  - canonicalName: だいしきゅーだいしゅき
+    aliases:
+      - だいしゅきだいしゅき
+    hypernyms:
+      - femme fatale
+  - canonicalName: ダイ・ハード
+    aliases:
+      - Die Hard
+    hypernyms:
+      - ダイ・ハードシリーズ
+  - canonicalName: ダイヤのA
+    aliases:
+      - Ace of Diamond
+  - canonicalName: だから僕は音楽を辞めた
+    aliases:
+      - That's Why I Gave Up on Music
+    hypernyms:
+      - ヨルシカ
+  - canonicalName: タッカーとデイル 史上最悪にツイてないヤツら
+    aliases:
+      - Tucker and Dale vs Evil
+    hypernyms:
+      - 映画
+  - canonicalName: タッチ
+    aliases:
+      - Touch
+    hypernyms:
+      - あだち充作品
+  - canonicalName: たべっ子どうぶつ
+    aliases:
+      - たべっこどうぶつ
+    hypernyms:
+      - ギンビス
+  - canonicalName: ダンジョン飯
+    aliases:
+      - Delicious in Dungeon
+  - canonicalName: ダンダダン
+    aliases:
+      - DAN DA DAN
+  - canonicalName: ダンベル何キロ持てる？
+    aliases:
+      - How Heavy Are the Dumbbells You Lift?
+  - canonicalName: チェリーポップ
+    aliases:
+      - Cherry Pop
+  - canonicalName: チェリボム
+    aliases:
+      - Cherry Bomb
+  - canonicalName: チェンソーマン
+    aliases:
+      - Chainsaw Man
+  - canonicalName: 劇場版『チェンソーマン レゼ篇』
+    aliases:
+      - チェンソーマン レゼ篇
+    hypernyms:
+      - チェンソーマン
+  - canonicalName: チノカテ
+    aliases:
+      - Chinokate
+    hypernyms:
+      - ヨルシカ
+  - canonicalName: チャーリーとチョコレート工場
+    aliases:
+      - Charlie and the Chocolate Factory
+  - canonicalName: チューリングラブ feat. Sou
+    aliases:
+      - チューリングラブ
+    hypernyms:
+      - 理系が恋に落ちたので証明してみた。
+  - canonicalName: チョコボール
+    aliases:
+      - CHOCOBALL
+    hypernyms:
+      - チョコレート菓子
+  - canonicalName: ツッパリHigh School Rock'n Roll
+    aliases:
+      - ツッパリハイスクールロックンロール
+    hypernyms:
+      - 横浜銀蝿
+  - canonicalName: ツバサ・クロニクル
+    aliases:
+      - ツバサ-RESERVoir CHRoNiCLE-
+    hypernyms:
+      - ツバサシリーズ
+  - canonicalName: つらい思いをさせてごめんね
+    aliases:
+      - sorry for making you feel bad
+    hypernyms:
+      - 猫又おかゆ
+  - canonicalName: ディスコミュ星人
+    aliases:
+      - Discommunication alien
+  - canonicalName: ディズニープラス
+    aliases:
+      - Disney+
+    hypernyms:
+      - ディズニー
+  - canonicalName: デコグラデーション
+    aliases:
+      - Decogradation
+    hypernyms:
+      - ぺるそにゃ～りすぺくと
+  - canonicalName: デジモンアドベンチャー
+    aliases:
+      - DIGIMON ADVENTURE
+    hypernyms:
+      - デジモンシリーズ
+  - canonicalName: デジモンアドベンチャー02
+    aliases:
+      - DIGIMON ADVENTURE 02
+    hypernyms:
+      - デジモンシリーズ
+  - canonicalName: デッドプール＆ウルヴァリン
+    aliases:
+      - Deadpool & Wolverine
+    hypernyms:
+      - デッドプールシリーズ
+  - canonicalName: デッドプール2
+    aliases:
+      - Deadpool 2
+    hypernyms:
+      - デッドプールシリーズ
+  - canonicalName: デビルじゃないもん
+    aliases:
+      - (Not) A Devil
+  - canonicalName: デビルマン
+    aliases:
+      - Devilman
+  - canonicalName: テリファー
+    aliases:
+      - Terrifier
+    hypernyms:
+      - テリファーシリーズ
+  - canonicalName: テリファー 終わらない惨劇
+    aliases:
+      - テリファー2
+      - Terrifier 2
+    hypernyms:
+      - テリファーシリーズ
+  - canonicalName: テルマエ・ロマエ
+    aliases:
+      - THERMÆ ROMÆ
+    hypernyms:
+      - 漫画
+  - canonicalName: テルマエ・ロマエII
+    aliases:
+      - Thermae Romae II
+    hypernyms:
+      - テルマエ・ロマエ（シリーズ）
+  - canonicalName: テレパシ
+    aliases:
+      - Telepathy
+  - canonicalName: とある科学の超電磁砲
+    aliases:
+      - とある科学のレールガン
+    hypernyms:
+      - とあるシリーズ
+  - canonicalName: とある魔術の禁書目録
+    aliases:
+      - とあるまじゅつのインデックス
+      - A Certain Magical Index
+    hypernyms:
+      - とあるシリーズ
+  - canonicalName: トイ・ストーリー
+    aliases:
+      - Toy Story
+    hypernyms:
+      - トイ・ストーリーシリーズ
+  - canonicalName: ON STAGE! (ときのそらのアルバム)
+    aliases:
+      - ときのそら 2ndアルバム『ON STAGE!』
+      - ON STAGE!
+      - ときのそら セカンドアルバム「ON STAGE!」
+      - ときのそら 2nd Album「ON STAGE!」
+    hypernyms:
+      - ときのそら
+  - canonicalName: My Loving
+    aliases:
+      - ときのそら ミニアルバム『My Loving』
+    hypernyms:
+      - ときのそら
+  - canonicalName: ときのそら 止まらないボイススタンプ
+    aliases:
+      - ときのそら 止まらねぇぞLINEスタンプ
+    hypernyms:
+      - ときのそら
+  - canonicalName: ときのそらオフィシャルファンクラブ
+    aliases:
+      - ときのそらファンクラブ
+    hypernyms:
+      - ときのそら
+  - canonicalName: ドクター・ストレンジ
+    aliases:
+      - Doctor Strange
+    hypernyms:
+      - マーベル・シネマティック・ユニバース
+  - canonicalName: ドゲンジャーズ
+    aliases:
+      - DOGENGERS
+  - canonicalName: トップガン
+    aliases:
+      - Top Gun
+    hypernyms:
+      - トップガンシリーズ
+  - canonicalName: ドデカミン
+    aliases:
+      - Dodecamin
+    hypernyms:
+      - 炭酸飲料
+  - canonicalName: となりのトトロ
+    aliases:
+      - My Neighbor Totoro
+  - canonicalName: トムとジェリー
+    aliases:
+      - Tom and Jerry
+  - canonicalName: ドラゴンクエスト ダイの大冒険
+    aliases:
+      - DRAGON QUEST -ダイの大冒険-
+    hypernyms:
+      - ドラゴンクエストシリーズ
+  - canonicalName: ドラゴンクエスト ダイの大冒険 (2020年アニメ)
+    aliases:
+      - ドラゴンクエスト ダイの大冒険 (2020)
+      - ドラゴンクエスト ダイの大冒険 (2020年版)
+    hypernyms:
+      - ドラゴンクエスト ダイの大冒険
+  - canonicalName: ドラゴンボールDAIMA
+    aliases:
+      - DRAGON BALL DAIMA
+      - ドラゴンボールダイマ
+    hypernyms:
+      - ドラゴンボールシリーズ
+  - canonicalName: ドラゴンボールZ
+    aliases:
+      - DRAGON BALL Z
+    hypernyms:
+      - ドラゴンボールシリーズ
+  - canonicalName: ドラゴンボールZ 銀河ギリギリ!!ぶっちぎりの凄い奴
+    aliases:
+      - 劇場版 ドラゴンボールZ 銀河ギリギリ!!ぶっちぎりの凄い奴
+    hypernyms:
+      - ドラゴンボールシリーズ
+  - canonicalName: ドラゴンボールZ 神と神
+    aliases:
+      - "Dragon Ball Z: Battle of Gods"
+    hypernyms:
+      - ドラゴンボールシリーズ
+  - canonicalName: ドラゴンボールZ 復活の「F」
+    aliases:
+      - "Dragon Ball Z: Resurrection 'F'"
+    hypernyms:
+      - ドラゴンボールシリーズ
+  - canonicalName: ドラゴンボールZ 復活のフュージョン!!悟空とベジータ
+    aliases:
+      - 劇場版 ドラゴンボールZ 復活のフュージョン!!悟空とベジータ
+    hypernyms:
+      - ドラゴンボールシリーズ
+  - canonicalName: ドラゴンボールシリーズ
+    aliases:
+      - Dragon Ball Series
+  - canonicalName: ドラゴンボール超
+    aliases:
+      - DRAGON BALL SUPER
+    hypernyms:
+      - ドラゴンボールシリーズ
+  - canonicalName: ドラゴンボール超 スーパーヒーロー
+    aliases:
+      - "Dragon Ball Super: SUPER HERO"
+    hypernyms:
+      - ドラゴンボールシリーズ
+  - canonicalName: ドラゴンボール超 ブロリー
+    aliases:
+      - "Dragon Ball Super: BROLY"
+    hypernyms:
+      - ドラゴンボール超
+  - canonicalName: とらドラ！
+    aliases:
+      - Toradora
+  - canonicalName: トラペジウム
+    aliases:
+      - trapezium
+  - canonicalName: トランスフォーマー
+    aliases:
+      - Transformers
+  - canonicalName: ドリエル
+    aliases:
+      - Drewell
+    hypernyms:
+      - 睡眠改善薬
+  - canonicalName: トリコ
+    aliases:
+      - Toriko
+  - canonicalName: トリック
+    aliases:
+      - TRICK
+  - canonicalName: ドン・キホーテコラボもちどる
+    aliases:
+      - ホロライブ×ドン・キホーテ もちどる
+  - canonicalName: とんでもスキルで異世界放浪メシ
+    aliases:
+      - とんスキ
+      - Campfire Cooking in Another World with My Absurd Skill
+  - canonicalName: なかま歌
+    aliases:
+      - Nakamaka
+    hypernyms:
+      - 不知火建設
+  - canonicalName: ナナワリエネミー
+    aliases:
+      - nanawari enemy
+  - canonicalName: ニコニコ動画
+    aliases:
+      - niconico
+      - ニコニコ
+  - canonicalName: にっこり^^調査隊のテーマ
+    aliases:
+      - Niccori^^ Survey Team Theme
+    hypernyms:
+      - プロジェクトセカイ カラフルステージ！ feat. 初音ミク
+  - canonicalName: にゃっはろーわーるど!!!
+    aliases:
+      - Nya-Hello World!!!
+  - canonicalName: にんじゃりばんばん
+    aliases:
+      - Ninja Re Bang Bang
+    hypernyms:
+      - きゃりーぱみゅぱみゅ
+  - canonicalName: ぬいぐるみ 招き35P
+    aliases:
+      - 招き35P
+    hypernyms:
+      - 新春!!爆笑!!みっころね24 リターンズ!!
+  - canonicalName: ネバギバ夏色ストーリー！
+    aliases:
+      - Never Give Up Natsuiro Story
+  - canonicalName: ねんどろいど
+    aliases:
+      - ねんどろ
+      - Nendoroid
+  - canonicalName: ねんどろいど AZKi
+    aliases:
+      - Nendoroid AZKi
+    hypernyms:
+      - ねんどろいど
+  - canonicalName: のえさんぽ
+    aliases:
+      - Noesanpo
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: ノエルのポーション
+    aliases:
+      - プレミアムクラフトジン ノエルのポーション
+  - canonicalName: ノーゲーム・ノーライフ
+    aliases:
+      - NO GAME NO LIFE
+      - ノゲ
+      - ノゲノラ
+    hypernyms:
+      - ライトノベル
+  - canonicalName: ノラガミ
+    aliases:
+      - Noragami
+  - canonicalName: ノンブレス・オブリージュ
+    aliases:
+      - Non-breath oblige
+    hypernyms:
+      - ピノキオピー
+  - canonicalName: ハーゲンダッツ
+    aliases:
+      - Häagen-Dazs
+    hypernyms:
+      - アイスクリーム
+  - canonicalName: HAACHAMA Tシャツ
+    aliases:
+      - はあちゃまTシャツ
+    hypernyms:
+      - 赤井はあと
+  - canonicalName: はあちゃま初心者向けスターティングボイス
+    aliases:
+      - 赤井はあと初心者向けスターティングボイス
+    hypernyms:
+      - スターティングボイス
+  - canonicalName: ばーちゃらぶ
+    aliases:
+      - Virtualove
+  - canonicalName: バーチャルさんはみている
+    aliases:
+      - VIRTUALSAN - LOOKING
+    hypernyms:
+      - アニメ
+  - canonicalName: ハートキャッチプリキュア！
+    aliases:
+      - HEARTCATCH PRECURE!
+    hypernyms:
+      - プリキュアシリーズ
+  - canonicalName: パーマン
+    aliases:
+      - Perman
+    hypernyms:
+      - 藤子・F・不二雄作品
+  - canonicalName: ハイキュー!!
+    aliases:
+      - Haikyu!!
+  - canonicalName: はいよろこんで
+    aliases:
+      - Hai Yorokonde
+  - canonicalName: パイレーツ・オブ・カリビアン
+    aliases:
+      - Pirates of the Caribbean
+    hypernyms:
+      - ディズニー
+  - canonicalName: ハウルの動く城
+    aliases:
+      - Howl's Moving Castle
+  - canonicalName: ホロライブ公式スタンプバカタレ共
+    aliases:
+      - バカタレ共 LINEスタンプ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: バカとテストと召喚獣
+    aliases:
+      - バカテス
+      - Baka and Test
+  - canonicalName: ばかばっか (鷹嶺ルイ)
+    aliases:
+      - ばかばっか
+    hypernyms:
+      - 鷹嶺ルイ
+  - canonicalName: バクマン。
+    aliases:
+      - Bakuman。
+  - canonicalName: バグラブ (ラプラス・ダークネスの楽曲)
+    aliases:
+      - バグラブ
+      - Buglove
+  - canonicalName: はじめの一歩
+    aliases:
+      - Hajime no Ippo
+  - canonicalName: バジリスク 〜甲賀忍法帖〜
+    aliases:
+      - バジリスク
+      - Basilisk 〜The Kōga Ninja Scrolls〜
+  - canonicalName: バズビバザヴ
+    aliases:
+      - BAZUBI BAZAB
+  - canonicalName: ハチミツとクローバー
+    aliases:
+      - ハチクロ
+      - Honey and Clover
+  - canonicalName: バチャリアラブ feat. 涼海すう&籾山ひめり from 高嶺のなでしこ
+    aliases:
+      - バチャリアラブ
+    hypernyms:
+      - Pulse
+  - canonicalName: バック・トゥ・ザ・フューチャー
+    aliases:
+      - Back to the Future
+      - BTTF
+    hypernyms:
+      - バック・トゥ・ザ・フューチャーシリーズ
+  - canonicalName: ハツコイ♡パティシエール
+    aliases:
+      - Hatsukoi Pâtissière
+  - canonicalName: ハッピーフライト
+    aliases:
+      - HAPPY FLIGHT
+  - canonicalName: パラライズ
+    aliases:
+      - Paralyze
+  - canonicalName: ハリー・ポッターとアズカバンの囚人
+    aliases:
+      - Harry Potter and the Prisoner of Azkaban
+    hypernyms:
+      - ハリー・ポッターシリーズ
+  - canonicalName: ハリー・ポッターと炎のゴブレット
+    aliases:
+      - Harry Potter and the Goblet of Fire
+    hypernyms:
+      - ハリー・ポッターシリーズ
+  - canonicalName: ハリー・ポッターと賢者の石
+    aliases:
+      - Harry Potter and the Philosopher's Stone
+      - Harry Potter and the Sorcerer's Stone
+    hypernyms:
+      - ハリー・ポッターシリーズ
+  - canonicalName: ハリー・ポッターと呪いの子
+    aliases:
+      - Harry Potter and the Cursed Child
+    hypernyms:
+      - ハリー・ポッターシリーズ
+  - canonicalName: ハリー・ポッターと謎のプリンス
+    aliases:
+      - Harry Potter and the Half-Blood Prince
+    hypernyms:
+      - ハリー・ポッターシリーズ
+  - canonicalName: ハリー・ポッターと秘密の部屋
+    aliases:
+      - Harry Potter and the Chamber of Secrets
+    hypernyms:
+      - ハリー・ポッターシリーズ
+  - canonicalName: パリピ孔明
+    aliases:
+      - Ya Boy Kongming!
+  - canonicalName: ピースサイン
+    aliases:
+      - Peace Sign
+  - canonicalName: ヒカルの碁
+    aliases:
+      - Hikaru no Go
+  - canonicalName: ピッとして！マーマレード
+    aliases:
+      - Pittoshite! Marmalade
+    hypernyms:
+      - ときのそら
+  - canonicalName: ピノ
+    aliases:
+      - pino
+    hypernyms:
+      - アイスクリーム
+  - canonicalName: ピパポ☆ピピプ
+    aliases:
+      - Pipapo☆Pipipu
+    hypernyms:
+      - BABACORN
+  - canonicalName: ビビデバ
+    aliases:
+      - BIBBIDIBA
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: 僕のヒーローアカデミア
+    aliases:
+      - ヒロアカ
+      - My Hero Academia
+  - canonicalName: ひろがるスカイ！プリキュア
+    aliases:
+      - ひろプリ
+      - Hirogaru Sky! Precure
+    hypernyms:
+      - プリキュアシリーズ
+  - canonicalName: ファタール
+    aliases:
+      - Fatal
+    hypernyms:
+      - 【推しの子】
+  - canonicalName: ファッションビート
+    aliases:
+      - Fashion Beat
+    hypernyms:
+      - さくらみこ
+  - canonicalName: ファミ通
+    aliases:
+      - 週刊ファミ通
+      - Famitsu
+  - canonicalName: ファンタスティック・ビースト シリーズ
+    aliases:
+      - ファンタスティック・ビースト
+      - Fantastic Beasts
+    hypernyms:
+      - 魔法ワールド
+  - canonicalName: フィーリングラデーション
+    aliases:
+      - feelingradation
+    hypernyms:
+      - ReGLOSS
+  - canonicalName: フィニアスとファーブ
+    aliases:
+      - Phineas and Ferb
+  - canonicalName: フクロウさん
+    aliases:
+      - Fukurou-san
+    hypernyms:
+      - すりぃ
+  - canonicalName: ブライダルドリーム
+    aliases:
+      - Bridal Dream
+    hypernyms:
+      - ホロハニ
+  - canonicalName: プラダを着た悪魔
+    aliases:
+      - The Devil Wears Prada
+  - canonicalName: ブラッククローバー
+    aliases:
+      - Black Clover
+  - canonicalName: ブラックパンサー
+    aliases:
+      - Black Panther
+    hypernyms:
+      - マーベル・シネマティック・ユニバース
+  - canonicalName: プリキュアシリーズ
+    aliases:
+      - プリキュア
+      - Precure
+      - Pretty Cure
+  - canonicalName: サンドリヨン
+    aliases:
+      - Cendrillon
+      - サンドリオン
+  - canonicalName: プリズン・ブレイク
+    aliases:
+      - Prison Break
+  - canonicalName: ブリにゃんモードはピピピのピ♡
+    aliases:
+      - Brinyan’s Mode ha Pi Pi Pi no Pi ♡
+      - ブリピ
+    hypernyms:
+      - 白上フブキ
+  - canonicalName: プリパラ
+    aliases:
+      - PriPara
+    hypernyms:
+      - プリティーシリーズ
+  - canonicalName: フルーツバスケット
+    aliases:
+      - フルバ
+  - canonicalName: ブルーバード（いきものがかりの楽曲）
+    aliases:
+      - ブルーバード
+      - Blue Bird
+  - canonicalName: ブルーピリオド
+    aliases:
+      - Blue Period.
+  - canonicalName: ブルーロック
+    aliases:
+      - BLUELOCK
+  - canonicalName: ブレインスリープ コンフォーター オールシーズンズ
+    aliases:
+      - BRAIN SLEEP Comforter All Seasons
+    hypernyms:
+      - ブレインスリープ
+  - canonicalName: ブレーメンの音楽隊
+    aliases:
+      - Die Bremer Stadtmusikanten
+      - Town Musicians of Bremen
+    hypernyms:
+      - グリム童話
+  - canonicalName: プロメア
+    aliases:
+      - PROMARE
+  - canonicalName: プロメテウス (映画)
+    aliases:
+      - プロメテウス
+      - Prometheus
+    hypernyms:
+      - 映画
+  - canonicalName: フロントメモリー
+    aliases:
+      - FRONT MEMORY
+  - canonicalName: ベイビーダンス
+    aliases:
+      - Baby Dance
+    hypernyms:
+      - さくらみこ
+  - canonicalName: ベテルギウス (優里の曲)
+    aliases:
+      - ベテルギウス
+      - Betelgeuse
+  - canonicalName: ペヤング
+    aliases:
+      - Peyoung
+    hypernyms:
+      - まるか食品
+  - canonicalName: ペヤング 獄激辛やきそば
+    aliases:
+      - ペヤング獄激辛
+    hypernyms:
+      - ペヤング
+  - canonicalName: ベルセルク
+    aliases:
+      - BERSERK
+  - canonicalName: ぺるそにゃ〜りすぺくと
+    aliases:
+      - 猫又おかゆ 2nd Live "ぺるそにゃ～りすぺくと"
+      - PERSONYA RESPECT
+      - 猫又おかゆ 2ndアルバム『ぺるそにゃ～りすぺくと』
+      - 猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺくと』Blu-ray
+    hypernyms:
+      - 猫又おかゆ
+  - canonicalName: ボイスドラマ「The Beginning」
+    aliases:
+      - The Beginning
+    hypernyms:
+      - ボイスドラマ
+  - canonicalName: ホーム・アローン
+    aliases:
+      - Home Alone
+    hypernyms:
+      - ホーム・アローンシリーズ
+  - canonicalName: ポカリスエット
+    aliases:
+      - Pocari Sweat
+  - canonicalName: ぼくらのなぞなぞ
+    aliases:
+      - Riddles We Share
+  - canonicalName: ポケットモンスター アドバンスジェネレーション
+    aliases:
+      - ポケットモンスター ADVANCED GENERATION
+    hypernyms:
+      - ポケットモンスターシリーズ
+  - canonicalName: ポケトーク
+    aliases:
+      - POCKETALK
+    hypernyms:
+      - 翻訳機
+  - canonicalName: ボッカデラベリタ
+    aliases:
+      - Bocca della Verità
+  - canonicalName: ぼっち・ざ・ろっく！
+    aliases:
+      - Bocchi the Rock!
+      - ぼざろ
+  - canonicalName: ホットペッパーグルメ
+    aliases:
+      - Hot Pepper Gourmet
+    hypernyms:
+      - グルメサイト
+  - canonicalName: ポプテピピック
+    aliases:
+      - POP TEAM EPIC
+      - ポプテピ
+      - ポプテ
+  - canonicalName: ボボボーボ・ボーボボ
+    aliases:
+      - ボーボボ
+  - canonicalName: ホロアロマ
+    aliases:
+      - HOLO AROMA!
+    hypernyms:
+      - ホロライブプロダクション
+  - canonicalName: ホロクッキングくじ～ホロッとカフェテリア～
+    aliases:
+      - ホロクッキングくじ
+      - ホロライブくじ ホロクッキング
+      - ホロライブ ホロクッキングくじ～ホロッとカフェテリア～
+    hypernyms:
+      - ホロライブくじ
+      - ホロライブ
+      - ホロクッキング
+  - canonicalName: HOLOGRAM CIRCUS
+    aliases:
+      - ホログラムサーカス
+    hypernyms:
+      - 尾丸ポルカ
+  - canonicalName: ほろはにヶ丘高校
+    aliases:
+      - Holohoneygaoka High School
+    hypernyms:
+      - hololive × HoneyWorks
+  - canonicalName: ホロライブ カップ麺3分ボイスリターンズ
+    aliases:
+      - ホロライブ カップ麺3分ボイスR
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ バレンタインボイス2025
+    aliases:
+      - ホロライブ バレンタインボイス2025 ～秘密の告白～
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ 世界のおわりボイス
+    aliases:
+      - ホロライブ 世界の終わりボイス
+      - 世界の終わりボイス
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ 日常ささやき「君と焚火でくつろぐ」ボイス
+    aliases:
+      - ホロライブ 日常ささやき「君と焚火でくつろぐ」ASMRボイス
+    hypernyms:
+      - ホロライブ 日常ささやきシリーズ
+  - canonicalName: ホロライブ 日常ささやき「寝かしつけてくれる」ボイス
+    aliases:
+      - ホロライブ 日常ささやき「寝かしつけてくれる」ASMRボイス
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ 日常ささやき「優しく諭してくれる」ボイス
+    aliases:
+      - ホロライブ 日常ささやき「優しく諭してくれる」ASMRボイス
+      - 日常ささやき「優しく諭してくれる」ASMRボイス
+    hypernyms:
+      - ホロライブ
+  - canonicalName: "#hololive IF"
+    aliases:
+      - ホロライブif
+    hypernyms:
+      - ホロライブプロダクション
+  - canonicalName: ホロエンブレム
+    aliases:
+      - ホロライブエンブレム
+    hypernyms:
+      - ホロライブプロダクション
+  - canonicalName: hololive Seasonal Days ホロライブオータムフェスト
+    aliases:
+      - ホロライブオータムフェスト
+    hypernyms:
+      - hololive Seasonal Days
+  - canonicalName: ホロライブ クリスマスボイス2024 ～トラベル ウィズ Y♡U～
+    aliases:
+      - ホロライブ クリスマスボイス2024
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ夏休みボイス2022
+    aliases:
+      - ホロライブ サマーバケーションボイス2022
+      - 夏休みボイス2022
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブプロダクション チョコクランチ
+    aliases:
+      - ホロライブチョコ
+      - ホロライブチョコクランチ
+      - ホロプロチョコクランチ
+    hypernyms:
+      - ホロライブプロダクション
+  - canonicalName: ホロライブバレンタイン ～Message for You～
+    aliases:
+      - hololive Seasonal Days ホロライブバレンタイン ～Message for You～
+    hypernyms:
+      - hololive Seasonal Days
+  - canonicalName: hololive FANCLUB
+    aliases:
+      - ホロライブファンクラブ
+      - ホロライブ公式ファンクラブ
+    hypernyms:
+      - ホロライブプロダクション
+  - canonicalName: 一番くじ ホロライブ
+    aliases:
+      - ホロライブ一番くじ
+      - 一番くじ ホロライブ スタイル
+    hypernyms:
+      - ホロライブ
+      - 一番くじ
+  - canonicalName: ホロライブ 運動会ボイス
+    aliases:
+      - ホロライブ運動会ボイスパック
+      - 運動会ボイスパック
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ ジューンブライドボイス
+    aliases:
+      - ホロライブ花嫁ボイス
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ学園
+    aliases:
+      - hololive Academy
+    hypernyms:
+      - hololive production
+  - canonicalName: ホロライブ学園ボイス
+    aliases:
+      - ホロライブ学園ボイスシリーズ
+      - ホロライブ学園ホラーボイス
+    hypernyms:
+      - ホロライブ
+      - hololive
+  - canonicalName: ホロライブプロダクション検定
+    aliases:
+      - ホロライブ検定
+    hypernyms:
+      - ホロライブプロダクション
+  - canonicalName: ホロライブ言えるかな？
+    aliases:
+      - Can You Do the hololive?
+    hypernyms:
+      - ホロライブソング
+  - canonicalName: ホロライブ言えるかな？hololive SUPER EXPO 2024 ver.
+    aliases:
+      - Can You Do the hololive? (hololive SUPER EXPO 2024 ver.)
+    hypernyms:
+      - ホロライブ言えるかな？
+  - canonicalName: ホロライブ公式スタンプ「AZKi」
+    aliases:
+      - ホロライブ公式 LINEスタンプ AZKi
+      - AZKi公式LINEスタンプ
+      - AZKi LINEスタンプ
+      - AZKiスタンプ
+    hypernyms:
+      - AZKi
+      - ホロライブ
+  - canonicalName: ホロライブ公式スタンプ「白上フブキ」
+    aliases:
+      - ホロライブ公式LINEスタンプ 白上フブキ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ公式スタンプ「不知火フレア」
+    aliases:
+      - 不知火フレア（ホロライブ公式スタンプ）
+      - 不知火フレア公式スタンプ
+      - ホロライブ公式スタンプ「フレアイリス」
+      - 「不知火フレア」スタンプVol.2
+      - 「フレアイリス」スタンプ
+      - 不知火フレア LINEスタンプ
+      - 不知火フレア公式LINEスタンプ
+    hypernyms:
+      - ホロライブ公式スタンプ
+      - 不知火フレア
+      - ホロライブ
+  - canonicalName: ホロライブ正月衣装
+    aliases:
+      - ホロライブお正月衣装
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ聴き漫才ボイス
+    aliases:
+      - ホロライブ漫才ボイス
+      - 漫才ボイス
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロ寿司
+    aliases:
+      - ホロ寿司グッズシリーズ
+    hypernyms:
+      - ホロのぐらふぃてぃ
+  - canonicalName: マーブル冴える
+    aliases:
+      - Like Marble
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: まいたけダンス
+    aliases:
+      - Maitake Dance
+  - canonicalName: マイティ・ソー バトルロイヤル
+    aliases:
+      - "Thor: Ragnarok"
+    hypernyms:
+      - マイティ・ソーシリーズ
+  - canonicalName: マイネームイズエリート☆
+    aliases:
+      - My Name is Elite☆
+    hypernyms:
+      - さくらみこ
+  - canonicalName: マギ
+    aliases:
+      - "Magi: The Labyrinth of Magic"
+  - canonicalName: マクロスシリーズ
+    aliases:
+      - マクロス
+  - canonicalName: まじっく快斗
+    aliases:
+      - Magic Kaito
+  - canonicalName: マシュマロ
+    aliases:
+      - Marshmallow
+    hypernyms:
+      - メッセージ投稿サービス
+  - canonicalName: マジンガーZ
+    aliases:
+      - Mazinger Z
+    hypernyms:
+      - マジンガーシリーズ
+  - canonicalName: マダム・ウェブ
+    aliases:
+      - Madame Web
+    hypernyms:
+      - ソニーズ・スパイダーマン・ユニバース
+  - canonicalName: マトリックス
+    aliases:
+      - The Matrix
+    hypernyms:
+      - マトリックスシリーズ
+  - canonicalName: マトリョシカ
+    aliases:
+      - Matryoshka
+    hypernyms:
+      - 楽曲
+  - canonicalName: マドロミ
+    aliases:
+      - マドロミ（楽曲）
+    hypernyms:
+      - 楽曲
+  - canonicalName: まほろまてぃっく
+    aliases:
+      - Mahoromatic
+  - canonicalName: マリアージュフレール
+    aliases:
+      - MARIAGES FRÈRES
+    hypernyms:
+      - 紅茶ブランド
+  - canonicalName: マンダロリアン
+    aliases:
+      - The Mandalorian
+    hypernyms:
+      - スター・ウォーズシリーズ
+  - canonicalName: まんなかちてん
+    aliases:
+      - Mannaka Chiten
+    hypernyms:
+      - 姫森ルーナ
+  - canonicalName: みそきん
+    aliases:
+      - Misokin
+    hypernyms:
+      - HIKAKIN
+  - canonicalName: ミックスナッツ
+    aliases:
+      - Mixed Nuts
+    hypernyms:
+      - SPY×FAMILY
+  - canonicalName: みっころね×しょうたいむ!!
+    aliases:
+      - Mikkorone x Showtime!!
+    hypernyms:
+      - ホロライブ
+  - canonicalName: みっころね×やってやんよ!!
+    aliases:
+      - Mikkorone × Yatteyanyo!!
+  - canonicalName: ミッドサマー
+    aliases:
+      - Midsommar
+  - canonicalName: ミニオンズ
+    aliases:
+      - Minions
+    hypernyms:
+      - 怪盗グルーシリーズ
+  - canonicalName: MUSIC VERSE
+    aliases:
+      - ミュージックバース
+  - canonicalName: ミルキー
+    aliases:
+      - 不二家ミルキー
+      - Milky
+    hypernyms:
+      - 不二家
+  - canonicalName: ムカデ人間
+    aliases:
+      - The Human Centipede (First Sequence)
+    hypernyms:
+      - ムカデ人間シリーズ
+  - canonicalName: メイドインアビス
+    aliases:
+      - MADE IN ABYSS
+  - canonicalName: めぞん一刻
+    aliases:
+      - Maison Ikkoku
+  - canonicalName: メダリスト
+    aliases:
+      - Medalist
+  - canonicalName: メフィスト (女王蜂の楽曲)
+    aliases:
+      - メフィスト
+      - Mephisto
+    hypernyms:
+      - 楽曲
+  - canonicalName: メルティキッス 初ASMRボイス
+    aliases:
+      - メルティーキッスASMRボイス
+    hypernyms:
+      - ホロライブ
+  - canonicalName: もうどうなってもいいや
+    aliases:
+      - I don't care
+    hypernyms:
+      - 楽曲
+  - canonicalName: モードク
+    aliases:
+      - moodoku
+    hypernyms:
+      - 沙花叉クロヱ
+  - canonicalName: もぐもぐYUMMY!
+    aliases:
+      - Grrr Grrr Tummy
+      - もぐもぐもぐもぐYUMMY
+    hypernyms:
+      - 猫又おかゆ
+  - canonicalName: もっちゅりん
+    aliases:
+      - ミスタードーナツ もっちゅりん
+    hypernyms:
+      - ミスタードーナツ
+  - canonicalName: もののけ姫
+    aliases:
+      - Princess Mononoke
+  - canonicalName: モンスターエナジー
+    aliases:
+      - Monster Energy
+  - canonicalName: ユメゾラ☆ファンファーレ
+    aliases:
+      - Yumezora Fanfare
+    hypernyms:
+      - Sign
+  - canonicalName: ようこそジャパリパークへ
+    aliases:
+      - Welcome to ようこそジャパリパーク！
+    hypernyms:
+      - けものフレンズ
+  - canonicalName: ようこそ実力至上主義の教室へ
+    aliases:
+      - よう実
+      - Classroom of the Elite
+    hypernyms:
+      - ようこそ実力至上主義の教室へシリーズ
+  - canonicalName: ライメイ (常闇トワの楽曲)
+    aliases:
+      - ライメイ
+  - canonicalName: ラヴレター（楽曲）
+    aliases:
+      - ラヴレター
+      - Love Letter
+    hypernyms:
+      - ホロライブ楽曲
+  - canonicalName: らき☆すた
+    aliases:
+      - Lucky Star
+      - Lucky☆Star
+  - canonicalName: ラグトレイン
+    aliases:
+      - Lagtrain
+  - canonicalName: ラッキーセブンスホイッスル
+    aliases:
+      - Lucky 7th Whistle
+  - canonicalName: ラビットホール (楽曲)
+    aliases:
+      - ラビットホール
+      - Rabbit Hole
+    hypernyms:
+      - 楽曲
+  - canonicalName: ラブひな
+    aliases:
+      - Love Hina
+  - canonicalName: ラブライブ！虹ヶ咲学園スクールアイドル同好会
+    aliases:
+      - 虹ヶ咲学園スクールアイドル同好会
+      - ニジガク
+      - 虹ヶ咲
+    hypernyms:
+      - ラブライブ！シリーズ
+  - canonicalName: ラプラス・ダークネスの欲望ASMR～誘惑監獄編～
+    aliases:
+      - "Laplus Darkness's Deepest Desires ASMR: Prison of Passion"
+    hypernyms:
+      - ラプラス・ダークネス
+  - canonicalName: ラミィズバリバリワークアウト
+    aliases:
+      - Lamy's Baribari Workout
+  - canonicalName: ラムダック
+    aliases:
+      - Lambduck
+  - canonicalName: ララララビット！！
+    aliases:
+      - Rarara Rabbit!!
+    hypernyms:
+      - 兎田ぺこら
+  - canonicalName: らんま1/2
+    aliases:
+      - Ranma 1/2
+  - canonicalName: リアルメランコリー
+    aliases:
+      - Real Melancholy
+  - canonicalName: リーガル・ハイ
+    aliases:
+      - LEGAL HIGH
+  - canonicalName: リコリス・リコイル
+    aliases:
+      - Lycoris Recoil
+      - リコリコ
+  - canonicalName: リトル・マーメイド
+    aliases:
+      - The Little Mermaid
+  - canonicalName: リメンバー・ミー
+    aliases:
+      - Coco
+    hypernyms:
+      - ディズニー映画
+      - ピクサー映画
+  - canonicalName: リモコン
+    aliases:
+      - Remote Controller
+  - canonicalName: リリカルMonster
+    aliases:
+      - Lyrical Monster
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: リルビ-little bit-
+    aliases:
+      - リルビー
+    hypernyms:
+      - ロボ子さん
+  - canonicalName: ルーザーガール
+    aliases:
+      - Loser Girl
+    hypernyms:
+      - ツユ
+  - canonicalName: ルージュの伝言
+    aliases:
+      - Message of Rouge
+    hypernyms:
+      - 松任谷由実
+  - canonicalName: 姫森ルーナモチーフアクリル時計
+    aliases:
+      - ルーナモチーフアクリル時計
+    hypernyms:
+      - 姫森ルーナ
+  - canonicalName: 姫森ルーナ わからないのらTシャツ
+    aliases:
+      - ルーナわからないのらTシャツ
+    hypernyms:
+      - 姫森ルーナ
+  - canonicalName: 姫森ルーナ公式LINEスタンプVol.2
+    aliases:
+      - ルーナ姫の公式LINEスタンプ第2弾
+      - 姫森ルーナ公式LINEスタンプ第2弾
+      - 姫森ルーナスタンプVol.2
+    hypernyms:
+      - 姫森ルーナ
+  - canonicalName: ルパン三世
+    aliases:
+      - Lupin the Third
+  - canonicalName: るろうに剣心
+    aliases:
+      - るろ剣
+      - Rurouni Kenshin
+  - canonicalName: レディ・オア・ノット
+    aliases:
+      - Ready or Not
+  - canonicalName: レディ・プレイヤー1
+    aliases:
+      - Ready Player One
+  - canonicalName: ロウワー
+    aliases:
+      - Lower
+  - canonicalName: ローゼンメイデン
+    aliases:
+      - Rozen Maiden
+  - canonicalName: ロード・オブ・ザ・リング
+    aliases:
+      - The Lord of the Rings
+      - LotR
+    hypernyms:
+      - 指輪物語
+  - canonicalName: ロストワンの号哭
+    aliases:
+      - Lost One's Weeping
+    hypernyms:
+      - 楽曲
+  - canonicalName: ワールドイズマイン
+    aliases:
+      - World is Mine
+  - canonicalName: ワールドダイスター
+    aliases:
+      - World Dai Star
+  - canonicalName: ワールドトリガー
+    aliases:
+      - WORLD TRIGGER
+  - canonicalName: ワイルド・スピードシリーズ
+    aliases:
+      - ワイルド・スピード
+      - The Fast & The Furious
+  - canonicalName: ワイルド・スピード MEGA MAX
+    aliases:
+      - Fast Five
+      - ワイルド・スピード メガ・マックス
+    hypernyms:
+      - ワイルド・スピードシリーズ
+  - canonicalName: ワイルド・スピードX2
+    aliases:
+      - 2 Fast 2 Furious
+    hypernyms:
+      - ワイルド・スピードシリーズ
+  - canonicalName: ワイルド・スピードX3 TOKYO DRIFT
+    aliases:
+      - "The Fast and the Furious: Tokyo Drift"
+      - ワイルド・スピードX3
+    hypernyms:
+      - ワイルド・スピード
+  - canonicalName: わくわくエブリデイ
+    aliases:
+      - Wakuwaku Everyday
+  - canonicalName: わしゃがなTV
+    aliases:
+      - マフィア梶田と中村悠一の「わしゃがなTV」
+      - WasyaganaTV
+  - canonicalName: わたしを甘やかすなら
+    aliases:
+      - Watashi wo amayakasunara
+    hypernyms:
+      - 雪花ラミィ
+  - canonicalName: わためのうた vol.2
+    aliases:
+      - Watame no Uta vol.2
+      - 角巻わため 2ndアルバム
+    hypernyms:
+      - 角巻わため
+  - canonicalName: わんコメ
+    aliases:
+      - OneComme
+  - canonicalName: ワンダ
+    aliases:
+      - WONDA
+  - canonicalName: ワンダーフューチャー！
+    aliases:
+      - Wonder Future!
+  - canonicalName: わんだふるぷりきゅあ！
+    aliases:
+      - WonderfulPrecure!
+      - わんぷり
+    hypernyms:
+      - プリキュアシリーズ
+  - canonicalName: ワンパンマン
+    aliases:
+      - ONE PUNCH MAN
+  - canonicalName: わんわん！わおーん
+    aliases:
+      - わんわんわおーん / さしみお feat.スバおか
+      - さしみお feat.スバおか
+    hypernyms:
+      - 大神ミオ
+  - canonicalName: ヱヴァンゲリヲン新劇場版
+    aliases:
+      - "Evangelion: New Theatrical Edition"
+      - Rebuild of Evangelion
+    hypernyms:
+      - 新世紀エヴァンゲリオン
+  - canonicalName: ヱヴァンゲリヲン新劇場版:Q
+    aliases:
+      - EVANGELION:3.0 YOU CAN (NOT) REDO.
+    hypernyms:
+      - ヱヴァンゲリヲン新劇場版
+  - canonicalName: ヱヴァンゲリヲン新劇場版:序
+    aliases:
+      - EVANGELION:1.0 YOU ARE (NOT) ALONE.
+      - ヱヴァ序
+    hypernyms:
+      - ヱヴァンゲリヲン新劇場版
+  - canonicalName: ヱヴァンゲリヲン新劇場版:破
+    aliases:
+      - EVANGELION:2.0 YOU CAN (NOT) ADVANCE.
+    hypernyms:
+      - ヱヴァンゲリヲン新劇場版
+  - canonicalName: んっあっあっ。
+    aliases:
+      - Nh-Uh-Uh.
+  - canonicalName: 亜人
+    aliases:
+      - "Ajin: Demi-Human"
+  - canonicalName: 阿修羅ちゃん
+    aliases:
+      - Ashura-chan
+    hypernyms:
+      - 楽曲
+  - canonicalName: 愛昧ショコラーテ
+    aliases:
+      - 曖昧ショコラーテ
+      - Aimai chocolate
+  - canonicalName: 逢魔時の帰り方
+    aliases:
+      - 逢魔ヶ刻の帰り方
+  - canonicalName: 悪の教典
+    aliases:
+      - Lesson of the Evil
+  - canonicalName: 悪役令嬢の中の人
+    aliases:
+      - The One Within the Villainess
+      - 悪役令嬢の中の人～断罪された転生者のため嘘つきヒロインに復讐いたします～
+  - canonicalName: 暗殺教室
+    aliases:
+      - Assassination Classroom
+  - canonicalName: 異世界おじさん
+    aliases:
+      - いせおじ
+      - Uncle from Another World
+  - canonicalName: 異薔薇
+    aliases:
+      - Ibara
+    hypernyms:
+      - アキ・ローゼンタール
+  - canonicalName: 一番くじ
+    aliases:
+      - Ichiban Kuji
+  - canonicalName: 右左君君右下上目きゅるんめちょかわ！
+    aliases:
+      - Right Left You You Puppy dog eyes Mecho kawaii!
+    hypernyms:
+      - 沙花叉クロヱ
+  - canonicalName: 雨トキメキ恋模様
+    aliases:
+      - あめときめきこいもよう
+    hypernyms:
+      - いろはにほへっと あやふぶみ
+  - canonicalName: 映画 すみっコぐらし とびだす絵本とひみつのコ
+    aliases:
+      - 映画すみっコぐらし
+    hypernyms:
+      - すみっコぐらし
+  - canonicalName: 映像研には手を出すな！
+    aliases:
+      - Keep Your Hands Off Eizouken!
+  - canonicalName: 衛宮さんちの今日のごはん
+    aliases:
+      - 衛宮ごはん
+      - Today's Menu for the Emiya Family
+    hypernyms:
+      - Fateシリーズ
+  - canonicalName: 炎炎ノ消防隊
+    aliases:
+      - Fire Force
+  - canonicalName: 王家の紋章
+    aliases:
+      - Crest of the Royal Family
+    hypernyms:
+      - 漫画
+  - canonicalName: 屋根裏のエピローグ
+    aliases:
+      - Epilogue in Attic
+    hypernyms:
+      - 尾丸ポルカ
+  - canonicalName: 乙女解剖
+    aliases:
+      - Otome Kaibou
+  - canonicalName: 俺だけレベルアップな件
+    aliases:
+      - Solo Leveling
+  - canonicalName: 仮装狂騒曲
+    aliases:
+      - Fancy dress party
+    hypernyms:
+      - 学園アイドルマスター
+  - canonicalName: 仮面ライダーシリーズ
+    aliases:
+      - 仮面ライダー
+      - Kamen Rider
+    hypernyms:
+      - 特撮
+  - canonicalName: 仮面ライダー電王
+    aliases:
+      - MASKED RIDER DEN-O
+    hypernyms:
+      - 仮面ライダーシリーズ
+  - canonicalName: 加湿空気清浄機カスタマイズサービス ＜さくらみこ Ver.＞
+    aliases:
+      - 加湿空気清浄機 さくらみこモデル
+      - さくらみこ加湿空気清浄機
+      - 加湿空気清浄機 さくらみこカスタマイズモデル
+      - 喋るえりぃと家電
+    hypernyms:
+      - さくらみこ
+  - canonicalName: 可惜夜歌集
+    aliases:
+      - あたらよかしゅう
+      - Sleepless Songbook
+    hypernyms:
+      - いろはにほへっと あやふぶみ
+  - canonicalName: 夏目友人帳
+    aliases:
+      - Natsume's Book of Friends
+  - canonicalName: 家庭教師ヒットマンREBORN!
+    aliases:
+      - REBORN!
+      - かてきょーヒットマンリボーン
+      - 家庭教師ヒットマンリボーン
+      - Katekyo Hitman Reborn!
+  - canonicalName: 泡沫メイビー
+    aliases:
+      - 歌方メイビー
+      - Bubble Maybe
+    hypernyms:
+      - 火威青
+      - ReGLOSS
+  - canonicalName: 花に亡霊
+    aliases:
+      - Ghost in a Flower
+    hypernyms:
+      - ヨルシカ
+  - canonicalName: 花の慶次
+    aliases:
+      - 花の慶次 -雲のかなたに-
+  - canonicalName: 花より男子
+    aliases:
+      - Boys Over Flowers
+  - canonicalName: 花月ノ夢
+    aliases:
+      - Kagetsu no Yume
+    hypernyms:
+      - さくらみこ
+  - canonicalName: 花時の空
+    aliases:
+      - 花時の空（はなどきのそら）
+    hypernyms:
+      - ときのそら
+  - canonicalName: 華奢なリップ
+    aliases:
+      - 華奢なリップ feat.ちゃんみな
+    hypernyms:
+      - ジェニーハイ
+  - canonicalName: 廻廻奇譚
+    aliases:
+      - Kaikai Kitan
+    hypernyms:
+      - 呪術廻戦
+  - canonicalName: 快晴 (Orangestar)
+    aliases:
+      - 快晴
+      - 快晴 (feat. IA)
+  - canonicalName: 怪獣8号
+    aliases:
+      - Kaiju No.8
+  - canonicalName: 怪盗グルーシリーズ
+    aliases:
+      - 怪盗グルー
+      - Despicable Me
+  - canonicalName: 海の見える街
+    aliases:
+      - A Town with an Ocean View
+    hypernyms:
+      - 魔女の宅急便
+  - canonicalName: 海の幽霊
+    aliases:
+      - Spirits of the Sea
+    hypernyms:
+      - 楽曲
+  - canonicalName: 海想列車
+    aliases:
+      - Kaisou Ressha
+    hypernyms:
+      - 湊あくあ
+  - canonicalName: 灰色と青
+    aliases:
+      - 灰色と青（＋菅田将暉）
+    hypernyms:
+      - BOOTLEG
+  - canonicalName: 灰仭巫覡
+    aliases:
+      - カイジンフゲキ
+  - canonicalName: 崖の上のポニョ
+    aliases:
+      - Ponyo
+      - Ponyo on the Cliff by the Sea
+    hypernyms:
+      - スタジオジブリ
+  - canonicalName: 角巻わため BIGぬいぐるみ
+    aliases:
+      - Tsunomaki Watame BIG Plushie
+    hypernyms:
+      - 角巻わため
+  - canonicalName: ホロライブ公式スタンプ「角巻わため」Vol.2
+    aliases:
+      - 角巻わため LINEスタンプvol.2
+    hypernyms:
+      - 角巻わため
+  - canonicalName: ビリ (角巻わための曲)
+    aliases:
+      - 角巻わため オリジナル曲『ビリ』
+      - ビリ
+    hypernyms:
+      - 角巻わため
+  - canonicalName: 革命道中
+    aliases:
+      - 革命道中 - On The Way
+  - canonicalName: 学園アリス
+    aliases:
+      - 学アリ
+    hypernyms:
+      - 漫画
+  - canonicalName: 学校の怪談
+    aliases:
+      - Ghost Stories
+  - canonicalName: 楽天カード
+    aliases:
+      - Rakuten Card
+    hypernyms:
+      - クレジットカード
+  - canonicalName: 楽天モバイル
+    aliases:
+      - Rakuten Mobile
+    hypernyms:
+      - 楽天グループ
+  - canonicalName: 楽天市場
+    aliases:
+      - Rakuten Ichiba
+    hypernyms:
+      - 楽天
+  - canonicalName: 株式会社マジルミエ
+    aliases:
+      - Magilumiere Magical Girls Inc.
+  - canonicalName: 丸ノ内サディスティック
+    aliases:
+      - ㋚
+    hypernyms:
+      - 無罪モラトリアム
+  - canonicalName: 岸辺露伴は動かない
+    aliases:
+      - Thus spoke Kishibe Rohan
+    hypernyms:
+      - ジョジョの奇妙な冒険
+  - canonicalName: 機巧少女は傷つかない
+    aliases:
+      - 機巧少女(マシンドール)は傷つかない
+      - マシンドールはきずつかない
+  - canonicalName: 機動戦士ガンダム THE ORIGIN
+    aliases:
+      - 機動戦士ガンダム ジ・オリジン
+      - ガンダム THE ORIGIN
+      - "Mobile Suit Gundam: The Origin"
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: 機動戦士ガンダム 逆襲のシャア
+    aliases:
+      - Mobile Suit Gundam Char's Counterattack
+      - 逆襲のシャア
+      - 逆シャア
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: 機動戦士ガンダム 劇場版三部作
+    aliases:
+      - 機動戦士ガンダム劇場版3部作
+      - 劇場版 機動戦士ガンダム三部作
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: 機動戦士ガンダム 水星の魔女
+    aliases:
+      - "Mobile Suit Gundam: The Witch from Mercury"
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: 機動戦士ガンダム 閃光のハサウェイ
+    aliases:
+      - Mobile Suit Gundam Hathaway
+      - 閃光のハサウェイ
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: 機動戦士ガンダム 第08MS小隊
+    aliases:
+      - MOBILE SUIT GUNDAM The 08th MS Team
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: 機動戦士ガンダム 鉄血のオルフェンズ
+    aliases:
+      - MOBILE SUIT GUNDAM IRON-BLOODED ORPHANS
+      - 鉄血のオルフェンズ
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: 機動戦士ガンダム00
+    aliases:
+      - Mobile Suit Gundam 00
+      - 機動戦士ガンダムダブルオー
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: 機動戦士ガンダム0080 ポケットの中の戦争
+    aliases:
+      - ポケ戦
+      - MOBILE SUIT GUNDAM 0080 War in the Pocket
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: 機動戦士ガンダムII 哀・戦士編
+    aliases:
+      - 劇場版 機動戦士ガンダムⅡ 哀・戦士編
+      - "Mobile Suit Gundam II: Soldiers of Sorrow"
+    hypernyms:
+      - 機動戦士ガンダム
+  - canonicalName: 機動戦士ガンダムIII めぐりあい宇宙編
+    aliases:
+      - "Mobile Suit Gundam III: Encounters in Space"
+    hypernyms:
+      - 機動戦士ガンダムシリーズ
+  - canonicalName: 機動戦士ガンダムSEED FREEDOM
+    aliases:
+      - Mobile Suit Gundam SEED FREEDOM
+    hypernyms:
+      - 機動戦士ガンダムSEEDシリーズ
+  - canonicalName: 機動戦士ガンダムUC
+    aliases:
+      - 機動戦士ガンダムユニコーン
+      - MOBILE SUIT GUNDAM UNICORN
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: 機動戦士ガンダムUC RE:0096
+    aliases:
+      - 機動戦士ガンダムユニコーン RE:0096
+      - ガンダムUC RE:0096
+    hypernyms:
+      - ガンダムシリーズ
+      - 機動戦士ガンダムUC
+  - canonicalName: 機動武闘伝Gガンダム
+    aliases:
+      - Gガンダム
+      - Gガン
+      - MOBILE FIGHTER G GUNDAM
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: 偽物語
+    aliases:
+      - Nisemonogatari
+    hypernyms:
+      - 物語シリーズ
+  - canonicalName: 吉原ラメント
+    aliases:
+      - Yoshiwara Lamento
+    hypernyms:
+      - 楽曲
+  - canonicalName: 逆境無頼カイジ 破戒録篇
+    aliases:
+      - "Kaiji: Against All Rules"
+    hypernyms:
+      - 賭博黙示録カイジ
+  - canonicalName: 吸血鬼すぐ死ぬ
+    aliases:
+      - 吸死
+  - canonicalName: 朽ちた神
+    aliases:
+      - Kuchita kami
+  - canonicalName: ぎゅーどんかーにばる！
+    aliases:
+      - 牛丼カーニバル
+      - Gyu-Don Carnival!
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 響け！ユーフォニアム
+    aliases:
+      - Sound! Euphonium
+    hypernyms:
+      - 響け！ユーフォニアムシリーズ
+  - canonicalName: 響咲リオナ「雨の日おうちデート」ASMRボイス
+    aliases:
+      - Isaki Riona ASMR Voice Pack「Rainy Day Date」
+      - "#雨の日おうちデート"
+    hypernyms:
+      - 響咲リオナ
+  - canonicalName: 極主夫道
+    aliases:
+      - The Way of the Househusband
+  - canonicalName: 金田一少年の事件簿
+    aliases:
+      - The Kindaichi Case Files
+      - The Files of Young Kindaichi
+  - canonicalName: 金曜ロードショー
+    aliases:
+      - 金ロー
+  - canonicalName: 銀河と海路
+    aliases:
+      - 銀河と海路 feat. 小岩井ことり
+    hypernyms:
+      - AZKi
+  - canonicalName: 銀河英雄伝説
+    aliases:
+      - 銀英伝
+  - canonicalName: 銀魂
+    aliases:
+      - Gintama
+  - canonicalName: 駆けろ (星街すいせいの楽曲)
+    aliases:
+      - 駆けろ
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: 君たちはどう生きるか
+    aliases:
+      - The Boy and the Heron
+    hypernyms:
+      - スタジオジブリ作品
+  - canonicalName: 君にしか読めない手紙
+    aliases:
+      - A letter only you can read.
+    hypernyms:
+      - 風真いろは
+  - canonicalName: 君の最推しにしてよ！
+    aliases:
+      - Let me be your Saioshi!
+    hypernyms:
+      - 湊あくあ
+  - canonicalName: 君の脈で踊りたかった
+    aliases:
+      - きみのみゃくでおどりたかった
+      - I wanted to dance in your pulse
+  - canonicalName: 君の名は。
+    aliases:
+      - your name.
+  - canonicalName: 劇場版「鬼滅の刃」無限列車編
+    aliases:
+      - 鬼滅の刃 無限列車編
+      - "Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train"
+    hypernyms:
+      - 鬼滅の刃
+  - canonicalName: 劇場版ポケットモンスター ミュウツーの逆襲
+    aliases:
+      - "Pokémon: Mewtwo Strikes Back"
+    hypernyms:
+      - ポケットモンスターシリーズ
+  - canonicalName: 血界戦線
+    aliases:
+      - Blood Blockade Battlefront
+  - canonicalName: 月に向かって撃て
+    aliases:
+      - Moonshot
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: 月を見ていた
+    aliases:
+      - Moongazing
+    hypernyms:
+      - 米津玄師
+  - canonicalName: 犬夜叉
+    aliases:
+      - Inuyasha
+  - canonicalName: 源氏物語
+    aliases:
+      - The Tale of Genji
+  - canonicalName: 現世アリス
+    aliases:
+      - Utsushiyo Alice
+    hypernyms:
+      - ロボ子さん
+  - canonicalName: 言の葉の庭
+    aliases:
+      - The Garden of Words
+  - canonicalName: 孤独のグルメ
+    aliases:
+      - Solitary Gourmet
+  - canonicalName: 御伽の詩と永久なるミライ
+    aliases:
+      - おとぎのうた と とわなるみらい
+      - Ode to an Eternal Future
+    hypernyms:
+      - 角巻わため
+  - canonicalName: 好き！雪！本気マジック
+    aliases:
+      - Love! Snow! Really Magic
+      - すき！ゆき！まじマジック
+    hypernyms:
+      - SNOW MIKU
+  - canonicalName: 攻殻機動隊
+    aliases:
+      - Ghost in the Shell
+  - canonicalName: 攻殻機動隊 SAC_2045
+    aliases:
+      - "Ghost in the Shell: SAC_2045"
+    hypernyms:
+      - 攻殻機動隊シリーズ
+  - canonicalName: 紅藍クロニクル
+    aliases:
+      - くれないクロニクル
+      - Kurenai Kuronikuru
+  - canonicalName: 紅蓮華
+    aliases:
+      - Gurenge
+    hypernyms:
+      - 鬼滅の刃シリーズ
+  - canonicalName: 鋼の錬金術師
+    aliases:
+      - Fullmetal Alchemist
+  - canonicalName: 鋼の錬金術師 FULLMETAL ALCHEMIST
+    aliases:
+      - 鋼の錬金術師FA
+      - "Fullmetal Alchemist: Brotherhood"
+    hypernyms:
+      - 鋼の錬金術師
+  - canonicalName: 国宝（映画）
+    aliases:
+      - 国宝
+      - 映画『国宝』
+  - canonicalName: 黒ほうじ
+    aliases:
+      - 黒ほうじ茶
+    hypernyms:
+      - ほうじ茶
+  - canonicalName: 黒子のバスケ
+    aliases:
+      - 黒バス
+      - 黒子
+      - The Basketball Which Kuroko Plays
+  - canonicalName: 黒執事
+    aliases:
+      - Black Butler
+  - canonicalName: 今際の国のアリス
+    aliases:
+      - Alice in Borderland
+    hypernyms:
+      - 今際の国のアリスシリーズ
+  - canonicalName: 混沌ブギ
+    aliases:
+      - Konton Boogie
+  - canonicalName: 沙花叉クロヱ 最初で最後のさかまた歴代人気グッズ復刻＋α
+    aliases:
+      - 沙花叉クロヱ 歴代人気グッズ復刻
+    hypernyms:
+      - 沙花叉クロヱ
+  - canonicalName: 砂の惑星 (ハチの曲)
+    aliases:
+      - 砂ノ惑星
+      - 砂の惑星 feat.初音ミク
+    hypernyms:
+      - VOCALOID楽曲
+  - canonicalName: 冴えない彼女の育てかた
+    aliases:
+      - 冴えカノ
+      - "Saekano: How to Raise a Boring Girlfriend"
+  - canonicalName: 作（日本酒）
+    aliases:
+      - 作
+      - ざく
+    hypernyms:
+      - 日本酒
+  - canonicalName: 桜蘭高校ホスト部
+    aliases:
+      - 桜蘭高校ホストクラブ
+  - canonicalName: 三つ葉の結びめ
+    aliases:
+      - Mitsuba no Musubime
+    hypernyms:
+      - 凪のあすから
+  - canonicalName: 三日月 (絢香の曲)
+    aliases:
+      - 三日月
+    hypernyms:
+      - 楽曲
+  - canonicalName: 山田くんとLv999の恋をする
+    aliases:
+      - My Love Story with Yamada-kun at Lv999
+  - canonicalName: 残酷な天使のテーゼ
+    aliases:
+      - A Cruel Angel's Thesis
+    hypernyms:
+      - 新世紀エヴァンゲリオン
+  - canonicalName: 史上最大のQUESTION!
+    aliases:
+      - Shijyo Saidai no QUESTION!
+    hypernyms:
+      - 博衣こより
+  - canonicalName: 四月は君の嘘
+    aliases:
+      - 君嘘
+      - Your Lie in April
+  - canonicalName: 四月一日さん家の
+    aliases:
+      - わたぬきさんちの
+    hypernyms:
+      - 四月一日さん家シリーズ
+  - canonicalName: ホロライブ公式スタンプ 獅白ぼたん
+    aliases:
+      - 獅白ぼたん LINEスタンプ
+      - 獅白ぼたんのLINEスタンプ
+      - 麺屋ぼたんLINEスタンプ
+      - 麺屋ぼたんのLINEスタンプ
+      - 麺屋ぼたんスタンプ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: hololive friends with u 紫咲シオン
+    aliases:
+      - 紫咲シオン ぬいぐるみ
+      - hololive friends with u 紫咲シオンぬいぐるみ
+    hypernyms:
+      - hololive friends with u
+  - canonicalName: ホロライブ公式スタンプ 紫咲シオン
+    aliases:
+      - 紫咲シオン LINEスタンプ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: 時をかける少女
+    aliases:
+      - The Girl Who Leapt Through Time
+  - canonicalName: 耳をすませば
+    aliases:
+      - Whisper of the Heart
+      - 耳すま
+  - canonicalName: 七つの大罪
+    aliases:
+      - The Seven Deadly Sins
+    hypernyms:
+      - 七つの大罪シリーズ
+  - canonicalName: 社畜脳Tシャツ
+    aliases:
+      - 癒月ちょこ 社畜脳Tシャツ
+    hypernyms:
+      - 癒月ちょこ
+  - canonicalName: 弱虫ペダル
+    aliases:
+      - 弱ペダ
+  - canonicalName: 守護ってルーナイト
+    aliases:
+      - Escort me, LuKnight
+  - canonicalName: 手袋を買いに
+    aliases:
+      - 手ぶくろを買いに
+  - canonicalName: 呪怨
+    aliases:
+      - Ju-On
+    hypernyms:
+      - ホラー映画
+  - canonicalName: 呪術廻戦
+    aliases:
+      - 呪術
+      - Jujutsu Kaisen
+  - canonicalName: ホロライブ 日常ささやき「秋色のさんぽ道」ボイス
+    aliases:
+      - 秋色のさんぽ道ボイス
+    hypernyms:
+      - ホロライブ
+  - canonicalName: 終末のワルキューレ
+    aliases:
+      - Record of Ragnarok
+  - canonicalName: 週刊ヤングジャンプ
+    aliases:
+      - ヤングジャンプ
+      - ヤンジャン
+    hypernyms:
+      - 漫画雑誌
+  - canonicalName: 週刊少年ジャンプ
+    aliases:
+      - ジャンプ
+      - WJ
+      - Weekly Shonen Jump
+    hypernyms:
+      - 漫画雑誌
+  - canonicalName: 週刊少年チャンピオン
+    aliases:
+      - 少年チャンピオン
+      - 週チャン
+  - canonicalName: 獣ゆく細道
+    aliases:
+      - The Narrow Way
+  - canonicalName: 瞬間ハートビート
+    aliases:
+      - Shunkan Heartbeat
+    hypernyms:
+      - ReGLOSS
+  - canonicalName: 盾の勇者の成り上がり
+    aliases:
+      - The Rising of the Shield Hero
+  - canonicalName: 初音ミクの消失
+    aliases:
+      - THE END OF HATSUNE MIKU
+    hypernyms:
+      - 初音ミク
+  - canonicalName: 唱
+    aliases:
+      - Show
+    hypernyms:
+      - 楽曲
+  - canonicalName: 宵の余、良い！
+    aliases:
+      - Yoi no Yo, Yoi!
+      - 百鬼あやめ 1stオリジナル楽曲「宵の余、良い！」
+    hypernyms:
+      - 百鬼あやめ
+  - canonicalName: 今宵はHalloween Night!
+    aliases:
+      - 宵はHalloween Night!
+    hypernyms:
+      - hololive IDOL PROJECT
+  - canonicalName: 小林さんちのメイドラゴン
+    aliases:
+      - Miss Kobayashi’s Dragon Maid
+  - canonicalName: 少女革命ウテナ
+    aliases:
+      - ウテナ
+  - canonicalName: 焼きたて!!ジャぱん
+    aliases:
+      - Yakitate!! Japan
+  - canonicalName: 笑ゥせぇるすまん
+    aliases:
+      - 笑うせぇるすまん
+      - The Laughing Salesman
+    hypernyms:
+      - 笑ゥせぇるすまんシリーズ
+  - canonicalName: 常闇トワ 1st EP『Scream』
+    aliases:
+      - 常闇トワ 1stアルバム「Scream」
+    hypernyms:
+      - 常闇トワ
+  - canonicalName: 食戟のソーマ
+    aliases:
+      - Shokugeki no Soma
+  - canonicalName: 食虫植物 (楽曲)
+    aliases:
+      - 食虫植物
+    hypernyms:
+      - 楽曲
+  - canonicalName: 侵略!イカ娘
+    aliases:
+      - Squid Girl
+  - canonicalName: 新機動戦記ガンダムW
+    aliases:
+      - ガンダムW
+      - NEW MOBILE REPORT GUNDAM WING
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: ホロライブ 新社会人応援ボイス
+    aliases:
+      - 新社会人応援ボイス
+    hypernyms:
+      - ホロライブ
+  - canonicalName: 星街すいせい 3rdアルバム『新星目録』
+    aliases:
+      - 新星目録
+      - Shinsei Mokuroku
+      - 星街すいせい 3rdフルアルバム『新星目録』
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: 深海少女
+    aliases:
+      - 深海少女 -deep sea girl-
+  - canonicalName: 真夜中ハートチューン
+    aliases:
+      - 真夜中ハート
+      - まよちゅー
+  - canonicalName: 神っぽいな
+    aliases:
+      - God-ish
+  - canonicalName: 神のみぞ知るセカイ
+    aliases:
+      - The World God Only Knows
+  - canonicalName: 神風怪盗ジャンヌ
+    aliases:
+      - Kamikaze Kaito Jeanne
+  - canonicalName: 進め↑BAKATARATION
+    aliases:
+      - Let's Go BAKATARATION
+    hypernyms:
+      - バカタレ共
+  - canonicalName: 進撃の巨人 The Final Season
+    aliases:
+      - Attack on Titan The Final Season
+    hypernyms:
+      - 進撃の巨人シリーズ
+  - canonicalName: 進撃の巨人 Season1
+    aliases:
+      - Attack on Titan Season 1
+    hypernyms:
+      - 進撃の巨人
+  - canonicalName: 人マニア
+    aliases:
+      - Hito Mania
+  - canonicalName: 人間は弱い。Tシャツ
+    aliases:
+      - Humans are weak. T-Shirt
+    hypernyms:
+      - アキ・ローゼンタール
+  - canonicalName: 人間失格
+    aliases:
+      - No Longer Human
+  - canonicalName: 人生のメリーゴーランド
+    aliases:
+      - Merry-Go-Round of Life
+    hypernyms:
+      - ハウルの動く城
+  - canonicalName: 人生リセットボタンぽちーｗ
+    aliases:
+      - Jinsei Risetto Botan Pochi w
+    hypernyms:
+      - 沙花叉クロヱ
+  - canonicalName: 水曜どうでしょう
+    aliases:
+      - どうでしょう
+      - 水どう
+      - How do you like wednesday?
+  - canonicalName: 世にも奇妙な物語
+    aliases:
+      - 世にも
+  - canonicalName: 世話やきキツネの仙狐さん
+    aliases:
+      - お世話焼き狐の仙狐さん
+  - canonicalName: 星街すいせい たらららグッズ
+    aliases:
+      - たらららグッズ
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: 星街すいせい 星型リングライト
+    aliases:
+      - 星街すいせいリングライト
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: 西遊記
+    aliases:
+      - Journey to the West
+  - canonicalName: 青のオーケストラ
+    aliases:
+      - 青オケ
+  - canonicalName: 青のすみか
+    aliases:
+      - Where Our Blue Is
+    hypernyms:
+      - 呪術廻戦
+  - canonicalName: 青のミブロ
+    aliases:
+      - Blue Miburo
+  - canonicalName: 青空のシンフォニー
+    aliases:
+      - 青空の交響曲
+      - 青の交響曲（シンフォニー）
+      - 青のシンフォニー
+      - 青の交響曲
+  - canonicalName: 青空文庫
+    aliases:
+      - Aozora Bunko
+    hypernyms:
+      - 電子図書館
+  - canonicalName: 赤いきつね緑のたぬき
+    aliases:
+      - 赤いきつねと緑のたぬき
+      - マルちゃん赤いきつねと緑のたぬき
+    hypernyms:
+      - マルちゃん
+  - canonicalName: 赤井はあと×はあちゃま LINEスタンプ
+    aliases:
+      - はあちゃまLINEスタンプ
+    hypernyms:
+      - 赤井はあと
+  - canonicalName: 赤井はあと×はあちゃま「どちらがお好き？♡」
+    aliases:
+      - 赤井はあと×はあちゃま「どちらがお好き？♡」ASMRボイス
+      - 赤井はあと×はあちゃま
+      - 赤井はあと「どちらがお好き？♡」ASMRボイス
+      - 赤井はあと「どちらがお好き？♡」
+    hypernyms:
+      - 赤井はあと
+  - canonicalName: 雪夜月
+    aliases:
+      - ゆきよづき
+      - 雪夜月シリーズ
+    hypernyms:
+      - 日本酒
+  - canonicalName: 絶対忠誠♡なのなのら！
+    aliases:
+      - Zettai Chusei Nano Nanora!
+    hypernyms:
+      - 姫森ルーナ
+  - canonicalName: 千と千尋の神隠し
+    aliases:
+      - Spirited Away
+    hypernyms:
+      - スタジオジブリ
+  - canonicalName: 千年女優
+    aliases:
+      - Millennium Actress
+  - canonicalName: 千本桜
+    aliases:
+      - Senbonzakura
+  - canonicalName: 戦姫絶唱シンフォギア
+    aliases:
+      - シンフォギア
+      - Symphogear
+    hypernyms:
+      - 戦姫絶唱シンフォギアシリーズ
+  - canonicalName: 全力ジャンピング！
+    aliases:
+      - Zenryoku Jumping!
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 全力回避フラグちゃん！
+    aliases:
+      - Flag Chan!
+      - Grim Reaper Flag Chan!
+      - フラグちゃん
+  - canonicalName: 葬送のフリーレン
+    aliases:
+      - "Frieren: Beyond Journey's End"
+      - フリーレン
+  - canonicalName: 蒼き鋼のアルペジオ -アルス・ノヴァ-
+    aliases:
+      - 蒼き鋼のアルペジオ
+      - Arpeggio of Blue Steel -Ars Nova-
+      - アルペジオ
+    hypernyms:
+      - 蒼き鋼のアルペジオ
+  - canonicalName: 即攻元気
+    aliases:
+      - 速攻元気
+  - canonicalName: 大空スバル スターティングボイス
+    aliases:
+      - スターティングボイス 大空スバル
+    hypernyms:
+      - スターティングボイス
+  - canonicalName: 大嫌いがもっともっと積もるまで
+    aliases:
+      - Until I dislike U
+  - canonicalName: 大神ミオ個人ボイス
+    aliases:
+      - 大神ミオ初個人ボイス
+    hypernyms:
+      - 大神ミオ
+  - canonicalName: おとなの掟
+    aliases:
+      - 大人の掟
+    hypernyms:
+      - カルテット（ドラマ）
+  - canonicalName: 鷹嶺ルイ 3Dアクリルスタンド
+    aliases:
+      - ホロライブ 3Dアクリルスタンド 鷹嶺ルイ
+    hypernyms:
+      - 鷹嶺ルイ
+  - canonicalName: 誰も見てない夢を見ろ
+    aliases:
+      - Dream a dream no one has seen
+    hypernyms:
+      - 楽曲
+  - canonicalName: 探偵!ナイトスクープ
+    aliases:
+      - Knight Scoop
+    hypernyms:
+      - テレビ番組
+  - canonicalName: 探偵はBARにいる
+    aliases:
+      - 探偵はバーにいる
+    hypernyms:
+      - ススキノ探偵シリーズ
+  - canonicalName: プラネットグミ
+    aliases:
+      - 地球グミ
+      - Planet Gummi
+      - Trolli Planet Gummi
+    hypernyms:
+      - Trolli
+  - canonicalName: 地獄楽
+    aliases:
+      - Hell's Paradise
+    hypernyms:
+      - 漫画
+      - アニメ
+  - canonicalName: 地獄少女
+    aliases:
+      - Hell Girl
+    hypernyms:
+      - 地獄少女シリーズ
+  - canonicalName: 地獄先生ぬ〜べ〜
+    aliases:
+      - ぬ～べ～
+      - "Hell Teacher: Jigoku Sensei Nube"
+  - canonicalName: 地面師たち
+    aliases:
+      - Tokyo Swindlers
+  - canonicalName: 着信アリ
+    aliases:
+      - One Missed Call
+    hypernyms:
+      - ホラー
+  - canonicalName: 中空の庭
+    aliases:
+      - Chuuku No Niwa
+  - canonicalName: 貞子DX
+    aliases:
+      - さだこでぃーえっくす
+    hypernyms:
+      - リングシリーズ
+  - canonicalName: 貞子vs伽椰子
+    aliases:
+      - 貞子バーサス伽椰子
+      - Sadako vs. Kayako
+    hypernyms:
+      - リングシリーズ
+      - 呪怨シリーズ
+  - canonicalName: 鉄人28号
+    aliases:
+      - Tetsujin 28-go
+    hypernyms:
+      - 鉄人28号シリーズ
+  - canonicalName: 天音かなた 2nd Album『Trigger』
+    aliases:
+      - Trigger
+      - 天音かなた 2ndアルバム『Trigger』
+      - 天音かなた 2ndフルアルバム「Trigger」
+    hypernyms:
+      - 天音かなた
+  - canonicalName: 天界弩級オシゴトロード
+    aliases:
+      - TENKAIDOKYUU OSHIGOTO ROAD
+    hypernyms:
+      - かなけん
+  - canonicalName: 天気の子
+    aliases:
+      - Weathering With You
+  - canonicalName: 天体観測 (BUMP OF CHICKENの曲)
+    aliases:
+      - 天体観測
+    hypernyms:
+      - BUMP OF CHICKEN
+  - canonicalName: 転生したらスライムだった件
+    aliases:
+      - 転スラ
+      - tensura
+  - canonicalName: 転生したら第七王子だったので、気ままに魔術を極めます
+    aliases:
+      - 第七王子
+  - canonicalName: 賭ケグルイ
+    aliases:
+      - Kakegurui
+  - canonicalName: 東京ゴッドファーザーズ
+    aliases:
+      - Tokyo Godfathers
+  - canonicalName: 東京ミュウミュウ
+    aliases:
+      - Tokyo Mew Mew
+    hypernyms:
+      - 東京ミュウミュウシリーズ
+  - canonicalName: 東京卍リベンジャーズ
+    aliases:
+      - 東京リベンジャーズ
+      - 東リベ
+      - 東卍
+      - Tokyo卍Revengers
+  - canonicalName: 東京喰種トーキョーグール
+    aliases:
+      - 東京喰種
+      - Tokyo Ghoul
+      - TG
+    hypernyms:
+      - 東京喰種シリーズ
+  - canonicalName: 逃げるは恥だが役に立つ
+    aliases:
+      - 逃げ恥
+      - The Full-Time Wife Escapist
+  - canonicalName: 逃げ上手の若君
+    aliases:
+      - The Elusive Samurai
+  - canonicalName: 頭文字D
+    aliases:
+      - Initial D
+      - イニD
+  - canonicalName: 同担☆拒否
+    aliases:
+      - 同担☆拒否 feat. ちゅーたん
+      - 同担☆拒否 feat. かぴ
+    hypernyms:
+      - 告白実行委員会
+  - canonicalName: 特者生存ワンダラダー!!
+    aliases:
+      - Special Survival's Wanderuda!!
+    hypernyms:
+      - 天音かなた
+  - canonicalName: 曇天羊
+    aliases:
+      - 曇天羊 feat. Mori Calliope
+    hypernyms:
+      - 角巻わため
+  - canonicalName: 凪のあすから
+    aliases:
+      - NAGI NO ASUKARA
+  - canonicalName: 二人三脚 feat. 猫汰つな
+    aliases:
+      - 二人三脚
+      - Nininsankyaku
+    hypernyms:
+      - Aster
+      - 常闇トワ
+      - 猫汰つな
+  - canonicalName: 日経エンタテインメント！
+    aliases:
+      - 日経エンタ
+  - canonicalName: 日常
+    aliases:
+      - nichijou
+  - canonicalName: 忍たま乱太郎
+    aliases:
+      - 忍たま
+      - Nintama Rantaro
+  - canonicalName: 忍風戦隊ハリケンジャー
+    aliases:
+      - ハリケンジャー
+      - Ninpuu Sentai Hurricaneger
+    hypernyms:
+      - スーパー戦隊シリーズ
+  - canonicalName: ネコカブリーナ
+    aliases:
+      - 猫かぶりな
+  - canonicalName: 猫ならばいける
+    aliases:
+      - 猫ならば行ける
+  - canonicalName: 猫の恩返し
+    aliases:
+      - The Cat Returns
+  - canonicalName: 博衣こより 1st Album『FIRST STEP』
+    aliases:
+      - 博衣こより1stアルバム『FIRST STEP』
+      - FIRST STEP
+    hypernyms:
+      - 博衣こより
+  - canonicalName: 博衣こより公式LINEスタンプ
+    aliases:
+      - 博衣こより LINEスタンプ
+    hypernyms:
+      - 博衣こより
+  - canonicalName: 白金ディスコ
+    aliases:
+      - Platinum Disco
+    hypernyms:
+      - 物語シリーズ
+  - canonicalName: ours
+    aliases:
+      - 白銀ノエル 3rd single ours
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: はっぴー
+    aliases:
+      - 白銀ノエル 4th single 「はっぴー」
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル公式LINEスタンプ
+    aliases:
+      - 白銀ノエル LINEスタンプ
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白狐のおもてなし宿
+    aliases:
+      - 白上フブキ「白狐のおもてなし宿」ASMRボイス
+      - 白狐のおもてなし宿 ASMRボイス
+    hypernyms:
+      - ホロライブ
+      - 白上フブキ
+  - canonicalName: 白上フブキ LINEスタンプ
+    aliases:
+      - 白上フブキのLINEスタンプ
+    hypernyms:
+      - 白上フブキ
+  - canonicalName: 薄明エンコード
+    aliases:
+      - はくめいえんこーど
+      - Hakumei enkodo
+    hypernyms:
+      - 楽曲
+  - canonicalName: 爆ラブ＋ケミストリー
+    aliases:
+      - BAKU LOVE CHEMISTRY
+  - canonicalName: 爆走兄弟レッツ&ゴー!!
+    aliases:
+      - 爆走兄弟レッツアンドゴー
+      - レッツ&ゴー
+      - Bakusō Kyōdai Let's & Go!!
+    hypernyms:
+      - 爆走兄弟レッツ&ゴー!!シリーズ
+  - canonicalName: 発光体ソーラーサイクル
+    aliases:
+      - hakkotai solar cycle
+    hypernyms:
+      - AZKi
+  - canonicalName: 反射炉ビヤ
+    aliases:
+      - 反射炉ビア
+      - HANSHARO BEER BREWING
+  - canonicalName: 晩餐歌
+    aliases:
+      - Bansanka
+    hypernyms:
+      - 楽曲
+  - canonicalName: 彼岸島
+    aliases:
+      - ひがんじま
+    hypernyms:
+      - 彼岸島シリーズ
+  - canonicalName: 尾丸ポルカ 1stアルバム『Filmy Funny』
+    aliases:
+      - Filmy Funny
+      - 尾丸ポルカ 1st Album『Filmy Funny』
+    hypernyms:
+      - 尾丸ポルカ
+  - canonicalName: 微かな夕陽
+    aliases:
+      - Faint Sunset
+    hypernyms:
+      - 魔法少女ホロウィッチ！
+  - canonicalName: 姫森ルーナ公式LINEスタンプ
+    aliases:
+      - ルーナ姫の公式LINEスタンプ
+    hypernyms:
+      - 姫森ルーナ
+  - canonicalName: 百花繚乱花吹雪
+    aliases:
+      - HyakkaRyoranHanafubuki
+  - canonicalName: 夢花火 (百鬼あやめ)
+    aliases:
+      - 百鬼あやめ 2ndオリジナル楽曲「夢花火」
+      - 夢花火
+      - 百鬼あやめ 夢花火
+    hypernyms:
+      - 百鬼あやめ
+  - canonicalName: ホロライブ公式スタンプ「百鬼あやめ」
+    aliases:
+      - 百鬼あやめLINEスタンプ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: melting
+    aliases:
+      - 百鬼あやめ『melting』
+      - 百鬼あやめ NEWシングル「melting」
+    hypernyms:
+      - 百鬼あやめ
+  - canonicalName: 秒針を噛む
+    aliases:
+      - Byoushinwo Kamu
+    hypernyms:
+      - ずっと真夜中でいいのに。
+  - canonicalName: 秒速5センチメートル
+    aliases:
+      - 5 Centimeters per Second
+  - canonicalName: 不思議の国のアリス
+    aliases:
+      - ふしぎの国のアリス
+      - Alice in Wonderland
+    hypernyms:
+      - 文学作品
+  - canonicalName: 不知火フレア 1stアルバム「Canvas」
+    aliases:
+      - Canvas
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 不知火フレア公式LINEスタンプVol.2
+    aliases:
+      - 不知火フレアVol2
+      - 不知火フレア LINEスタンプ Vol.2
+    hypernyms:
+      - ホロライブ公式スタンプ
+  - canonicalName: 腐れ外道とチョコレゐト
+    aliases:
+      - 腐れ外道とチョコレート
+    hypernyms:
+      - VOCALOID楽曲
+  - canonicalName: 封神演義
+    aliases:
+      - 封神演技
+  - canonicalName: 風になる
+    aliases:
+      - Kaze ni Naru
+  - canonicalName: 風の谷のナウシカ
+    aliases:
+      - Nausicaä of the Valley of the Wind
+  - canonicalName: 風を仰ぎし麗容な
+    aliases:
+      - Kazewo Aogishi Reiyona
+      - Kaze wo Aogishi Reiyouna
+    hypernyms:
+      - 風真いろは
+  - canonicalName: 風真いろは公式LINEスタンプ
+    aliases:
+      - 風真いろはの公式LINEスタンプ
+      - ホロライブ公式スタンプ「風真いろは」
+    hypernyms:
+      - 風真いろは
+  - canonicalName: 〈物語〉シリーズ
+    aliases:
+      - 物語シリーズ
+      - 化物語シリーズ
+  - canonicalName: 別世界 (天音かなたの楽曲)
+    aliases:
+      - 別世界
+      - 別世界 (天音かなた)
+    hypernyms:
+      - 天音かなた
+  - canonicalName: 変な家2 〜11の間取り図〜
+    aliases:
+      - 変な家2
+    hypernyms:
+      - 変な家シリーズ
+  - canonicalName: 片羽
+    aliases:
+      - カタハ
+    hypernyms:
+      - 天音かなた
+  - canonicalName: ホロライブ公式スタンプ「宝鐘マリン」
+    aliases:
+      - 宝鐘マリン公式LINEスタンプ
+      - ホロライブ公式スタンプ「宝鐘マリン」Vol.2
+      - 宝鐘マリン公式LINEスタンプ第一弾
+      - 宝鐘マリン公式LINEスタンプ第二弾
+    hypernyms:
+      - 宝鐘マリン
+      - ホロライブ
+  - canonicalName: 宝石の国
+    aliases:
+      - Land of the Lustrous
+  - canonicalName: 北斗の拳
+    aliases:
+      - Fist of the North Star
+  - canonicalName: 僕の妻は感情がない
+    aliases:
+      - My Wife Has No Emotion
+  - canonicalName: 僕は友達が少ない
+    aliases:
+      - はがない
+    hypernyms:
+      - ライトノベル
+  - canonicalName: 僕らと君のうた。
+    aliases:
+      - Our And Your Song
+    hypernyms:
+      - さくらみこ
+  - canonicalName: 魔女と旋律の街
+    aliases:
+      - Witches Chant in the Town
+  - canonicalName: 魔女の宅急便
+    aliases:
+      - Kiki's Delivery Service
+  - canonicalName: 魔法騎士レイアース
+    aliases:
+      - Magic Knight Rayearth
+  - canonicalName: 魔法少女まじかる☆ござる
+    aliases:
+      - 魔法少女マジカルござる
+      - 魔法少女わじかるござる
+      - Mahou Shoujo Magical GOZARU
+    hypernyms:
+      - 風真いろは
+  - canonicalName: 魔法少女リリカルなのは
+    aliases:
+      - Magical girl lyrical Nanoha
+    hypernyms:
+      - 魔法少女リリカルなのはシリーズ
+  - canonicalName: 魔法陣グルグル
+    aliases:
+      - グルグル
+  - canonicalName: 魔法先生ネギま！
+    aliases:
+      - ネギま！
+    hypernyms:
+      - ネギま！シリーズ
+  - canonicalName: 未だ、青い
+    aliases:
+      - Stay Blue
+    hypernyms:
+      - 湊あくあ
+  - canonicalName: 未来カンパネラ
+    aliases:
+      - Mirai Campanella
+  - canonicalName: 未来日記 (漫画)
+    aliases:
+      - 未来日記
+  - canonicalName: 夢屑ケーキ
+    aliases:
+      - Yumekuzu Cake
+    hypernyms:
+      - AZKi
+  - canonicalName: 夢見る空へ
+    aliases:
+      - 夢見る空へ - Sunshine ver.
+      - 夢見る空へ (Instrumental)
+    hypernyms:
+      - hololive IDOL PROJECT
+  - canonicalName: 夢十夜
+    aliases:
+      - Ten Nights of Dreams
+  - canonicalName: 無印良品
+    aliases:
+      - MUJI
+  - canonicalName: 無職転生 ～異世界行ったら本気だす～
+    aliases:
+      - 無職転生
+  - canonicalName: 名探偵コナン
+    aliases:
+      - Detective Conan
+  - canonicalName: 名探偵コナン 100万ドルの五稜星
+    aliases:
+      - 名探偵コナン 100万ドルの五稜星（みちしるべ）
+      - "Detective Conan: The Million-dollar Pentagram"
+    hypernyms:
+      - 名探偵コナン
+  - canonicalName: 名探偵コナン ゼロの執行人
+    aliases:
+      - "Detective Conan: Zero the Enforcer"
+    hypernyms:
+      - 名探偵コナンシリーズ
+  - canonicalName: 名探偵コナン ハロウィンの花嫁
+    aliases:
+      - "Case Closed: The Bride of Halloween"
+    hypernyms:
+      - 名探偵コナン
+  - canonicalName: 名探偵コナン ベイカー街の亡霊
+    aliases:
+      - 劇場版 名探偵コナン ベイカー街の亡霊
+      - 名探偵コナン ベイカー街（ストリート）の亡霊
+    hypernyms:
+      - 名探偵コナンシリーズ
+  - canonicalName: 名探偵コナン 黒鉄の魚影（サブマリン）
+    aliases:
+      - 名探偵コナン 黒鉄の魚影
+    hypernyms:
+      - 名探偵コナンシリーズ
+  - canonicalName: 名探偵コナン 紺青の拳
+    aliases:
+      - 名探偵コナン 紺青の拳（フィスト）
+    hypernyms:
+      - 名探偵コナンシリーズ
+  - canonicalName: 名探偵コナン 純黒の悪夢
+    aliases:
+      - 名探偵コナン 純黒のナイトメア
+    hypernyms:
+      - 名探偵コナンシリーズ
+  - canonicalName: 名探偵コナン 瞳の中の暗殺者
+    aliases:
+      - Captured in Her Eyes
+    hypernyms:
+      - 名探偵コナンシリーズ
+  - canonicalName: 名探偵コナン 緋色の弾丸
+    aliases:
+      - 劇場版 名探偵コナン 緋色の弾丸
+    hypernyms:
+      - 名探偵コナンシリーズ
+  - canonicalName: 名探偵コナン 迷宮の十字路
+    aliases:
+      - 名探偵コナン 迷宮の十字路（クロスロード）
+    hypernyms:
+      - 名探偵コナン
+  - canonicalName: 迷宮なラビリンス
+    aliases:
+      - Labyrinthine Labyrinth
+    hypernyms:
+      - 秘密結社holoX
+  - canonicalName: 妄想代理人
+    aliases:
+      - Paranoia Agent
+  - canonicalName: 黙示録の四騎士
+    aliases:
+      - 七つの大罪 黙示録の四騎士
+    hypernyms:
+      - 七つの大罪
+  - canonicalName: よふかしのうた
+    aliases:
+      - 夜更かしの歌
+      - Call of the Night
+  - canonicalName: 夜咄ディセイブ
+    aliases:
+      - よばなしディセイブ
+    hypernyms:
+      - カゲロウプロジェクト
+  - canonicalName: 約束のネバーランド
+    aliases:
+      - 約ネバ
+    hypernyms:
+      - 漫画
+  - canonicalName: 癒月ちょこ 個人ボイス
+    aliases:
+      - 癒月ちょこ ボイス
+      - 癒月ちょこ ボイスシリーズ
+    hypernyms:
+      - 癒月ちょこ
+  - canonicalName: 優しい彗星
+    aliases:
+      - Comet
+  - canonicalName: 勇気爆発バーンブレイバーン
+    aliases:
+      - ブレバン
+  - canonicalName: 勇者 (YOASOBIの曲)
+    aliases:
+      - 勇者
+      - The Brave
+    hypernyms:
+      - 葬送のフリーレン
+  - canonicalName: 幽☆遊☆白書
+    aliases:
+      - 幽遊白書
+      - YuYu Hakusho
+      - 悠遊白書
+  - canonicalName: 幽霊船戦
+    aliases:
+      - Dead Ma’am’s Chest
+      - 幽霊船線
+  - canonicalName: 有頂天家族
+    aliases:
+      - The Eccentric Family
+    hypernyms:
+      - 有頂天家族シリーズ
+  - canonicalName: 遊☆戯☆王デュエルモンスターズGX
+    aliases:
+      - 遊戯王GX
+      - 遊戯王デュエルモンスターズGX
+    hypernyms:
+      - 遊☆戯☆王
+  - canonicalName: 幼女戦記
+    aliases:
+      - The Saga of Tanya the Evil
+  - canonicalName: 羊たちの沈黙
+    aliases:
+      - The Silence of the Lambs
+  - canonicalName: 踊 (Adoの曲)
+    aliases:
+      - 踊
+      - Odo
+    hypernyms:
+      - 楽曲
+  - canonicalName: 落噺
+    aliases:
+      - 落噺 (儒烏風亭らでん SOLO)
+      - おとしばなし
+    hypernyms:
+      - 楽曲
+  - canonicalName: 藍染サマータイム!!
+    aliases:
+      - Aizome Summer Time!!
+    hypernyms:
+      - ホロナツパラダイス
+  - canonicalName: 理系兄弟
+    aliases:
+      - 理系兄弟 極
+      - 理系兄弟 No.54
+    hypernyms:
+      - 日本酒
+  - canonicalName: 涼宮ハルヒの憂鬱
+    aliases:
+      - The Melancholy of Haruhi Suzumiya
+    hypernyms:
+      - 涼宮ハルヒシリーズ
+  - canonicalName: 臨界ダイバー
+    aliases:
+      - りんかいダイバー
+  - canonicalName: 瑠璃の宝石
+    aliases:
+      - ルリの宝石
+    hypernyms:
+      - 漫画
+  - canonicalName: 劣等上等
+    aliases:
+      - BRING IT ON
+  - canonicalName: 恋愛サーキュレーション
+    aliases:
+      - Renai Circulation
+    hypernyms:
+      - 物語シリーズ
+  - canonicalName: 恋愛ストラテジック
+    aliases:
+      - Strategic Love
+  - canonicalName: 炉心融解
+    aliases:
+      - Meltdown
+    hypernyms:
+      - VOCALOID楽曲
+  - canonicalName: 聲の形
+    aliases:
+      - A Silent Voice
+    hypernyms:
+      - 漫画
+      - アニメ映画
+  - canonicalName: 蟲師
+    aliases:
+      - Mushishi
+  - canonicalName: BEEP BEEP
+    aliases:
+      - BEEP BEEP CD
+    hypernyms:
+      - Hoshimatic Project
+  - canonicalName: Deep Dive
+    aliases:
+      - ディープダイブ
+    hypernyms:
+      - 轟はじめ
+  - canonicalName: Flat out
+    aliases:
+      - 輪堂千速 1stオリジナル曲『Flat out』
+    hypernyms:
+      - 輪堂千速
+  - canonicalName: Magia (Kalafina)
+    aliases:
+      - Magia
+      - マギア
+    hypernyms:
+      - 魔法少女まどか☆マギカシリーズ
+  - canonicalName: Thunderbolt Fantasy 東離劍遊紀
+    aliases:
+      - Thunderbolt Fantasy
+      - Thunderbolt Fantasy 東離剣遊紀
+      - サンファン
+    hypernyms:
+      - Thunderbolt Fantasyシリーズ
+  - canonicalName: うみゃうにゃはっぴーらいふ
+    aliases:
+      - Umyaunyahappylife
+    hypernyms:
+      - 水宮枢
+  - canonicalName: お姉さま♡ラヴコール
+    aliases:
+      - お姉さまラヴコール
+      - お姉様ラブコール
+      - Onee-sama♡Love Call
+    hypernyms:
+      - ラプラス・ダークネス
+  - canonicalName: ザ・スーパーマリオギャラクシー・ムービー
+    aliases:
+      - The Super Mario Galaxy Movie
+    hypernyms:
+      - スーパーマリオシリーズ
+  - canonicalName: サマーラブ (癒月ちょこの曲)
+    aliases:
+      - サマーラブ
+      - Summer Love
+    hypernyms:
+      - 癒月ちょこ
+  - canonicalName: 初恋大戦争
+    aliases:
+      - HATSUKOI DAISENSOU
+  - canonicalName: 星をみる少女
+    aliases:
+      - Stargazing
+    hypernyms:
+      - 星街すいせいの楽曲
+  - canonicalName: 天才ロック
+    aliases:
+      - Tensai Rock
+  - canonicalName: 風向きエントロピー
+    aliases:
+      - Entropy of wind direction
+    hypernyms:
+      - 風真いろは
+  - canonicalName: 湊あくあ黒歴史ボイス
+    aliases: []

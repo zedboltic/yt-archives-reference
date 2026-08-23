@@ -1,6 +1,6 @@
-﻿version: 1
+version: 1
 kind: ゲーム
-comment: 
+comment:
   - ゲームソフト、ゲームアプリ、ボードゲーム、カードゲーム、ゲーム機、ゲーム周辺機器など
   - シリーズ作品の場合は、シリーズ名を上位語として登録する
   - 上位語が初回作と混同しうる場合は後に「シリーズ」を付ける
@@ -511,6 +511,7 @@ entries:
   - canonicalName: DeathForest〜森からの脱出〜
     aliases:
       - DeathForest 恐怖の森
+      - 恐怖の森
   - canonicalName: DEATHLOOP
     aliases:
       - デスループ
@@ -548,6 +549,7 @@ entries:
     aliases:
       - デトロイト
       - デトロイト ビカム ヒューマン
+      - DETROIT
   - canonicalName: DEVOUR
   - canonicalName: Diablo II
     hypernyms:
@@ -1567,6 +1569,8 @@ entries:
   - canonicalName: IDOLY PRIDE
     aliases:
       - アイドリープライド
+      - IDOLY PRIDE -アイドリープライド-
+      - アイプラ
   - canonicalName: Illusion Carnival
     aliases:
       - イリュージョンカーニバル
@@ -2117,9 +2121,6 @@ entries:
       - Project Numazu
     hypernyms:
       - OMSI 2
-  - canonicalName: Once Upon a Stellar
-    aliases:
-      - ワンス・アポン・ア・ステラー
   - canonicalName: One Hand Clapping
     aliases:
       - ワンハンドクラッピング
@@ -2490,6 +2491,7 @@ entries:
   - canonicalName: R.E.P.O.
     aliases:
       - レポ
+      - 🔴R.E.P.O.
   - canonicalName: Rabbit and Steel
     aliases:
       - ラビット・アンド・スティール
@@ -2610,6 +2612,9 @@ entries:
   - canonicalName: Sakura Mirage
     aliases:
       - サクラミラージュ
+      - 桜ミラージュ
+    hypernyms:
+      - ReGLOSS
   - canonicalName: SAMURAI MAIDEN -サムライメイデン-
     aliases:
       - サムライメイデン
@@ -3175,6 +3180,7 @@ entries:
   - canonicalName: UMIGARI | ウミガリ
     aliases:
       - UMIGARI
+      - ウミガリ
     hypernyms:
       - Chilla's Art作品
   - canonicalName: Underground Blossom
@@ -3824,7 +3830,6 @@ entries:
   - canonicalName: くにおくん
   - canonicalName: くにおくんシリーズ
   - canonicalName: くまのレストラン
-  - canonicalName: ぐるぐる
   - canonicalName: くるくるくるりん
   - canonicalName: くるりんパラダイス
   - canonicalName: クアリー 悪夢のサマーキャンプ
@@ -4101,6 +4106,8 @@ entries:
   - canonicalName: サイド・オーダー
   - canonicalName: サイドアーム
   - canonicalName: サイバーパンク2077
+    aliases:
+      - Cyberpunk 2077
   - canonicalName: サイバーパンク2077 仮初めの自由
   - canonicalName: サウスパーク:スノーデイ!
     aliases:
@@ -4199,10 +4206,6 @@ entries:
   - canonicalName: ショベルナイト
   - canonicalName: シリアルクリーナージジ
   - canonicalName: シン・クロニクル
-  - canonicalName: シンデレラ スイッチ  ふたりでみるホロライブ vol.1
-    aliases:
-      - Cinderella switch ～ふたりでみるホロライブ～ vol.1
-  - canonicalName: シンデレラSWITCH
   - canonicalName: すぎるRPGシリーズ
   - canonicalName: すくって!クレーンゲーム
   - canonicalName: すばらしきこのせかい
@@ -4577,6 +4580,10 @@ entries:
   - canonicalName: ゼルダの伝説 ブレス オブ ザ ワイルド
     aliases:
       - ブレスオブザワイルド
+      - ゼルダの伝説BotW
+      - BotW
+      - ブレワイ
+      - "The Legend of Zelda: Breath of the Wild"
     hypernyms:
       - ゼルダの伝説シリーズ
   - canonicalName: ゼルダの伝説 ブレス オブ ザ ワイルド エキスパンション・パス
@@ -6016,6 +6023,7 @@ entries:
   - canonicalName: ホラーゲーム
     aliases:
       - ホラーゲーム（タイトル不明）
+      - ホラゲ
   - canonicalName: ポラリスコード
   - canonicalName: ポリスノーツ
   - canonicalName: ホロウナイト
@@ -6246,6 +6254,7 @@ entries:
       - 🟢めっちゃカメレオン
       - Meccha Chameleon
       - めちゃカメレオン
+      - "#ホロカメレオン"
   - canonicalName: メイジ・オブ・ヴァイオレット
     aliases:
       - メイジ・オブ・バイオレット
@@ -6593,6 +6602,9 @@ entries:
   - canonicalName: ロックマン3
     hypernyms:
       - ロックマンシリーズ
+    aliases:
+      - ロックマン3 Dr.ワイリーの最期!?
+      - Mega Man 3
   - canonicalName: ロックマンX
     hypernyms:
       - ロックマンXシリーズ
@@ -6783,6 +6795,7 @@ entries:
   - canonicalName: 廻るセカイと罪の果実
     aliases:
       - 廻る世界と罪の果実
+      - 輪廻るセカイと罪ノ果実
   - canonicalName: 改造町人シュビビンマン零
   - canonicalName: 海鮮!!すし街道
     aliases:
@@ -6997,7 +7010,14 @@ entries:
     hypernyms:
       - Chilla's Art作品
   - canonicalName: 七つの大罪 光と闇の交戦
+    hypernyms:
+      - 七つの大罪シリーズ
   - canonicalName: 七つの大罪:Origin
+    aliases:
+      - ナナオリ
+      - 7DS Origin
+    hypernyms:
+      - 七つの大罪シリーズ
   - canonicalName: 七並べ
   - canonicalName: 失踪
   - canonicalName: 失踪 - タケシ、お前の言う通りだった。あの廃村はヤバすぎる。
@@ -7007,6 +7027,10 @@ entries:
   - canonicalName: 邪神ころね
   - canonicalName: 弱すぎるRPG
   - canonicalName: 首都高バトル
+    aliases:
+      - Tokyo Xtreme Racer
+    hypernyms:
+      - 首都高バトルシリーズ
   - canonicalName: 儒烏風亭らでんがご案内!ピクセルミュージアム
     aliases:
       - 儒烏風亭らでんのピクセルミュージアム
@@ -7324,7 +7348,6 @@ entries:
   - canonicalName: 超兄貴 究極無敵銀河最強男
   - canonicalName: 超自然スクワッド
   - canonicalName: 超探偵事件簿 レインコード
-  - canonicalName: 超超超超ゲーマーズ2
   - canonicalName: 超土下座
   - canonicalName: 超難問!絶対音感クイズーならべてかんたん音楽勉強学習教養知育パズルー
   - canonicalName: 超魔界村
@@ -7350,6 +7373,10 @@ entries:
   - canonicalName: 電脳戦機バーチャロン マスターピース
   - canonicalName: 電脳戦機バーチャロン マスターピース 1995~2001
   - canonicalName: 賭博黙示録カイジ
+    aliases:
+      - カイジ
+      - 逆境無頼カイジ
+      - "Kaiji: Ultimate Survivor"
   - canonicalName: 都市伝説.exe
   - canonicalName: 都市伝説解体センター
     aliases:
@@ -7603,6 +7630,7 @@ entries:
       - 魔法少女魔女裁判
       - マノサバ
       - Magical Girl Witch Trials
+      - "#まのさば実況"
   - canonicalName: 魔法陣グルグル ほしくず大冒険
   - canonicalName: 麻雀ファイトガール
   - canonicalName: 麻雀ファイトクラブ
@@ -8281,3 +8309,33 @@ entries:
   - canonicalName: トロピカルVACATION
     aliases:
       - トロピカルバケーション
+  - canonicalName: Full Stride
+    aliases:
+      - フルストライド
+  - canonicalName: エトコトバトル
+    aliases:
+      - Etoko Battle
+  - canonicalName: FINAL FANTASY VII インターナショナル
+    aliases:
+      - ファイナルファンタジーVII インターナショナル
+      - FF7 インターナショナル
+      - FINAL FANTASY VII International
+    hypernyms:
+      - FINAL FANTASY VIIシリーズ
+  - canonicalName: ほの暮しの庭
+    aliases:
+      - Village in the Shade
+  - canonicalName: 青鬼2
+    aliases:
+      - Aooni2
+    hypernyms:
+      - 青鬼シリーズ
+  - canonicalName: うたの☆プリンスさまっ♪
+    aliases:
+      - うた☆プリ
+  - canonicalName: 名探偵ピカチュウ
+    aliases:
+      - Detective Pikachu
+      - Pokémon Detective Pikachu
+    hypernyms:
+      - ポケットモンスターシリーズ

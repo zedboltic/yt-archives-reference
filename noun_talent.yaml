@@ -1,4 +1,4 @@
-﻿version: 1
+version: 1
 kind: タレント
 comment:
   - VTuber, ストリーマー、実況配信者に限定する
@@ -33,6 +33,12 @@ entries:
       - アキロゼ
       - アキちゃん
       - 秋・ローゼンタール
+      - アキロゼ/ホロライブ
+      - Aki Rosenthal
+      - ホロライブ/アキロゼ
+    hypernyms:
+      - hololive
+      - ホロライブ
   - canonicalName: アユンダ・リス
     aliases:
       - Ayunda Risu
@@ -136,10 +142,12 @@ entries:
       - ラプラス
       - ラプ様
       - ラプちゃん
+      - ラプラス・ダークネス/ホロライブ
   - canonicalName: ロボ子さん
     aliases:
       - ろぼこさん
       - ロボ子
+      - ホロライブ / ロボ子さん
   - canonicalName: ワトソン・アメリア
     aliases:
       - アメリア
@@ -159,6 +167,10 @@ entries:
       - りりか
       - 社長
       - 一一条莉々華
+      - 一条莉々華/hololive DEV_IS ReGLOSS
+      - Ichijou Ririka
+    hypernyms:
+      - ReGLOSS
   - canonicalName: 音乃瀬奏
     aliases:
       - おとのせかなで
@@ -185,6 +197,8 @@ entries:
       - つのまきわため
       - わため
       - わためぇ
+      - 角巻わため/ホロライブ４期生
+      - つのまきあーと
   - canonicalName: 響咲リオナ
     aliases:
       - いさきりおな
@@ -231,6 +245,8 @@ entries:
       - ぼたん
       - ししろん
       - ぼっさん
+      - 獅白ぼたん/ホロライブ
+      - ホロライブ/獅白ぼたん
   - canonicalName: 紫咲シオン
     aliases:
       - しさきしおん
@@ -239,6 +255,7 @@ entries:
     aliases:
       - じゅんぷうていらでん
       - らでん
+      - 儒烏風亭らでん/ReGLOSS
   - canonicalName: 春先のどか
     aliases:
       - 春崎のどか
@@ -254,6 +271,7 @@ entries:
       - とこやみとわ
       - トワ
       - トワ様
+      - 常闇トワ/ホロライブ
   - canonicalName: 森カリオペ
     aliases:
       - もりかりおぺ
@@ -269,6 +287,12 @@ entries:
       - 水宮すう
       - すー
       - すーちゃん
+      - 水宮枢／ホロライブDEV_IS
+      - Su Mizumiya
+      - Su Ch. 水宮枢
+      - Mizumiya Su
+    hypernyms:
+      - FLOW GLOW
   - canonicalName: 星街すいせい
     aliases:
       - ほしまちすいせい
@@ -286,6 +310,7 @@ entries:
       - ゆきはならみい
       - ラミィ
       - ラミィちゃん
+      - 雪花ラミィ/ホロライブ
   - canonicalName: 大空スバル
     aliases:
       - おおぞらすばる
@@ -297,16 +322,24 @@ entries:
       - おおがみみお
       - ミオ
       - ミオしゃ
+      - ホロライブ / 大神ミオ
+      - Ookami Mio
   - canonicalName: 鷹嶺ルイ
     aliases:
       - たかねるい
       - ルイ
       - ルイ姉
+      - 鷹嶺ルイ/ホロライブ
+      - Takane Lui
+    hypernyms:
+      - ホロライブ
+      - hololive
   - canonicalName: 天音かなた
     aliases:
       - あまねかなた
       - かなた
       - かなたそ
+      - 天音かなた/ホロライブ
   - canonicalName: 兎田ぺこら
     aliases:
       - うさだぺこら
@@ -319,11 +352,16 @@ entries:
       - ねね
       - ねねち
       - 桃園ねね
+      - 桃鈴ねね / hololive
+      - Momosuzu Nene
+    hypernyms:
+      - hololive
   - canonicalName: 猫又おかゆ
     aliases:
       - ねこまたおかゆ
       - おかゆ
       - おかゆん
+      - 猫又おかゆ/ホロライブ
   - canonicalName: 博衣こより
     aliases:
       - はくいこより
@@ -331,12 +369,19 @@ entries:
       - こよ
       - ずぬー
       - 白衣こより
+      - 博衣こより/hololive
+      - Hakui Koyori
+      - 博衣こより/ホロライブ
   - canonicalName: 白銀ノエル
     aliases:
       - しろがねのえる
       - ノエル
       - 団長
       - 白金ノエル
+      - 白銀ノエル/ホロライブ
+      - ホロライブ/白銀ノエル
+    hypernyms:
+      - hololive
   - canonicalName: 白上フブキ
     aliases:
       - しらかみふぶき
@@ -353,20 +398,30 @@ entries:
       - ポルカ
       - ポルポル
       - ぽうぽう
+      - 尾丸ポルカ視点/ホロライブ
+      - 尾丸ポルカ/ホロライブ
+      - ホロライブ/尾丸ポルカ
   - canonicalName: 姫森ルーナ
     aliases:
       - ひめもりるーな
       - ルーナ
       - ルーナ姫
+      - 姫森ルーナ/ホロライブ
+      - Himemori Luna
+    hypernyms:
+      - ホロライブ
   - canonicalName: 百鬼あやめ
     aliases:
       - なきりあやめ
       - あやめ
       - お嬢
+      - 百鬼あやめ/ホロライブ
   - canonicalName: 不知火フレア
     aliases:
       - しらぬいふれあ
       - フレア
+      - 不知火フレアホロライブ
+      - ホロライブ/不知火フレア
   - canonicalName: 風真いろは
     aliases:
       - かざまいろは
@@ -374,6 +429,7 @@ entries:
       - いろは殿
       - ござる
       - 風間いろは
+      - 風真いろは/ホロライブ
   - canonicalName: 宝鐘マリン
     aliases:
       - ほうしょうまりん
@@ -385,12 +441,17 @@ entries:
       - みなとあくあ
       - あくあ
       - あくたん
+      - 湊あくあ/ホロライブ
+      - Minato Aqua
   - canonicalName: 癒月ちょこ
     aliases:
       - ゆづきちょこ
       - ちょこ先生
       - ちょこ先
       - ちょこ
+      - ホロライブ癒月チョコ
+    hypernyms:
+      - hololive
   - canonicalName: 輪堂千速
     aliases:
       - りんどうちはや
@@ -887,3 +948,32 @@ entries:
     aliases:
       - メタばあちゃん_MetaGrandma
       - MetaGrandma
+  - canonicalName: キズナアイ
+    aliases:
+      - Kizuna AI
+  - canonicalName: ピーナッツくん
+    aliases:
+      - PeanutsKun
+  - canonicalName: 星川サラ
+    aliases:
+      - Sara Hoshikawa
+    hypernyms:
+      - にじさんじ
+  - canonicalName: 天宮こころ
+    aliases:
+      - Amamiya Kokoro
+      - Kokoro Amamiya
+      - あまみやこころ
+  - canonicalName: 緋月ゆい
+    aliases:
+      - Hizuki Yui
+  - canonicalName: 夜空メル
+    aliases:
+      - Yozora Mel
+      - 夜空 梅露
+    hypernyms:
+      - ホロライブ
+  - canonicalName: 花譜
+    aliases:
+      - KAF
+      - 花譜-KAF-

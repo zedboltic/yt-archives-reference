@@ -1,12 +1,29 @@
 ﻿version: 1
 kind: 活動・イベント・企画
-comment: 
+comment:
   - 配信企画、イベント、コラボ、キャンペーン、ライブ、スポーツ大会、ゲーム大会、展示会、祭り、記念日など
   - 期日を限定して開催されるもの
+  - 配信者の活動周年、誕生日、登録者数達成、衣装公開などの記念日はここへ分類する。記念グッズ、記念ボイス、フルセット、ぬいぐるみなどの商品名は、対応する記念日の別名として登録する
+  - ライブのBlu-ray、DVD、BDなどの映像・音声商品名は、元ライブイベントの別名として登録する
 entries:
-  - canonicalName: hololive SUPER EXPO 2025
+  - canonicalName: hololive SUPER EXPO 2025 & hololive 6th fes. Color Rise Harmony
     aliases:
       - ホロライブSUPER EXPO 2025 後夜祭
+      - hololive EXPO 2025
+      - hololivefesEXPO25
+      - hololive fes. EXPO 25
+      - hololive fes. EXPO 2025
+      - ホロライブ スーパーエキスポ 2025
+      - ホロライブ・スーパーエキスポ2025
+      - hololive SUPER EXPO 2025
+      - hololive 6th fes. Color Rise Harmony
+      - hololive 6th fes. Color Rise Harmon
+      - hololive 6th FES
+      - hololive 6th fes.＆EXPO
+    hypernyms:
+      - ホロライブプロダクション
+      - hololive SUPER EXPO
+      - hololive fes.シリーズ
   - canonicalName: AKUKIN建設本社建設リレー
     aliases:
       - AKUKIN本社建設リレー
@@ -35,27 +52,43 @@ entries:
   - canonicalName: hololive × HoneyWorks
     aliases:
       - ホロライブとHoneyWorks
+      - ホロハニ
+    hypernyms:
+      - ホロライブプロダクション
   - canonicalName: hololive 1st fes. 「non stop story」
     aliases:
       - hololive 1st fes.『ノンストップ・ストーリー』
+      - ホロライブ 1st fes. ノンストップ・ストーリー
   - canonicalName: hololive 1st Generation Anniversary Parade -Celestial-
     aliases:
       - ホロライブ1期生 アニバーサリーパレード -Celestial-
-  - canonicalName: hololive 3rd fes.
-  - canonicalName: hololive 6th fes. Color Rise Harmony
+  - canonicalName: hololive SUPER EXPO 2026 & hololive 7th fes. Ridin' on Dreams
     aliases:
-      - hololive 6th fes. Color Rise Harmon
-  - canonicalName: hololive 7th fes.
-    aliases:
+      - hololive fes. EXPO 26
+      - hololive EXPO 2026
+      - hololive SUPER EXPO 2026
+      - ホロライブスーパーエキスポ2026
+      - "#holoEXPO2026"
+      - hololive 7th fes.
       - hololive 7th fes. EXPO
       - hololive 7th fes. Ridin' on Dreams
       - hololive SUPER EXPO 2026 / 7th fes.
-  - canonicalName: hololive fes. EXPO 2026
-    aliases:
-      - hololive fes. EXPO 26
+      - hololive 7th fes. & EXPO
+    hypernyms:
+      - hololive SUPER EXPO
+      - hololive fes.シリーズ
   - canonicalName: hololive friends
     aliases:
       - ホロライブフレンズ
+      - ホロフレンズ
+      - ホロフレ
+      - ホロライブフレンズ with you
+      - hololive friends with u
+      - ホロライブフレンドwithU
+      - ホロライブフレンド
+      - ホロライブフレンドぬいぐるみ
+    hypernyms:
+      - ホロライブプロダクション
   - canonicalName: hololive GAMERS Anniversary Parade
     aliases:
       - ホロライブゲーマーズ アニバーサリーパレード
@@ -77,30 +110,73 @@ entries:
   - canonicalName: hololive Station
     aliases:
       - ホロライブステーション
-  - canonicalName: hololive SUPER EXPO 2022
+  - canonicalName: hololive SUPER EXPO 2022 & hololive 3rd fes. Link Your Wish
     aliases:
       - ホロライブ SUPER EXPO 2022
-  - canonicalName: hololive SUPER EXPO 2023
+      - ホロライブ・スーパーエキスポ2022
+      - hololive SUPER EXPO 2022
+      - hololive 3rd fes.
+      - hololive 3rd fes. Link Your Wish
+    hypernyms:
+      - hololive SUPER EXPO
+      - hololive fes.シリーズ
+  - canonicalName: hololive SUPER EXPO 2023 & hololive 4th fes. Our Bright Parade
     aliases:
       - ホロライブSUPER EXPO 2023
-  - canonicalName: hololive SUPER EXPO 2024
+      - hololive EXPO 2023
+      - hololive SUPER EXPO 2023 Supported By Bushiroad
+      - ホロライブスーパーエキスポ2023
+      - hololive SUPER EXPO 2023
+      - hololive 4th fes. Our Bright Parade
+      - hololive 4th fes.
+      - ホロライブ 4thフェス
+      - hololive 4th fes. Our Bright Parade Supported By Bushiroad
+    hypernyms:
+      - hololive SUPER EXPO
+      - hololive fes.
+      - hololive fes.シリーズ
+  - canonicalName: hololive SUPER EXPO 2024 & hololive 5th fes. Capture the Moment
     aliases:
       - ホロライブSUPER EXPO 2024
+      - hololive EXPO 24
+      - hololive fes. EXPO 24
+      - ホロライブスーパーエキスポ2024
+      - hololive SUPER EXPO 2024
+      - hololive 5th fes. Capture the Moment
+      - hololive 5th fes
+      - ホロライブ 5th fes.
+      - ホロライブ5thフェス
+      - ホロライブ 5th fes. Capture the Moment
+      - hololive 5th fes. Capture the Moment Supported By Bushiroad
+    hypernyms:
+      - hololive SUPER EXPO
+      - hololive fes. シリーズ
   - canonicalName: hololive Xmas AR LIVE
     aliases:
       - ホロライブクリスマスARライブ
+      - hololive Xmas AR LIVE Sweet Happy Holiday
+      - Sweet Happy Holiday
+    hypernyms:
+      - hololive
+      - ホロライブ
   - canonicalName: hololive-Advent
     aliases:
       - ホロライブEnglish -Advent-
   - canonicalName: hololiveCITY
     aliases:
       - ホロライブシティ
+      - hololive CITY 24
+      - ホロライブシティ24
+      - ホロライブシティ2024
   - canonicalName: hololivesummer2023
     aliases:
       - ホロライブサマー2023
   - canonicalName: holoX MEETing
     aliases:
       - holoXミーティング
+      - ホロックスみーてぃんぐ！
+    hypernyms:
+      - 秘密結社holoX
   - canonicalName: Hoshimatic Project
     aliases:
       - ホシマティックプロジェクト
@@ -116,6 +192,7 @@ entries:
   - canonicalName: Lamy＊Love♡Fest☆
     aliases:
       - ラミィ＊Love♡Fest☆
+      - ラミーラブフェスト
   - canonicalName: LEVEL5 VISION 2023 II
     aliases:
       - レベルファイブビジョン2023 II
@@ -150,6 +227,8 @@ entries:
     aliases:
       - さくらみこ 1st Live "flower fantasista!" / さくらみこ1st Live "flower fantasista!"
       - さくらみこ1st Live "flower fantasista!"
+      - さくらみこ 1st Live 「flower fantasista!」 Blu-ray
+      - Sakura Miko 1st Live "flower fantasista!" Blu-ray
   - canonicalName: Sanrio Virtual Festival 2026
     aliases:
       - サンリオバーチャルフェス2026
@@ -183,11 +262,15 @@ entries:
   - canonicalName: テレビ東京音楽祭
     aliases:
       - テレ東音楽祭
-  - canonicalName: ときそら 8th Anniversary Party「Starry Bl∞min’」
+  - canonicalName: ときのそら 8th Anniversary Party「Starry Bl∞min’」
     aliases:
       - ときのおと (8th Anniversary Party Starry Bl∞min’)
-      - ときのそら 8th Anniversary Party「Starry Bl∞min’」
       - ときのはら 8th Anniversary Party「Starry Bl∞min’」
+      - ときそら 8th Anniversary Party「Starry Bl∞min’」
+      - ときのはそら 8th Anniversary Party「Starry Bl∞min'」
+      - ときのそら 8th Anniversary Party「Starry Bl∞min'」 (Live Blu-ray)
+      - Live Blu-ray 『ときのそら 8th Anniversary Party「Starry Bl∞min’」』
+      - ときのそら 8th Anniversary Party「Starry Bl∞min'」 (Blu-ray)
   - canonicalName: ねねいろ NOODLE らいぶ
   - canonicalName: ねねねねねねねね！大爆走🍑
     aliases:
@@ -203,6 +286,14 @@ entries:
   - canonicalName: ホロライブ 2nd fes. Beyond the Stage
     aliases:
       - ホロライブ 2ndフェス Beyond the Stage
+      - hololive 2nd fes. Beyond the Stage
+      - hololive 2nd fes. Beyond the Stage Supported By Bushiroad
+      - ホロライブ2ndfes
+      - ホロライブ 2ndライブ
+      - ホロライブ2ndフェス
+      - hololive 2nd fes.
+    hypernyms:
+      - ホロライブ
   - canonicalName: ホロライブ 6th fes
     aliases:
       - ホロライブ 6フェス
@@ -212,12 +303,20 @@ entries:
   - canonicalName: ホロライブ×ローソンコラボ
     aliases:
       - ホロライブ×ローソン
+      - hololive × ローソン キャンペーン
+      - hololive × ローソン
+      - ホロローソン
+    hypernyms:
+      - ホロライブ
   - canonicalName: ホロライブ3rdFES
     aliases:
       - ホロライブ3rdフェス
   - canonicalName: ホロライブ3期生1stライブ「HOLOLIVE FANTASY 1st LIVE FAN FUN ISLAND」
     aliases:
       - ホロライブ3期生1stライブ
+      - HOLOLIVE FANTASY 1st LIVE FAN FUN ISLAND
+      - ホロライブ3期生 1st Live -FAN FUN ISLAND-
+      - ホロライブファンタジー 1st LIVE FAN FUN ISLAND
   - canonicalName: ホロライブカウントダウンライブ2025→2026
     aliases:
       - ホロライブカウントダウンライブ2025▷2026
@@ -236,6 +335,7 @@ entries:
   - canonicalName: 異次元フェス アイドルマスター★♥ラブライブ！歌合戦
     aliases:
       - 異次元フェス アイドルマスター・ラブライブ！歌合戦
+      - 異次元フェス
   - canonicalName: 角巻わため 1st Live「わためぇ Night Fever!! in Zepp Tokyo」
     aliases:
       - 角巻わため 1st ソロライブ「わためぇ Night Fever!! in Zepp Tokyo」
@@ -246,10 +346,14 @@ entries:
     aliases:
       - 紫咲シオン マジカルカフェ
       - 紫咲シオンのMagical cafe
+      - 魔女っ子シオンのMagical cafe
   - canonicalName: 常闇トワ 1stソロライブ Break your ×××
   - canonicalName: 星街すいせい 2nd solo LIVE「Shout in Crisis」
     aliases:
       - 星街すいせい 2ndソロライブ「Shout in Crisis」
+      - Hoshimachi Suisei 2nd Solo Live “Shout in Crisis”
+      - Shout in Crisis
+      - 星街すいせい 2nd solo LIVE「Shout in Crisis」Blu-ray
   - canonicalName: 赤井はあと爆誕祭2025
     aliases:
       - 赤井はあと爆弾祭2025
@@ -265,6 +369,10 @@ entries:
     aliases:
       - 兎田ぺこら 1stソロライブ「うさぎ the MEGAMI!!」
       - 兎田ぺこら 1stライブ「うさぎ the MEGAMI!!」
+      - 1st兎田ぺこらいぶ「うさぎ the MEGAMI!!」
+      - うさぎ the MEGAMI!!
+      - 1st兎田ぺこらいぶ
+      - 兎田ぺこらいぶ「うさぎ the MEGAMI!!」
   - canonicalName: 日本画聖地巡礼2025展
     aliases:
       - 日本画聖地巡礼展
@@ -274,6 +382,10 @@ entries:
   - canonicalName: 白上フブキ 1st LIVE FBKINGDOM “ANTHEM”
     aliases:
       - 白上フブキ 1stソロライブ FBKINGDOM “ANTHEM”
+      - FBKINGDOM ANTHEM
+      - Shirakami Fubuki 1st LIVE FBKINGDOM “ANTHEM”
+    hypernyms:
+      - 白上フブキ
   - canonicalName: 風真いろは生誕LIVE2025
     aliases:
       - 風真いろは生誕ライブ2025
@@ -297,7 +409,6 @@ entries:
   - canonicalName: 記念配信
     aliases:
       - 記念枠
-      - 耐久配信
   - canonicalName: 生誕祭
     aliases:
       - 誕生日配信
@@ -342,6 +453,7 @@ entries:
   - canonicalName: Crazy Raccoon Cup
     aliases:
       - クレイジーラクーンカップ
+      - CRカップ
   - canonicalName: Crazy Raccoon Cup Street Fighter 6
     aliases:
       - クレイジーラクーンカップ ストリートファイター6
@@ -350,7 +462,6 @@ entries:
   - canonicalName: The Game Awards 2025
   - canonicalName: 札幌記念
   - canonicalName: CRカスタム
-  - canonicalName: CRカップ
   - canonicalName: CR Streamer League
   - canonicalName: 獅白杯
   - canonicalName: 獅白杯3rd
@@ -389,6 +500,9 @@ entries:
   - canonicalName: ドズル社ランド2025
   - canonicalName: TOPANGAチャリティーカップ
   - canonicalName: DREAM MATCH 雀魂 下剋上リーグ
+    aliases:
+      - 下剋上リーグ
+      - 雀魂下剋上リーグ
   - canonicalName: 中山金杯
   - canonicalName: 日本ダービー
   - canonicalName: 日本ダービー(東京優駿)
@@ -404,6 +518,8 @@ entries:
     aliases:
       - V最協
       - V最協決定戦
+      - VTuber最強決定戦
+      - 最協決定戦
   - canonicalName: VTuber最協決定戦 S5
     aliases:
       - V最協決定戦S5
@@ -424,15 +540,31 @@ entries:
       - ホロお正月カップ
   - canonicalName: ホロお正月CUP2022
   - canonicalName: ホロお正月CUP2024
+    aliases:
+      - ホロお正月カップ2024
+      - HOLONEWYEARCUP2024
   - canonicalName: ホロ鯖サマーパーク
   - canonicalName: ホロ新春ゲーム祭2026
+  - canonicalName: ホロ新春ゲーム祭2025
+    aliases:
+      - ホロ新春ゲーム祭り2025
+    hypernyms:
+      - ホロ新春ゲーム祭り
   - canonicalName: ホロ新春ゲーム祭り
     aliases:
       - ホロ新集ゲーム祭り
+      - ホロ新春ゲーム祭
+    hypernyms:
+      - ホロライブ
   - canonicalName: ホロ謎ミュージアム
   - canonicalName: ホロポケカップ
   - canonicalName: ホロヨット大会
   - canonicalName: ホロライブ運動会
+    aliases:
+      - ホロライブ秋の大運動会
+      - ホロライブ大運動会
+    hypernyms:
+      - ホロライブ
   - canonicalName: ホロライブお正月カップ2024
   - canonicalName: ホロライブCUP
     aliases:
@@ -500,6 +632,10 @@ entries:
   - canonicalName: ホロARK
     aliases:
       - ホロライブ・アーク
+      - ホロライブARK
+      - ホロ鯖ARK
+    hypernyms:
+      - ホロライブ
   - canonicalName: ホロ金策サバイバル
   - canonicalName: ホロ金策サバイバル2
     aliases:
@@ -507,6 +643,8 @@ entries:
   - canonicalName: ホロ鯖ハードコアマイクラ
   - canonicalName: ホロGGW
   - canonicalName: ホロ7DTD
+    aliases:
+      - ホロ7大豆劇場
   - canonicalName: ホロ釣り
   - canonicalName: ホロドラゴンマイクラ
   - canonicalName: ホロドロケイ
@@ -514,6 +652,8 @@ entries:
   - canonicalName: ホロナツパラダイス
     aliases:
       - holonatsuParadise
+      - ホロナツ歌枠リレー
+      - 真夏の歌枠リレー
   - canonicalName: ホロマイクラ
   - canonicalName: ホロマイクラ人狼RPG
   - canonicalName: ホロライブ甲子園
@@ -548,6 +688,7 @@ entries:
     aliases:
       - GTA5│NEW TOWN
       - NEWTOWNGTA
+      - NEWTOWN
   - canonicalName: MIMESISコラボ
     aliases: []
   - canonicalName: VTuber最弱マリパ決定戦
@@ -566,6 +707,7 @@ entries:
       - ポケチャンホロライブ杯
       - Pokémon Champions ホロライブ杯
       - ホロライブ杯
+      - Pokémon Champions はじまりの王者決定戦 ホロライブ杯
   - canonicalName: ポップン3D実機プレイ/後夜祭
     aliases:
       - Pop'n Music 3D Live Gameplay/After-Party
@@ -585,7 +727,7 @@ entries:
     aliases:
       - 鳴潮二周年
   - canonicalName: 遊戯王マスターデュエルパーク
-    aliases: []
+    aliases: [ 遊戯王マスターデュエルパーク2 ]
   - canonicalName: hololive DEV_IS NEW WAVE POP UP STORE in OIOI
     aliases:
       - ホロライブデバイス ポップアップストア
@@ -597,6 +739,8 @@ entries:
     aliases:
       - 競馬/オークス
       - 優駿牝馬
+      - 優駿牝馬（オークス）
+      - オークス（優駿牝馬）
   - canonicalName: ドバイワールドカップ
     aliases:
       - ドバイWC
@@ -617,6 +761,7 @@ entries:
   - canonicalName: 100年桃鉄ハンデ戦
     aliases:
       - こより100年桃鉄ハンデ戦
+      - こより100年桃鉄
   - canonicalName: AZKi's LOCATION!
     aliases:
       - AZロケ
@@ -633,6 +778,9 @@ entries:
   - canonicalName: hololive 5th Generation Live “Twinkle 4 You”
     aliases:
       - T4U
+      - Twinkle 4 You
+    hypernyms:
+      - ホロライブ
   - canonicalName: 大神ミオ 1st Live.「Our Sparkle」
     aliases:
       - Our Sparkle
@@ -657,6 +805,7 @@ entries:
     aliases: []
   - canonicalName: hololive SUPER EXPO
     aliases:
+      - hololive EXPO
       - ホロライブ EXPO
       - ホロライブSUPER EXPO
       - ホロライブスーパーエキスポ
@@ -669,11 +818,18 @@ entries:
   - canonicalName: ホロライブ・サマー
     aliases:
       - hololive Summer
+      - ホロサマ
+    hypernyms:
+      - ホロライブ
   - canonicalName: "hololive 3rd Generation Live #きゅるるん大作戦 〜最強アイドル、推すしかないでしょ〜"
     aliases:
       - ホロライブサードジェネレーションライブ
       - ホロライブ3期生ライブ
       - "#きゅるるん大作戦"
+      - "hololive 3rd Generation Live #きゅるるん大作戦"
+      - きゅるるん大作戦 〜最強アイドル、推すしかないでしょ〜
+    hypernyms:
+      - ホロライブ3期生
   - canonicalName: ホロライブスタディツアー
     aliases:
       - ホロライブスタディツアーin九州
@@ -713,3 +869,2146 @@ entries:
     aliases:
       - ワールド・ベースボール・クラシック
       - World Baseball Classic
+  - canonicalName: パワプロケモミミリーグ
+    aliases:
+      - ケモミミリーグ
+    hypernyms:
+      - パワフルプロ野球シリーズ
+  - canonicalName: ホロマリオテニス大会
+    aliases:
+      - hololiveマリオテニス大会
+      - ホロライブマリオテニス大会
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ReGLOSSロンドン
+    aliases:
+      - ReGLOSS Vacation in London
+    hypernyms:
+      - ReGLOSS
+  - canonicalName: ときのそら 2nd LIVE「パラレルタイム」
+    aliases:
+      - 2nd LIVE『パラレルタイム』
+      - ときのそら 2nd LIVE「PARALLEL TIME」
+    hypernyms:
+      - ときのそら
+  - canonicalName: ししろんと行く！47都道府県ラーメンツアー
+    aliases:
+      - 47都道府県ラーメンツアー
+      - ししろんの47都道府県ラーメンツアー
+      - ししろんの47ラーメンツアー
+    hypernyms:
+      - 獅白ぼたん
+  - canonicalName: Amane Kanata 1st Solo Live "LOCK ON"
+    aliases:
+      - 天音かなた 1stソロライブ「LOCK ON」
+      - 天音かなた 1st Solo Live "LOCK ON"
+      - Amane Kanata 1st Solo Live “LOCK ON” Blu-ray
+      - 天音かなた 1st Solo Live “LOCK ON” Blu-ray
+    hypernyms:
+      - 天音かなた
+  - canonicalName: Amazonプライムデー
+    aliases:
+      - Prime Day
+    hypernyms:
+      - Amazon
+  - canonicalName: AZKi×京王電鉄コラボ
+    aliases:
+      - AZKi（ホロライブ）×京王電鉄
+    hypernyms:
+      - AZKi
+      - 京王電鉄
+  - canonicalName: AZKiの世界を開拓するラジオ
+    aliases:
+      - アズラジ
+      - アズラジMAX！！！！
+    hypernyms:
+      - AZKi
+  - canonicalName: BOSS×ホロライブ コラボキャンペーン
+    aliases:
+      - BOSS x ホロライブ コラボキャンペーン
+      - BOSS×ホロライブ
+      - ホロライブ×BOSSコラボ
+      - BOSS×ホロライブコラボ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ReGLOSS 1st Live “Flashpoint”
+    aliases:
+      - Flashpoint
+      - ReGLOSS 1stライブ「Flash Point」
+    hypernyms:
+      - ReGLOSS
+  - canonicalName: from 1st
+    aliases:
+      - ホロライブ1期生3周年記念ライブ「from 1st」
+      - ホロライブ1期生ライブ「from 1st」
+      - ホロライブ1期生3rd Anniversary Live『from1st』
+      - hololive 1st Generation 3rd Anniversary LIVE「from 1st」
+      - ホロライブ1期生 3rd Anniversary Live
+    hypernyms:
+      - ホロライブ
+      - ホロライブ1期生
+  - canonicalName: WORLD HAPPINESS
+    aliases:
+      - HappinessWorld
+      - ワールド・ハピネス
+  - canonicalName: hololive fes.シリーズ
+    aliases:
+      - hololive fes.
+      - ホロライブフェス
+      - ホロライブフェス & エキスポ
+      - hololive SUPER EXPO & hololive fes.
+      - hololive SUPER EXPO & fes.
+      - ホロライブスーパーエキスポ＆フェス
+    hypernyms:
+      - ホロライブプロダクション
+  - canonicalName: hololive IDOL PROJECT 1st Live.『Bloom,』
+    aliases:
+      - Bloom,
+      - ホロライブ アイドル プロジェクト ファースト ライブ ブルーム
+    hypernyms:
+      - ホロライブ
+  - canonicalName: Honda Racing eMS 2024
+    aliases:
+      - ホンダ・レーシング イー・モータースポーツ 2024
+    hypernyms:
+      - Honda Racing eMS
+  - canonicalName: Hoshimachi Suisei 日本武道館 Live “SuperNova”
+    aliases:
+      - Hoshimachi Suisei Live “SuperNova”
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: Hoshimachi Suisei Live Tour 2024 "Spectra of Nova"
+    aliases:
+      - 星街すいせい Live Tour 2024 "Spectra of Nova"
+      - Spectra of Nova
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: Midnight Grand Orchestra 1st LIVE「Overture」
+    aliases:
+      - Midnight Grand Orchestra 1st VIRTUAL LIVE Overture
+    hypernyms:
+      - Midnight Grand Orchestra
+  - canonicalName: MUSIC VERSE Fes.
+    aliases:
+      - ミュージックバースフェス
+    hypernyms:
+      - MUSIC VERSE
+  - canonicalName: New Year’s Party 2026『Dreams in Motion』
+    aliases:
+      - そらぱ2026
+      - そらぱ
+      - ときのそら New Year’s Party 2026『Dreams in Motion』
+    hypernyms:
+      - ときのそら
+  - canonicalName: OHAPOL
+    aliases:
+      - おはぽる
+    hypernyms:
+      - 尾丸ポルカ
+  - canonicalName: OKFAMS ハロウィンコラボ
+    aliases:
+      - OKFAMS ハロウィンコラボ記念
+    hypernyms:
+      - ホロライブ
+  - canonicalName: Role:Play
+    aliases:
+      - Theatrical Cover Live Role:Play
+      - ときのそら Theatrical Cover Live『Role:Play』
+    hypernyms:
+      - ときのそら
+  - canonicalName: 常闇トワ2nd LIVE "SHINier"
+    aliases:
+      - SHINier
+      - 常闇トワ2ndライブ "SHINier"
+      - Tokoyami Towa 2nd Live "SHINier"
+    hypernyms:
+      - 常闇トワ
+  - canonicalName: SorAZ Special Live 刹那的クロニクル
+    aliases:
+      - "#劇場版SorAZ"
+    hypernyms:
+      - SorAZ
+  - canonicalName: Summer Voyage!!
+    aliases:
+      - プロジェクトV 1st Anniversary SPECIAL LIVE『Summer Voyage!!』
+    hypernyms:
+      - プロジェクトV
+  - canonicalName: "Hoshimachi Suisei Live “SuperNova: REBOOT”"
+    aliases:
+      - "SuperNova: REBOOT"
+      - "星街すいせい Live “SuperNova: REBOOT”"
+      - "#かけめぐるほしまち再"
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: WATAMERINO Collaboration
+    aliases:
+      - WATAMERINO
+  - canonicalName: WBC同時視聴
+    aliases:
+      - WBC同時視聴配信
+    hypernyms:
+      - WBC
+  - canonicalName: アキちょこナイトパレット
+    aliases:
+      - アキちょこナイパレ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: 湊あくあ ワンマンライブ2022「あくあ色 in わんだ～☆らんど♪」
+    aliases:
+      - あくあ色 in わんだ～☆らんど♪
+      - 湊あくあ 2ndライブ「あくあ色 in わんだ～☆らんど♪」
+      - 湊あくあ ワンマンライブ2022「あくあ色 in わんだ～☆らんど♪」 [Blu-ray]
+      - 湊あくあ ワンマンライブ 2022 アクア色 in Wonder☆Land
+    hypernyms:
+      - 湊あくあ
+  - canonicalName: あさココLIVE
+    aliases:
+      - あさココLIVEニュース
+      - "#asacoco"
+      - ココここ
+    hypernyms:
+      - 桐生ココ
+  - canonicalName: R.E.P.O.コラボ
+    aliases:
+      - "#ホロREPO"
+      - "#突発ホロREPO"
+    hypernyms:
+      - R.E.P.O.
+  - canonicalName: SorAZ Major Debut Live「First Gravity」
+    aliases:
+      - First Gravity
+      - SorAZ First Gravity
+      - SorAZ Major Debut Live Blu-ray First Gravity
+      - SorAZ Major Debut Live First Gravity Blu-ray
+    hypernyms:
+      - SorAZ
+  - canonicalName: Hoshimachi Suisei 1st Solo Live "STELLAR into the GALAXY"
+    aliases:
+      - 星街すいせい 1st Solo Live "STELLAR into the GALAXY"
+      - Hoshimachi Suisei 1st Solo Live "STELLAR into the GALAXY" Supported By
+        Bushiroad
+      - 星街すいせい 1st Solo Live "STELLAR into the GALAXY" Supported By Bushiroad
+      - STELLAR into the GALAXY
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: ガンダム同時視聴
+    aliases:
+      - ガンダム同時視聴配信
+      - "#こよりとガンダム"
+      - 劇場版Zガンダム同時視聴
+    hypernyms:
+      - ガンダムシリーズ
+  - canonicalName: ギリギリわるくないわため
+    aliases:
+      - "#ギリわる"
+    hypernyms:
+      - 角巻わため
+  - canonicalName: ホロサンリオ
+    aliases:
+      - サンリオ×ホロライブ
+      - ホロライブ×サンリオキャラクターズ
+      - ホロライブ×SANRIO CHARACTERS
+    hypernyms:
+      - ホロライブ
+      - サンリオ
+  - canonicalName: スシロー×さくらみこコラボ
+    aliases:
+      - にゃっはろ～スシろ～！
+      - スシロー×さくらみこ
+    hypernyms:
+      - さくらみこ
+      - スシロー
+  - canonicalName: ときのそら 5th Anniversary Live『宇宙と時空のミルキーウェイ』
+    aliases:
+      - Tokino Sora 5th Anniversary Live "Sora to Toki no Milky Way"
+      - "#ときのそらMW"
+      - ときのそら 5th Anniversary Live『宇宙(そら)と時空(とき)のミルキーウェイ』
+      - ときのそら 5th ワンマンライブ
+      - 宇宙と時空のミルキーウェイ
+      - そらと時のミルキーウェイ
+    hypernyms:
+      - ときのそら
+  - canonicalName: とこまちラジオ(仮)
+    aliases:
+      - "#とこまちラジオ"
+    hypernyms:
+      - 戌亥とこ
+      - 星街すいせい
+  - canonicalName: ねぽらぼライブ re:VISION Holoearth Live
+    aliases:
+      - ねぽらぼライブ re:VISION
+      - ねぽらぼホロアースライブ
+      - hololive 5th Generation ねぽらぼライブ re:VISION Holoearth Live
+    hypernyms:
+      - ホロアース
+      - ホロライブ
+      - ねぽらぼ
+  - canonicalName: はあちゃまサンデー
+    aliases:
+      - HAACHAMASUNDAY
+    hypernyms:
+      - 赤井はあと
+  - canonicalName: ファミリーマート×ホロライブコラボ
+    aliases:
+      - ホロマート
+      - ホロマートキャンペーン
+      - ホロマートキャンペーンvol.3
+      - ホロマートキャンペーンvol.3 5月5期生“May” you be happy
+    hypernyms:
+      - ホロライブ
+  - canonicalName: フブキカフェ
+    aliases:
+      - 白上フブキバースデー記念 フブキカフェ
+    hypernyms:
+      - 白上フブキ
+  - canonicalName: ホロカ開封
+    aliases:
+      - ホロカ開封配信
+    hypernyms:
+      - hololive OFFICIAL CARD GAME
+  - canonicalName: ホロのみ
+    aliases:
+      - ホロのみ ホロライブ Ver. 厳選4種セット
+      - ホロのみ ホロライブ Ver.
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ・サマー2023 3DLIVE Splash Party!
+    aliases:
+      - hololive Summer 2023 3DLIVE Splash Party!
+      - ホロライブ！サマースプラッシュオンラインライブ！
+    hypernyms:
+      - ホロライブ・サマー2023
+  - canonicalName: ホロライブ×REALFORCEコラボ
+    aliases:
+      - ホロライブ×REALFORCE
+      - REALFORCE×ホロライブコラボ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ・サマー2022
+    aliases:
+      - hololivesummer2022
+    hypernyms:
+      - ホロライブ・サマー
+  - canonicalName: 新春!!爆笑!!みっころね24 リターンズ!!
+    aliases:
+      - みっころね24 リターンズ
+      - みっころね24
+    hypernyms:
+      - みっころね24シリーズ
+      - ホロライブ
+  - canonicalName: ヤマトファンタジア
+    aliases:
+      - Protolive#2 〜ヤマトファンタジア〜
+      - Yamato Phantasia
+    hypernyms:
+      - ホロアース
+      - ホロライブ・オルタナティブ
+  - canonicalName: ラミィの日本酒づくりプロジェクト
+    aliases:
+      - 雪花ラミィの日本酒づくりプロジェクト
+  - canonicalName: ろぼ～このマリオネットパーティー！
+    aliases:
+      - Robocosan's Marionette Party
+  - canonicalName: ロボ子さんのサイバーメイドカフェ
+    aliases:
+      - ROBOCOSAN'S CYBER MAID CAFÉ
+    hypernyms:
+      - ロボ子さん
+  - canonicalName: 角巻わためのHave a nice day
+    aliases:
+      - "#はばない"
+    hypernyms:
+      - 角巻わため
+  - canonicalName: 沙花叉クロヱ 2周年記念
+    aliases:
+      - 沙花叉アニソンフェス
+      - 沙花叉クロヱ 2周年記念ライブ
+    hypernyms:
+      - 沙花叉クロヱ
+  - canonicalName: 獅白ぼたん 5周年記念
+    aliases:
+      - 獅白ぼたん5周年
+      - 獅白ぼたん5周年記念グッズ
+    hypernyms:
+      - 獅白ぼたん
+  - canonicalName: ホロライブ presents 星街すいせいのMUSIC SPACE
+    aliases:
+      - 星街すいせいのMUSIC SPACE
+      - MUSIC SPACE
+    hypernyms:
+      - ホロライブ
+  - canonicalName: AZKi Major Debut LiVE「声音エントロピー」
+    aliases:
+      - 声音エントロピー
+  - canonicalName: 大阪・関西万博
+    aliases:
+      - 2025年日本国際博覧会
+      - EXPO 2025
+      - 大阪万博
+    hypernyms:
+      - 国際博覧会
+  - canonicalName: AZKi 活動7周年記念
+    aliases:
+      - AZKi 活動7周年記念グッズ
+      - AZKi 7周年記念グッズ
+    hypernyms:
+      - AZKi
+  - canonicalName: 沙花叉クロヱ ギャル叉衣装記念
+    aliases:
+      - 沙花叉クロヱ ギャル叉衣装記念グッズ
+      - ギャル叉グッズ
+      - ギャル叉衣装記念グッズ
+    hypernyms:
+      - 沙花叉クロヱ
+  - canonicalName: さくらみこ 活動4周年記念
+    aliases:
+      - さくらみこ 活動4周年記念グッズ
+      - さくらみこ4周年記念グッズ
+      - さくらみこ４周年グッズ
+      - さくらみこ4周年記念
+      - さくらみこ4周年
+    hypernyms:
+      - さくらみこ
+  - canonicalName: さくらみこ 活動7周年記念
+    aliases:
+      - さくらみこ 活動7周年記念グッズ
+      - さくらみこ7周年記念グッズ
+    hypernyms:
+      - さくらみこ
+  - canonicalName: さくらみこ 誕生日記念2023
+    aliases:
+      - さくらみこ 誕生日記念2023グッズ
+    hypernyms:
+      - さくらみこ
+  - canonicalName: さくらみこ 誕生日記念2024
+    aliases:
+      - さくらみこ 誕生日記念2024 フルセット
+      - さくらみこ 誕生日記念グッズ2024
+    hypernyms:
+      - さくらみこ
+  - canonicalName: さくらみこ 活動5周年記念
+    aliases:
+      - さくらみこ 活動5周年記念グッズ
+      - さくらみこ5周年記念グッズ
+    hypernyms:
+      - さくらみこ
+  - canonicalName: さくらみこ 誕生日記念2021
+    aliases:
+      - さくらみこ誕生日記念2021グッズ
+    hypernyms:
+      - さくらみこ
+  - canonicalName: さくらみこ 誕生日記念2025
+    aliases:
+      - さくらみこ誕生日記念グッズ2025
+    hypernyms:
+      - さくらみこ
+  - canonicalName: さくらみこ 誕生日記念2026
+    aliases:
+      - さくらみこ 誕生日記念2026 グッズ
+      - さくらみこ誕生日記念グッズ2026
+      - さくらみこ生誕祭2026
+    hypernyms:
+      - さくらみこ
+  - canonicalName: ときのそら 100万人記念
+    aliases:
+      - ときのそら 100万人記念グッズ
+      - ときのそら チャンネル登録者数100万人達成記念グッズ
+    hypernyms:
+      - ときのそら
+  - canonicalName: ときのそら 活動7周年記念
+    aliases:
+      - ときのそら 活動7周年記念グッズ
+      - ときのそら7周年記念グッズ
+    hypernyms:
+      - ときのそら
+  - canonicalName: ときのそら 誕生日記念2025
+    aliases:
+      - ときのそら誕生日記念グッズ2025
+    hypernyms:
+      - ときのそら
+  - canonicalName: 輪堂千速 ニックの日記念
+    aliases:
+      - 輪堂千速 ニックの日記念グッズ
+      - ニックの日記念グッズ
+      - ニックの日グッズ
+    hypernyms:
+      - 輪堂千速
+  - canonicalName: 赤井はあと 活動4周年記念
+    aliases:
+      - 赤井はあと 活動4周年記念グッズ
+      - はあちゃま4周年記念グッズ
+      - 赤井はあと4周年記念グッズ
+    hypernyms:
+      - 赤井はあと
+  - canonicalName: ホロライブ1期生 6周年記念
+    aliases:
+      - ホロライブ1期生 6周年記念グッズ
+    hypernyms:
+      - ホロライブ1期生
+  - canonicalName: ロボ子さん 活動6周年記念
+    aliases:
+      - ロボ子さん 活動6周年記念グッズ
+      - ロボ子さん6周年記念グッズ
+    hypernyms:
+      - ロボ子さん
+  - canonicalName: ロボ子さん 活動7周年記念
+    aliases:
+      - ロボ子さん 活動7周年記念グッズ
+      - ロボ子さん7周年記念グッズ
+      - ロボ子さん7周年記念
+    hypernyms:
+      - ロボ子さん
+  - canonicalName: ロボ子さん 新衣装記念2024
+    aliases:
+      - ロボ子さん新衣装2024記念グッズ
+      - 新衣装2024記念グッズ
+    hypernyms:
+      - ロボ子さん
+  - canonicalName: ロボ子さん 誕生日記念2026
+    aliases:
+      - ロボ子さん 誕生日記念2026 グッズ
+    hypernyms:
+      - ロボ子さん
+  - canonicalName: ロボ子さん 活動4周年記念
+    aliases:
+      - ロボ子さん4周年記念グッズ
+      - ロボ子さん 活動4周年記念グッズ
+    hypernyms:
+      - ロボ子さん
+  - canonicalName: 白銀ノエル 安眠の日記念
+    aliases:
+      - 白銀ノエル 安眠の日記念グッズ
+      - 安眠の日グッズ
+      - 安眠の日記念グッズ
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 音乃瀬奏 50万人記念
+    hypernyms:
+      - 音乃瀬奏
+  - canonicalName: 音乃瀬奏 誕生日記念2025
+    aliases:
+      - 音乃瀬奏 誕生日記念2025グッズ
+    hypernyms:
+      - 音乃瀬奏
+  - canonicalName: 音乃瀬奏 誕生日記念2026
+    aliases:
+      - 音乃瀬奏 誕生日記念2026グッズ
+    hypernyms:
+      - 音乃瀬奏
+  - canonicalName: 夏色まつり 活動4周年記念
+    aliases:
+      - 夏色まつり4周年記念
+    hypernyms:
+      - 夏色まつり
+  - canonicalName: 夏色まつり 活動5周年記念
+    aliases:
+      - 夏色まつり 5周年記念
+      - 夏色まつり 5周年記念グッズ
+    hypernyms:
+      - 夏色まつり
+  - canonicalName: 夏色まつり 活動8周年記念
+    aliases:
+      - 夏色まつり8周年記念
+      - 夏色まつり 8周年記念グッズ
+    hypernyms:
+      - 夏色まつり
+  - canonicalName: 夏色まつり 誕生日記念
+    aliases:
+      - 夏色まつり誕生日スペシャルボイス
+      - 限定誕生日スペシャルボイス
+    hypernyms:
+      - 夏色まつり
+  - canonicalName: 火威青 誕生日記念2024
+    aliases:
+      - 火威青 誕生日記念2024記念
+      - 火威青 誕生日記念2024記念グッズ
+      - 火威青 誕生日記念2024 フルセット
+    hypernyms:
+      - 火威青
+  - canonicalName: 角巻わため 100万人記念
+    aliases:
+      - 角巻わため100万人記念パジャマぬいぐるみ
+      - 100万人記念パジャマぬいぐるみ
+      - 角巻わためパジャマぬいぐるみ
+    hypernyms:
+      - 角巻わため
+  - canonicalName: 角巻わため 2周年記念
+    aliases:
+      - 角巻わため 2周年記念グッズ
+    hypernyms:
+      - 角巻わため
+  - canonicalName: 角巻わため 誕生日記念2023
+    aliases:
+      - 角巻わため 誕生日記念2023グッズ
+    hypernyms:
+      - 角巻わため
+  - canonicalName: 角巻わため 誕生日記念2024
+    aliases:
+      - 角巻わため 誕生日記念2024グッズ
+    hypernyms:
+      - 角巻わため
+  - canonicalName: 角巻わため 誕生日記念2025
+    aliases:
+      - 角巻わため 誕生日記念グッズ2025
+    hypernyms:
+      - 角巻わため
+  - canonicalName: 角巻わため 誕生日記念2026
+    aliases:
+      - 角巻わため 誕生日記念グッズ2026
+      - 角巻わため生誕祭2026
+    hypernyms:
+      - 角巻わため
+  - canonicalName: 角巻わため 5周年記念
+    aliases:
+      - 角巻わため 5周年記念グッズ
+    hypernyms:
+      - 角巻わため
+  - canonicalName: 響咲リオナ 誕生日記念2026
+    aliases:
+      - 響咲リオナ 誕生日記念グッズ2026
+      - 響咲リオナ 誕生日記念2026グッズ
+      - リオナ生誕祭36時
+    hypernyms:
+      - 響咲リオナ
+  - canonicalName: 轟はじめ はじめの日記念2026
+    aliases:
+      - 轟はじめグッズ はじめの日記念2026
+    hypernyms:
+      - 轟はじめ
+  - canonicalName: 沙花叉クロヱ 活動1周年記念
+    aliases:
+      - 沙花叉クロヱ 1周年記念
+    hypernyms:
+      - 沙花叉クロヱ
+  - canonicalName: 沙花叉クロヱ 3周年記念
+    aliases:
+      - 沙花叉クロヱ 活動3周年記念
+    hypernyms:
+      - 沙花叉クロヱ
+  - canonicalName: 沙花叉クロヱ 活動2周年記念
+    aliases:
+      - 沙花叉クロヱ 活動2周年記念グッズ
+    hypernyms:
+      - 沙花叉クロヱ
+  - canonicalName: 獅白ぼたん 100万人記念
+    aliases:
+      - 獅白ぼたん 100万人記念グッズ
+    hypernyms:
+      - 獅白ぼたん
+  - canonicalName: 獅白ぼたん 誕生日記念2025
+    aliases:
+      - 獅白ぼたん 2025誕生日記念グッズ
+    hypernyms:
+      - 獅白ぼたん
+  - canonicalName: 獅白ぼたん 活動2周年記念
+    aliases:
+      - 獅白ぼたん2周年記念
+    hypernyms:
+      - 獅白ぼたん
+  - canonicalName: 獅白ぼたん 活動4周年記念
+    aliases:
+      - 獅白ぼたん4周年記念グッズ
+    hypernyms:
+      - 獅白ぼたん
+  - canonicalName: 獅白ぼたん 1周年記念
+    aliases:
+      - 獅白ぼたん一周年記念グッズ
+      - 獅白ぼたん 活動一周年記念グッズ
+    hypernyms:
+      - 獅白ぼたん
+  - canonicalName: 紫咲シオン 100万人記念
+    aliases:
+      - 紫咲シオン 100万人記念グッズ
+      - 紫咲シオン 100万人記念フルセット
+    hypernyms:
+      - 紫咲シオン
+  - canonicalName: 紫咲シオン 1周年記念
+    aliases:
+      - 紫咲シオン 1周年ボイス
+      - 紫咲シオン 1周年記念ボイス
+    hypernyms:
+      - 紫咲シオン
+  - canonicalName: 紫咲シオン 2周年記念
+    aliases:
+      - 紫咲シオン2周年記念グッズ
+      - 紫咲シオン2周年記念ボイス
+      - 紫咲シオン 2周年記念ボイス＆グッズ
+      - 紫咲シオン 活動二周年記念ボイス
+      - 紫咲シオン 活動2周年記念ボイス＆グッズ
+      - 紫咲シオン 活動二周年記念ボイス＆グッズ
+      - 紫咲シオン 活動二周年記念グッズ
+    hypernyms:
+      - 紫咲シオン
+  - canonicalName: 紫咲シオン 3周年記念
+    aliases:
+      - 紫咲シオン 3周年記念グッズ
+      - 紫咲シオン 活動3周年記念グッズ
+      - 紫咲シオン 活動3周年記念
+    hypernyms:
+      - 紫咲シオン
+  - canonicalName: 紫咲シオン 5周年記念
+    aliases:
+      - 紫咲シオン 5周年記念グッズ
+    hypernyms:
+      - 紫咲シオン
+  - canonicalName: 紫咲シオン 6周年記念
+    aliases:
+      - 紫咲シオン6周年記念グッズ
+    hypernyms:
+      - 紫咲シオン
+  - canonicalName: 紫咲シオン 誕生日記念2021
+    aliases:
+      - 紫咲シオン誕生日グッズ2021
+    hypernyms:
+      - 紫咲シオン
+  - canonicalName: 常闇トワ 2周年記念
+    aliases:
+      - 常闇トワ 2周年記念グッズ
+    hypernyms:
+      - 常闇トワ
+  - canonicalName: 常闇トワ 誕生日記念2021
+    aliases:
+      - 常闇トワ 誕生日記念2021グッズ
+    hypernyms:
+      - 常闇トワ
+  - canonicalName: 常闇トワ 100万人記念
+    aliases:
+      - 常闇トワ100万人記念グッズ
+    hypernyms:
+      - 常闇トワ
+  - canonicalName: 常闇トワ 誕生日記念2022
+    aliases:
+      - 常闇トワ 2022誕生日記念グッズ
+    hypernyms:
+      - 常闇トワ
+  - canonicalName: 常闇トワ 6周年記念
+    aliases:
+      - 常闇トワ6周年記念グッズ
+      - 常闇トワ 活動6周年記念
+    hypernyms:
+      - 常闇トワ
+  - canonicalName: 星街すいせい 誕生日＆4周年記念
+    aliases:
+      - 星街すいせい 誕生日&活動4周年記念グッズ
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: 星街すいせい 誕生日＆活動3周年記念
+    aliases:
+      - 星街すいせい 誕生日&活動三周年記念グッズ
+      - 星街すいせい誕生日活動三周年記念グッズ
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: 赤井はあと 活動6周年記念
+    aliases:
+      - 赤井はあと 活動6周年記念グッズ
+      - 赤井はあと 6周年記念グッズ
+      - 赤井はあと 6周年記念
+    hypernyms:
+      - 赤井はあと
+  - canonicalName: 赤井はあと 7周年記念
+    aliases:
+      - 赤井はあと7周年記念グッズ
+    hypernyms:
+      - 赤井はあと
+  - canonicalName: 雪花ラミィ 活動1周年記念
+    aliases:
+      - 雪花ラミィ 1周年記念グッズ
+      - 雪花ラミィ 活動1周年記念グッズ
+      - 雪花ラミィ 活動一周年記念グッズ
+    hypernyms:
+      - 雪花ラミィ
+  - canonicalName: 雪花ラミィ 4周年記念
+    hypernyms:
+      - 雪花ラミィ
+  - canonicalName: 雪花ラミィ 誕生日記念2024
+    aliases:
+      - 雪花ラミィ 誕生日記念2024グッズ
+    hypernyms:
+      - 雪花ラミィ
+  - canonicalName: 雪花ラミィ 誕生日記念2021
+    aliases:
+      - 雪花ラミィ誕生日記念グッズ2021
+    hypernyms:
+      - 雪花ラミィ
+  - canonicalName: 大空スバル 4周年記念
+    aliases:
+      - 大空スバル 4周年記念グッズ
+      - 大空スバル 活動4周年記念
+    hypernyms:
+      - 大空スバル
+  - canonicalName: 大空スバル 6周年記念
+    aliases:
+      - 大空スバル 6周年記念グッズ
+      - 大空スバル 活動6周年記念グッズ
+    hypernyms:
+      - 大空スバル
+  - canonicalName: 大空スバル 誕生日記念2020
+    aliases:
+      - 大空スバルお誕生日グッズ2020
+      - 大空スバル 誕生日記念2020 グッズ
+    hypernyms:
+      - 大空スバル
+  - canonicalName: 大空スバル 誕生日記念2022
+    aliases:
+      - 大空スバル生誕祭2022グッズ
+    hypernyms:
+      - 大空スバル
+  - canonicalName: 大神ミオ 2周年記念
+    aliases:
+      - 大神ミオ 2周年記念ボイス
+    hypernyms:
+      - 大神ミオ
+  - canonicalName: 大神ミオ 6周年記念
+    aliases:
+      - 大神ミオ 6周年記念グッズ
+    hypernyms:
+      - 大神ミオ
+  - canonicalName: 鷹嶺ルイ 1周年記念
+    aliases:
+      - 鷹嶺ルイ 1周年記念グッズ
+      - 鷹嶺ルイ活動1周年記念
+      - 鷹嶺ルイ 活動1周年記念フルセット
+      - 鷹嶺ルイ 活動1周年記念グッズ
+    hypernyms:
+      - 鷹嶺ルイ
+  - canonicalName: 鷹嶺ルイ 2周年記念
+    aliases:
+      - 鷹嶺ルイ 2周年記念グッズ
+    hypernyms:
+      - 鷹嶺ルイ
+  - canonicalName: 鷹嶺ルイ 4周年記念
+    aliases:
+      - 鷹嶺ルイ4周年記念グッズ
+    hypernyms:
+      - 鷹嶺ルイ
+  - canonicalName: 天音かなた 誕生日記念2021
+    aliases:
+      - 天音かなた 2021誕生日記念グッズ
+    hypernyms:
+      - 天音かなた
+  - canonicalName: 天音かなた 誕生日記念2020
+    aliases:
+      - 天音かなた 誕生日記念ボイス2020
+      - 天音かなた 誕生日記念ボイス
+    hypernyms:
+      - 天音かなた
+  - canonicalName: 兎田ぺこら 3周年記念
+    aliases:
+      - 兎田ぺこら活動3周年記念グッズ
+    hypernyms:
+      - 兎田ぺこら
+  - canonicalName: 桃鈴ねね 4周年記念
+    aliases:
+      - 桃鈴ねね4周年記念グッズ
+    hypernyms:
+      - 桃鈴ねね
+  - canonicalName: 桃鈴ねね 5周年記念
+    aliases:
+      - 桃鈴ねね 5周年記念グッズ
+    hypernyms:
+      - 桃鈴ねね
+  - canonicalName: 桃鈴ねね 誕生日記念2022
+    aliases:
+      - 桃鈴ねね 誕生グッズ2022
+      - 桃鈴ねね 誕生日グッズ2022
+      - 桃鈴ねね誕生日2022
+    hypernyms:
+      - 桃鈴ねね
+  - canonicalName: 猫又おかゆ 4周年記念
+    aliases:
+      - 猫又おかゆ 4周年記念グッズ
+    hypernyms:
+      - 猫又おかゆ
+  - canonicalName: 猫又おかゆ 活動6周年記念
+    aliases:
+      - 猫又おかゆ 活動6周年記念グッズ
+    hypernyms:
+      - 猫又おかゆ
+  - canonicalName: 猫又おかゆ 誕生日記念2021
+    aliases:
+      - 猫又おかゆ 誕生日記念2021グッズ
+    hypernyms:
+      - 猫又おかゆ
+  - canonicalName: 博衣こより 1周年記念
+    aliases:
+      - 博衣こより1周年記念グッズ
+      - 博衣こより 活動1周年記念
+    hypernyms:
+      - 博衣こより
+  - canonicalName: 博衣こより 4周年記念
+    aliases:
+      - 博衣こより4周年記念グッズ
+    hypernyms:
+      - 博衣こより
+  - canonicalName: 博衣こより 2周年記念
+    aliases:
+      - 博衣こより2周年記念グッズ
+    hypernyms:
+      - 博衣こより
+  - canonicalName: 博衣こより 誕生日記念2026
+    aliases:
+      - 博衣こより生誕グッズ2026
+      - 博衣こより生誕Live2026
+      - 博衣こより生誕祭2026
+    hypernyms:
+      - 博衣こより
+  - canonicalName: 博衣こより 誕生日記念2022
+    aliases:
+      - 博衣こより誕生日グッズ2022
+    hypernyms:
+      - 博衣こより
+  - canonicalName: 博衣こより 誕生日記念2023
+    aliases:
+      - 博衣こより誕生日記念グッズ2023
+    hypernyms:
+      - 博衣こより
+  - canonicalName: 博衣こより 誕生日記念2024
+    aliases:
+      - 博衣こより誕生日記念グッズ2024
+    hypernyms:
+      - 博衣こより
+  - canonicalName: 博衣こより 誕生日記念2025
+    aliases:
+      - 博衣こより誕生日記念グッズ2025
+    hypernyms:
+      - 博衣こより
+  - canonicalName: 白銀ノエル 1周年記念
+    aliases:
+      - 白銀ノエル 1周年記念ASMRボイス
+      - 白銀ノエル 1周年記念ボイス
+      - 白銀ノエルのASMRボイス(1周年記念)
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル 誕生日記念2019
+    aliases:
+      - 白銀ノエル2019年お誕生日ボイス
+      - 白銀ノエル 2019年誕生日ボイス
+      - 白銀ノエルお誕生日ボイス(2019年)
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル 20万人記念
+    aliases:
+      - 白銀ノエル20万人記念ASMRボイス
+      - 白銀ノエル 20万人記念ボイス
+      - 白銀ノエルのASMRボイス(20万人記念)
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル3D新衣装記念2022
+    aliases:
+      - 白銀ノエル 3D新衣装記念2022グッズ
+      - 白銀ノエル 3D新衣装記念グッズ
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル 3周年記念
+    aliases:
+      - 白銀ノエル 3周年記念グッズ
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル 4周年記念
+    aliases:
+      - 白銀ノエル 4周年記念グッズ
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル 6周年記念
+    aliases:
+      - 白銀ノエル 6周年記念グッズ
+      - 白銀ノエル6周年＆新衣装グッズ
+      - 白銀ノエル 新衣装＆活動6周年記念グッズ
+      - 白銀ノエル 新衣装＆活動6周年記念
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル 2周年記念
+    aliases:
+      - 白銀ノエル 活動2周年記念グッズ
+      - 白銀ノエル 活動二周年記念
+      - 白銀ノエル 活動2周年記念
+      - Shirogane Noel Activity 2nd Anniversary
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル 5周年記念
+    aliases:
+      - 白銀ノエル 活動5周年記念グッズ
+      - 白銀ノエル活動5周年グッズ
+      - 白銀ノエル 活動5周年記念
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル 誕生日記念2020
+    aliases:
+      - 白銀ノエル 誕生日ボイス2020
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル 7周年記念
+    aliases:
+      - 白銀ノエル7周年グッズ
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル 誕生日記念2023
+    aliases:
+      - 白銀ノエル生誕グッズ2023
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル誕生日記念2022
+    aliases:
+      - 白銀ノエル誕生日記念グッズ2022
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白銀ノエル 誕生日記念2025
+    aliases:
+      - 白銀ノエル誕生日記念グッズ2025
+    hypernyms:
+      - 白銀ノエル
+  - canonicalName: 白上フブキ 3周年記念
+    aliases:
+      - 白上フブキ3周年記念グッズ
+      - 白上フブキ 活動三周年記念
+      - 白上フブキ 活動三周年記念グッズ
+    hypernyms:
+      - 白上フブキ
+  - canonicalName: 白上フブキ 5周年記念
+    aliases:
+      - 白上フブキ 5周年記念グッズ
+    hypernyms:
+      - 白上フブキ
+  - canonicalName: 白上フブキ 6周年記念
+    aliases:
+      - 白上フブキ 6周年記念グッズ
+    hypernyms:
+      - 白上フブキ
+  - canonicalName: 白上フブキ 7周年記念
+    aliases:
+      - 白上フブキ 活動7周年記念グッズ
+      - 白上フブキ7周年記念グッズ
+      - 白上フブキ 活動7周年記念
+    hypernyms:
+      - 白上フブキ
+  - canonicalName: 白上フブキ 誕生日記念2020
+    aliases:
+      - 白上フブキお誕生日2020記念グッズ
+      - 白上フブキ 誕生日2020記念グッズ
+    hypernyms:
+      - 白上フブキ
+  - canonicalName: 白上フブキ 誕生日記念2025
+    aliases:
+      - 白上フブキ生誕記念グッズ2025
+    hypernyms:
+      - 白上フブキ
+  - canonicalName: 尾丸ポルカ 4周年記念
+    hypernyms:
+      - 尾丸ポルカ
+  - canonicalName: 尾丸ポルカ 5周年記念
+    aliases:
+      - 尾丸ポルカ 活動5周年記念グッズ
+    hypernyms:
+      - 尾丸ポルカ
+  - canonicalName: 尾丸ポルカ 誕生日記念2022
+    aliases:
+      - Omaru Polka Birthday Anniversary 2022
+    hypernyms:
+      - 尾丸ポルカ
+  - canonicalName: 尾丸ポルカ 誕生日記念2026
+    aliases:
+      - 尾丸ポルカ 誕生日記念2026グッズ
+      - 尾丸ポルカ生誕祭2026
+    hypernyms:
+      - 尾丸ポルカ
+  - canonicalName: 姫森ルーナ 誕生日記念2024
+    aliases:
+      - 姫森ルーナ 誕生日記念グッズ2024
+    hypernyms:
+      - 姫森ルーナ
+  - canonicalName: 姫森ルーナ 誕生日記念2025
+    aliases:
+      - 姫森ルーナ 誕生日記念グッズ2025
+    hypernyms:
+      - 姫森ルーナ
+  - canonicalName: 姫森ルーナ 1周年記念
+    aliases:
+      - 姫森ルーナ 活動１周年記念ボイス
+    hypernyms:
+      - 姫森ルーナ
+  - canonicalName: 姫森ルーナ 3周年記念
+    aliases:
+      - 姫森ルーナ 活動3周年記念
+    hypernyms:
+      - 姫森ルーナ
+  - canonicalName: 百鬼あやめ 5周年記念
+    aliases:
+      - 百鬼あやめ 5周年グッズ
+      - 百鬼あやめ 活動5周年記念
+      - 百鬼あやめ 5周年記念グッズ
+    hypernyms:
+      - 百鬼あやめ
+  - canonicalName: 百鬼あやめ 1周年記念
+    aliases:
+      - 百鬼あやめ1周年記念ボイス
+      - 百鬼あやめ 活動1周年記念ボイス
+      - 百鬼あやめ 活動１周年記念ボイス「あやめのひととせ」
+    hypernyms:
+      - 百鬼あやめ
+  - canonicalName: 百鬼あやめ 活動3周年記念
+    aliases:
+      - 百鬼あやめ3周年記念グッズ
+    hypernyms:
+      - 百鬼あやめ
+  - canonicalName: 百鬼あやめ 活動4周年記念
+    aliases:
+      - 百鬼あやめ4周年記念グッズ
+      - 百鬼あやめ活動4周年記念グッズ
+    hypernyms:
+      - 百鬼あやめ
+  - canonicalName: 百鬼あやめ 活動7周年記念
+    aliases:
+      - 百鬼あやめ活動7周年記念グッズ
+    hypernyms:
+      - 百鬼あやめ
+  - canonicalName: 百鬼あやめ 誕生日記念2023
+    aliases:
+      - 百鬼あやめ 誕生日グッズ2023
+    hypernyms:
+      - 百鬼あやめ
+  - canonicalName: 百鬼あやめ 誕生日記念2025
+    aliases:
+      - 百鬼あやめ誕生日記念2025グッズ
+    hypernyms:
+      - 百鬼あやめ
+  - canonicalName: 不可解弐REBUILDING
+    aliases:
+      - 花譜 2nd ONE-MAN LIVE「不可解弐REBUILDING」
+      - 不可解弐REBUILDING 3 公演スペシャルパッケージ
+    hypernyms:
+      - 不可解 (花譜)
+  - canonicalName: 不知火フレア 3D新ビジュアルお披露目
+    aliases:
+      - 不知火フレア 3D新ビジュアル
+      - 不知火フレア 3D新ビジュアルお披露目記念グッズ
+      - 不知火フレア 3D新メインビジュアル
+      - 不知火フレア 3D新ビジュアルお披露目 グッズ
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 不知火フレア 活動3周年記念
+    aliases:
+      - 不知火フレア 活動3周年記念グッズ
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 不知火フレア 活動4周年記念
+    aliases:
+      - 不知火フレア 活動4周年記念グッズ
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 不知火フレア 活動5周年記念
+    aliases:
+      - 不知火フレア 活動5周年記念グッズ
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 不知火フレア 活動一周年記念
+    aliases:
+      - 不知火フレア 活動一周年記念ボイス＆グッズ
+      - 不知火フレア 活動一周年記念ボイス
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 不知火フレア 活動二周年記念
+    aliases:
+      - 不知火フレア 活動二周年記念グッズ
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 不知火フレア 新衣装記念2025
+    aliases:
+      - 不知火フレア 新衣装記念2025 グッズ
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 不知火フレア 誕生日記念2025
+    aliases:
+      - 不知火フレア 誕生日記念2025グッズ
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 不知火フレア 誕生日記念2021
+    aliases:
+      - 不知火フレア 誕生日記念グッズ2021
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 不知火フレア 誕生日記念2022
+    aliases:
+      - 不知火フレア誕生日記念2022 グッズ
+      - 不知火フレア 誕生日記念2022 誕生日記念フルセット
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 不知火フレア 誕生日記念2023
+    aliases:
+      - 不知火フレア誕生日記念グッズ2023
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 不知火フレア 誕生日記念2024
+    aliases:
+      - 不知火フレア誕生日記念グッズ2024
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 風真いろは 誕生日記念2023
+    aliases:
+      - 風真いろは 2023年生誕記念グッズ
+    hypernyms:
+      - 風真いろは
+  - canonicalName: 風真いろは 活動1周年記念
+    aliases:
+      - 風真いろは 活動1周年記念グッズ
+      - 風真いろは 活動1周年記念フルセット
+      - 風真いろは 活動1周年記念グッズセット
+    hypernyms:
+      - 風真いろは
+  - canonicalName: 風真いろは 活動2周年記念
+    aliases:
+      - 風真いろは 活動2周年記念グッズ
+    hypernyms:
+      - 風真いろは
+  - canonicalName: 風真いろは 誕生日記念
+    aliases:
+      - 風真いろは 誕生日グッズ
+      - 風真いろは 誕生日記念グッズ
+    hypernyms:
+      - 風真いろは
+  - canonicalName: 風真いろは 活動4周年記念
+    aliases:
+      - 風真いろは4周年記念グッズ
+    hypernyms:
+      - 風真いろは
+  - canonicalName: 宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」
+    aliases:
+      - 宝鐘マリン 1stソロライブ Blu-ray
+      - 宝鐘マリン 1stソロライブ Blu-ray「Ahoy!!キミたちみんなパイレーツ」
+      - 宝鐘マリン1stソロライブ『Ahoy!!キミたちみんなパイレーツ』Blu-ray
+      - 宝鐘マリン 1stライブ「Ahoy!! キミたちみんなパイレーツ♡」 Blu-ray
+      - 宝鐘マリン 1st Live『Ahoy!! キミたちみんなパイレーツ』
+      - 宝鐘マリン 1st Live「Ahoy!! キミたちみんなパイレーツ♡」
+    hypernyms:
+      - 宝鐘マリン
+  - canonicalName: 宝鐘マリン 活動4周年記念
+    aliases:
+      - 宝鐘マリン4周年記念グッズ
+    hypernyms:
+      - 宝鐘マリン
+  - canonicalName: 宝鐘マリン 誕生日記念2022
+    aliases:
+      - 宝鐘マリン生誕記念グッズ2022
+    hypernyms:
+      - 宝鐘マリン
+  - canonicalName: 宝鐘マリン 誕生日記念2025
+    aliases:
+      - 宝鐘マリン生誕記念グッズ2025
+    hypernyms:
+      - 宝鐘マリン
+  - canonicalName: 湊あくあ 2022年カレンダー
+    aliases:
+      - 湊あくあ 2022年版 壁掛けカレンダー
+    hypernyms:
+      - 湊あくあ
+  - canonicalName: 湊あくあ 活動6周年記念
+    aliases:
+      - 湊あくあ 活動6周年記念グッズ
+      - 湊あくあ 活動6周年記念フルセット
+    hypernyms:
+      - 湊あくあ
+  - canonicalName: 湊あくあ 10万人記念
+    aliases:
+      - 湊あくあ10万人記念ボイス
+    hypernyms:
+      - 湊あくあ
+  - canonicalName: 湊あくあ 活動2周年記念
+    aliases:
+      - 湊あくあ2周年記念アクリルキーホルダー
+      - 湊あくあ 2周年記念
+      - 湊あくあ活動2周年記念アクリルキーホルダー
+    hypernyms:
+      - 湊あくあ
+  - canonicalName: 鳴門鯛焼本舗×さくらみこコラボ
+    aliases:
+      - 鳴門鯛焼本舗×さくらみこ
+      - 鳴門鯛焼本舗×さくらみこコラボ第二弾
+      - 鳴門鯛焼本舗×さくらみこコラボ第3弾
+      - 鳴門鯛焼本舗×さくらみこコラボ第4弾
+      - みこち鯛焼き
+      - 鳴門鯛焼本舗×さくらみこコラボ第2弾
+    hypernyms:
+      - さくらみこ
+      - 鳴門鯛焼本舗
+  - canonicalName: 癒月ちょこ 活動2周年記念
+    aliases:
+      - 癒月ちょこ 2周年記念グッズ
+    hypernyms:
+      - 癒月ちょこ
+  - canonicalName: 癒月ちょこ 活動5周年記念
+    aliases:
+      - 癒月ちょこ 5周年記念グッズ
+      - 癒月ちょこ 活動5周年記念 フルセット
+      - 癒月ちょこ 活動5周年記念 ネックレス
+    hypernyms:
+      - 癒月ちょこ
+  - canonicalName: 癒月ちょこ 新衣装記念2024
+    aliases:
+      - 癒月ちょこ 新衣装
+      - 癒月ちょこ 新衣装記念
+      - 癒月ちょこ 新衣装記念2025
+      - 癒月ちょこ 新衣装記念グッズ
+    hypernyms:
+      - 癒月ちょこ
+  - canonicalName: 癒月ちょこ 誕生日記念2025
+    aliases:
+      - 癒月ちょこ生誕祭2025
+      - 癒月ちょこ 誕生日記念2025グッズ
+      - 癒月ちょこ 誕生日記念2026 グッズ
+      - 癒月ちょこ 誕生日記念2026
+      - 癒月ちょこ2021年誕生日記念ボイス
+      - 癒月ちょこ 誕生日記念2021
+      - 癒月ちょこお誕生日ボイス
+      - 癒月ちょこ 誕生日記念
+      - 癒月ちょこ 誕生日記念ボイス
+      - 癒月ちょこ 誕生日記念2020
+      - 癒月ちょこ 誕生日記念2024
+    hypernyms:
+      - 癒月ちょこ
+  - canonicalName: 癒月ちょこ 活動4周年記念
+    aliases:
+      - 癒月ちょこ4周年記念グッズ
+      - 癒月ちょこ4周年記念フルセット
+    hypernyms:
+      - 癒月ちょこ
+  - canonicalName: 輪堂千速 誕生日記念2026
+    aliases:
+      - 輪堂千速 誕生日記念グッズ2026
+      - 輪堂千速生誕祭2026
+    hypernyms:
+      - 輪堂千速
+  - canonicalName: 輪堂千速 誕生日記念2025
+    aliases:
+      - 輪堂千速 誕生日記念2025グッズ
+    hypernyms:
+      - 輪堂千速
+  - canonicalName: 戌神ころね 活動二周年記念
+    aliases:
+      - 戌神ころね2周年記念グッズ
+    hypernyms:
+      - 戌神ころね
+  - canonicalName: 戌神ころね 誕生日記念2025
+    aliases:
+      - 戌神ころね誕生日記念グッズ2025
+    hypernyms:
+      - 戌神ころね
+  - canonicalName: 綺々羅々ヴィヴィ 50万人記念
+    aliases:
+      - 綺々羅々ヴィヴィ 50万人記念グッズ
+    hypernyms:
+      - 綺々羅々ヴィヴィ
+  - canonicalName: 綺々羅々ヴィヴィ 誕生日記念2025
+    aliases:
+      - 綺々羅々ヴィヴィ 誕生日記念2025グッズ
+    hypernyms:
+      - 綺々羅々ヴィヴィ
+  - canonicalName: Cinderella switch 〜ふたりでみるホロライブ〜 vol.4
+    aliases:
+      - シンデレラ スイッチ ふたりでみるホロライブ vol.4
+    hypernyms:
+      - Cinderella switch ～ふたりでみるホロライブ～ シリーズ
+  - canonicalName: Cinderella switch ～ふたりでみるホロライブ～ vol.3
+    aliases:
+      - シンデレラ スイッチ ～ふたりでみるホロライブ～ vol.3
+    hypernyms:
+      - Cinderella switch ～ふたりでみるホロライブ～ シリーズ
+  - canonicalName: Cinderella switch 〜ふたりでみるホロライブ〜 vol.6
+    aliases:
+      - ふたりでみるホロライブ vol.6
+    hypernyms:
+      - Cinderella switch ～ふたりでみるホロライブ～ シリーズ
+  - canonicalName: CR Streamer League Shadowverse
+    aliases:
+      - Crazy Raccoon Streamer League Shadowverse
+    hypernyms:
+      - CR Streamer League
+  - canonicalName: ときのそら 9th Anniversary Party「Everyday of Light」
+    aliases:
+      - Everyday of Light
+      - ワンマンライブ 『Everyday of Light』
+      - ときのそら 9th Anniversary Party
+    hypernyms:
+      - ときのそら
+  - canonicalName: ホロライブ 富士急ハイランドコラボ
+    aliases:
+      - FAMS 富士急コラボ
+      - hololive in 富士急ハイランド SNOW＊WORLD
+    hypernyms:
+      - ホロライブ
+  - canonicalName: FLOW GLOW 初fes朝活リレー
+    aliases:
+      - FG初fes朝活リレー
+    hypernyms:
+      - hololive fes.シリーズ
+  - canonicalName: FIFAワールドカップ
+    aliases:
+      - W杯
+      - FIFA World Cup
+      - ワールドカップ
+    hypernyms:
+      - FIFA
+  - canonicalName: hololive × VALORANT MEET UP powered by Holizontal
+    aliases:
+      - hololive × VALORANT MEETUP
+      - "#ホロヴァロ"
+    hypernyms:
+      - ホロライブ
+  - canonicalName: hololive GAMERS fes. 超超超超ゲーマーズ2
+    aliases:
+      - 超超超超ゲーマーズ2
+    hypernyms:
+      - hololive GAMERS fes. シリーズ
+  - canonicalName: hololive production COUNTDOWN LIVE 2024▷2025
+    aliases:
+      - "#holocountdown2024"
+    hypernyms:
+      - hololive production COUNTDOWN LIVE
+  - canonicalName: HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar
+    aliases:
+      - 星街すいせい アリーナツアー 2026 Once Upon a Stellar
+      - Once Upon a Stellar
+      - ワンス・アポン・ア・ステラー
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: KAGAYAKI杯
+    aliases:
+      - かがやき杯
+    hypernyms:
+      - Apex Legends
+  - canonicalName: LEGENDUS STREET FIGHTER 6 師弟杯 2024冬 後楽園の陣
+    aliases:
+      - LEGENDUS STREET FIGHTER 6 師弟杯
+      - 師弟杯 2024冬 後楽園の陣
+      - LEGENDUS 師弟杯
+    hypernyms:
+      - LEGENDUS
+  - canonicalName: Midnight RBmelody
+    aliases:
+      - ロボメロディ
+      - RBmelody
+      - ロボメロ
+    hypernyms:
+      - ロボ子さん
+  - canonicalName: V最協第二幕
+    aliases:
+      - QRTWIN
+      - VTuber最協決定戦 Ver. STREET FIGHTER 6 第二幕
+    hypernyms:
+      - VTuber最協決定戦
+  - canonicalName: RAGE
+    aliases:
+      - レイジ
+    hypernyms:
+      - eスポーツ
+  - canonicalName: RAGE SUPER MATCH
+    aliases:
+      - RAGE SUPER MATCH Powered by Rakuten Optimism
+      - レイジスーパーマッチ
+    hypernyms:
+      - RAGE
+  - canonicalName: READPIA
+    aliases:
+      - リードピア
+    hypernyms:
+      - 朗読劇
+  - canonicalName: Reddit Shitpost Review
+    aliases:
+      - Reddit Meme Review
+      - Meme Review
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ReGLOSS 3D LIVE
+    aliases:
+      - ReGLOSS 3Dライブ
+    hypernyms:
+      - ReGLOSS
+  - canonicalName: REJECT FIGHT NIGHT Round4
+    aliases:
+      - RFN4
+    hypernyms:
+      - REJECT FIGHT NIGHTシリーズ
+  - canonicalName: 秘密結社holoX Live 2026「First MISSION」
+    aliases:
+      - "#SSholoX世界リペイント計画"
+    hypernyms:
+      - 秘密結社holoX
+  - canonicalName: V1 Grand Prix
+    aliases: []
+    hypernyms:
+      - JEGT
+  - canonicalName: VTuber Fes Japan
+    aliases:
+      - VTuber Fes
+  - canonicalName: Vスト6律可杯
+    aliases:
+      - Vtuberスト6律可杯
+  - canonicalName: VTuber最協決定戦 Ver.VALORANT Act.2
+    aliases:
+      - V最協A2
+    hypernyms:
+      - VTuber最協決定戦
+  - canonicalName: VTuber最協決定戦 SEASON6 Ver. APEX LEGENDS
+    aliases:
+      - V最協決定戦S6
+      - V最協S6
+      - VTuber最協決定戦S6
+    hypernyms:
+      - VTuber最協決定戦シリーズ
+  - canonicalName: アイビスサマーダッシュ
+    aliases:
+      - アイビスSD
+    hypernyms:
+      - 競馬
+  - canonicalName: アキ・ローゼンタール生誕祭2026 アンコール in ホロアース
+    aliases:
+      - "#アキロゼ生誕祭2026"
+      - アキロゼ生誕祭2026 アンコールライブ
+    hypernyms:
+      - アキ・ローゼンタール
+  - canonicalName: アキバヤバイ
+    aliases:
+      - アキバヤバイ2022
+  - canonicalName: イギリスグランプリ
+    aliases:
+      - イギリスGP
+      - British Grand Prix
+    hypernyms:
+      - F1世界選手権
+  - canonicalName: ヴィクトリアマイル
+    aliases:
+      - ビクトリアマイル
+  - canonicalName: うさ建夏祭り
+    aliases:
+      - うさ健夏祭り
+    hypernyms:
+      - ホロライブ
+  - canonicalName: エリザベス女王杯
+    aliases:
+      - Queen Elizabeth II Cup
+      - Queen Elizabeth II Commemorative Cup
+    hypernyms:
+      - 競馬
+  - canonicalName: オールスター大運動会
+    aliases:
+      - All-Star Athletic Meet
+  - canonicalName: おはようスバル
+    aliases:
+      - おはスバ
+    hypernyms:
+      - 大空スバル
+  - canonicalName: かしわ記念
+    aliases:
+      - 農林水産大臣賞典 かしわ記念
+    hypernyms:
+      - 競馬
+  - canonicalName: カナダグランプリ
+    aliases:
+      - カナダGP
+    hypernyms:
+      - F1
+  - canonicalName: クイーンステークス
+    aliases:
+      - 北海道新聞杯クイーンステークス
+      - クイーンS
+  - canonicalName: コミックマーケット
+    aliases:
+      - コミケ
+      - コミケット
+      - Comic Market
+  - canonicalName: こんこよ24
+    aliases:
+      - こより24
+      - 抱っこできるココロ⇄助手くんぬいぐるみ
+      - こんこよ24 Tシャツ
+      - シチュエーションボイス 抱っこしちゃうよ
+    hypernyms:
+      - 博衣こより
+  - canonicalName: 博衣こより WBC同時視聴
+    aliases:
+      - こよりとWBC
+    hypernyms:
+      - 博衣こより
+  - canonicalName: サウジカップ
+    aliases:
+      - Saudi Cup
+    hypernyms:
+      - 競馬
+  - canonicalName: ししろんの47ラーメンツアー2
+    aliases:
+      - ししろんの47ラーメンツアー シーズン2
+    hypernyms:
+      - ししろんと行く！47都道府県ラーメンツアー
+  - canonicalName: ししろんのゴールデンなウィーク
+    aliases:
+      - ししろんのGWスペシャル動画WEEK
+    hypernyms:
+      - 獅白ぼたん
+  - canonicalName: ジャパンカップ
+    aliases:
+      - JC
+      - Japan Cup
+    hypernyms:
+      - 競馬
+  - canonicalName: シンザン記念
+    aliases:
+      - 日刊スポーツ賞シンザン記念
+    hypernyms:
+      - 中央競馬
+  - canonicalName: SUPER GT
+    aliases:
+      - スーパーGT
+    hypernyms:
+      - モータースポーツ
+  - canonicalName: すくすく枢
+    aliases:
+      - すくすくすう
+    hypernyms:
+      - 水宮枢
+  - canonicalName: ソニ×ころ2024
+    aliases:
+      - ソニころ2024
+      - ソニころ2024 私立ころね学園 わんだふぉー♡どりーむ祭
+      - ソニころ2024 コラボカフェ シャドころEDITION
+  - canonicalName: 日本全国、つながるホロライブ！
+    aliases:
+      - つながるホロライブ
+    hypernyms:
+      - ホロライブプロダクション
+  - canonicalName: デザインフェスタ
+    aliases:
+      - DESIGN FESTA
+    hypernyms:
+      - アートイベント
+  - canonicalName: ときのそら 誕生日記念2026
+    aliases:
+      - ときのそらお披露目誕生日2026
+    hypernyms:
+      - ときのそら
+  - canonicalName: 虎金妃笑虎 誕生日記念2026
+    aliases:
+      - ニコたん生たん2026
+      - ニコたん生誕祭2026
+    hypernyms:
+      - 虎金妃笑虎
+  - canonicalName: にじホロ交流戦2025
+    aliases:
+      - にじホロ交流戦
+      - DMMオンクレpresents にじホロ交流戦2025
+    hypernyms:
+      - にじさんじ
+      - ホロライブ
+  - canonicalName: 桃鈴ねね 1st Live 「花咲く＊ねねねねねねねね超開花！」
+    aliases:
+      - ねね超開花
+      - 花咲クネネネネネネネネ超開花
+    hypernyms:
+      - 桃鈴ねね
+  - canonicalName: hololive5期生 4周年記念 ファン大感謝祭 ～みんなねぽらぼに愛に恋～
+    aliases:
+      - ねぽらぼファンミ2024
+      - ねぽらぼファンミーティング
+    hypernyms:
+      - ホロライブ5期生
+  - canonicalName: 赤井はあと爆誕祭2024
+    aliases:
+      - はあちゃま爆誕祭2024
+      - はあちゃま爆誕祭2024記念グッズ
+    hypernyms:
+      - 赤井はあと
+  - canonicalName: バーチャルマーケット
+    aliases:
+      - Vket
+      - Virtual Market
+  - canonicalName: バズリズム LIVE
+    aliases:
+      - バズリズムライブ
+    hypernyms:
+      - バズリズム LIVEシリーズ
+  - canonicalName: ハンガリーグランプリ
+    aliases:
+      - ハンガリーGP
+      - Hungarian Grand Prix
+    hypernyms:
+      - フォーミュラ1
+  - canonicalName: フェアリーステークス
+    aliases:
+      - フェアリーS
+    hypernyms:
+      - 中央競馬
+  - canonicalName: フローラステークス
+    aliases:
+      - サンケイスポーツ賞フローラステークス
+      - フローラS
+      - サンスポ賞フローラS
+  - canonicalName: プロジェクトスターゲイザー
+    aliases:
+      - PROJECT Stargazer
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: ぺこみこ戦争
+    aliases:
+      - ぺこみこ大戦争
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ぺこーら24
+    aliases:
+      - ぺこーら24時間配信
+    hypernyms:
+      - 兎田ぺこら
+  - canonicalName: ホラゲウィーク
+    aliases:
+      - ホラゲウィーク2023
+      - ホラゲウィーク2026
+  - canonicalName: エンジョイ！ホロどうぶつタワーバトルトーナメント
+    aliases:
+      - ホロDTBトーナメント
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロGW釣り大会
+    aliases:
+      - hololive Minecraft GW釣り大会
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロクリスマス歌枠リレー
+    aliases:
+      - クリスマス歌枠リレー
+      - ホロクリスマス歌リレー
+      - ホロライブクリスマス歌枠リレー
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロサマビンゴ
+    aliases:
+      - ホロライブサマービンゴ
+    hypernyms:
+      - ホロライブ・サマー
+  - canonicalName: ホロサマ歌枠リレー
+    aliases:
+      - ホロライブサマーソング歌枠リレー
+    hypernyms:
+      - ホロライブ・サマー
+  - canonicalName: ホロソングステーション
+    aliases:
+      - "#ホロステ"
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロと祝う集英社100th
+    aliases:
+      - 集英社創業100周年×ホロライブプロダクション コミックサマーパーティー！〜夏のお祝い大作戦〜
+  - canonicalName: エンジョイ！ホロヒット&ブロー最強決定戦
+    aliases:
+      - ホロヒットアンドブロー決定戦
+      - ホロヒット＆ブロー最強決定戦
+      - holo Hit & Blow Tournament
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ×ジョイポリス
+    aliases:
+      - ホロライブ×ジョイポリス HAPPY PARTY
+      - ホロライブ×ジョイポリス LOVELY PARTY
+      - ホロライブ×ジョイポリス DREAMY PARTY
+      - ホロライブ×ジョイポリス FANCY PARTY
+      - ホロライブ×ジョイポリス SWEETY PARTY
+      - ホロライブ×ジョイポリス SHINY PARTY
+    hypernyms:
+      - ホロライブ
+      - 東京ジョイポリス
+  - canonicalName: ホロライブ×パ・リーグ6球団コラボ
+    aliases:
+      - ホロライブ×パ・リーグ6球団
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ×東京スカイツリータウン
+    aliases:
+      - ホロライブ×東京スカイツリータウン(R)
+      - ホロツリ
+      - ホロライブ スカイツリーコラボ
+      - 東京スカイツリー×ホロライブ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ×極楽湯 フロライフ
+    aliases:
+      - ホロライブ4期生×極楽湯RAKU SPA「フロライフ」
+      - ホロライブ4期生×極楽湯RAKU SPA
+      - 極楽湯×ホロライブ4期生コラボ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブファーマーズ
+    aliases:
+      - hololiveFarmers
+    hypernyms:
+      - ホロライブプロダクション
+  - canonicalName: hololive Meet
+    aliases:
+      - ホロライブミート
+      - hololive Meet&Greet
+    hypernyms:
+      - hololive production
+  - canonicalName: ホロライブ大運動会2022
+    aliases:
+      - ホロライブ運動会2022
+      - ホロ大運動会2022
+      - hololive Sports festival 2022
+    hypernyms:
+      - ホロライブ運動会
+  - canonicalName: ホロ鯖夏祭り2023
+    aliases:
+      - ホロライブ夏祭り2023
+    hypernyms:
+      - ホロライブ
+      - ホロ鯖夏祭り
+  - canonicalName: ホロライブ大運動会2021
+    aliases:
+      - ホロ大運動会2021
+    hypernyms:
+      - ホロライブ運動会
+  - canonicalName: ホロライブ麻雀大会
+    aliases:
+      - ホロ麻雀大会
+      - ホロ麻雀
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ五目並べ最強最弱王決定戦
+    aliases:
+      - ホロ五目並べ最強最弱王
+      - ホロライブ五目並べ最弱王決定戦
+      - ホロ五目並べ最弱王決定戦
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロ爆走祭
+    aliases:
+      - hololive blast run festival
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロエンジョイ麻雀チーム大会
+    aliases:
+      - ホロ麻雀チーム大会
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホワイトデー
+    aliases:
+      - White Day
+  - canonicalName: F1マイアミグランプリ
+    aliases:
+      - マイアミGP
+      - Miami Grand Prix
+    hypernyms:
+      - F1シリーズ
+  - canonicalName: マイナビオールスターゲーム2026
+    aliases:
+      - オールスターゲーム2026
+  - canonicalName: 読売マイラーズカップ
+    aliases:
+      - マイラーズカップ
+      - マイラーズC
+    hypernyms:
+      - 競馬
+  - canonicalName: マイルチャンピオンシップ
+    aliases:
+      - マイルCS
+    hypernyms:
+      - 中央競馬
+  - canonicalName: ゆくホロくるホロ
+    aliases:
+      - ゆくホロくるホロ2022
+      - ゆくホロくるホロ2023
+      - ゆくホロくるホロ2024
+      - ゆくホロくるホロ2025
+      - ゆくホロくるホロ2026
+      - 年末ホロライブ
+      - ゆくホロくるホロ 冬満喫！デートボイス
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ラジオNIKKEI賞
+    aliases:
+      - ラジオたんぱ賞
+    hypernyms:
+      - 中央競馬
+  - canonicalName: 儒烏風亭らでん らでさんぽ
+    aliases:
+      - "#らでさんぽ"
+    hypernyms:
+      - 儒烏風亭らでん
+  - canonicalName: ラプルイ 新衣装記念
+    aliases:
+      - ラプルイ新衣装
+      - ラプルイ 新衣装記念2026
+  - canonicalName: らぽラボ
+    aliases:
+      - 出張らぽラボ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ラムベガス
+    aliases:
+      - LAMB VEGAS
+      - ラムベガスグランドオープン
+      - ランベガス
+    hypernyms:
+      - Minecraft
+  - canonicalName: レパードステークス
+    aliases:
+      - レパードS
+  - canonicalName: ローズステークス
+    aliases:
+      - 関西テレビ放送賞ローズステークス
+      - ローズS
+  - canonicalName: ロボ子さん 生誕記念ライブ
+    aliases:
+      - ロボ子海底3Dライブ
+    hypernyms:
+      - ロボ子さん
+  - canonicalName: 或世杯
+    aliases:
+      - 或世杯～紅白戦～
+    hypernyms:
+      - ストリートファイター6
+  - canonicalName: 一条莉々華の限界飯
+    aliases:
+      - 絶望飯
+    hypernyms:
+      - 一条莉々華
+  - canonicalName: 一条莉々華 誕生日記念2026
+    aliases:
+      - 一条莉々華生誕祭2026
+    hypernyms:
+      - 一条莉々華
+  - canonicalName: 羽田盃
+    aliases:
+      - 農林水産大臣賞典 羽田盃
+    hypernyms:
+      - 地方競馬
+  - canonicalName: 凱旋門賞
+    aliases:
+      - Prix de l'Arc de Triomphe
+    hypernyms:
+      - 競馬
+  - canonicalName: 京都国際マンガ・アニメフェア
+    aliases:
+      - 京マフ
+  - canonicalName: 金鯱賞
+    aliases:
+      - 東海テレビ杯金鯱賞
+  - canonicalName: 月曜のロボ子
+    aliases:
+      - 月曜日のロボ子
+      - はろー、わーるど！ 月曜のロボ子、スマイル起動中！
+    hypernyms:
+      - ロボ子さん
+  - canonicalName: 特別展 源氏物語 王朝のかがやき
+    aliases:
+      - 源氏物語展
+      - 源氏物語、王朝の輝き
+  - canonicalName: 沙花叉とびしょ濡れ水族館
+    aliases:
+      - "沙花叉クロヱ in マクセル アクアパーク品川 #沙花叉とびしょ濡れ水族館！"
+      - 沙花叉クロヱ in マクセル アクアパーク品川
+      - 沙花叉クロヱのびしょ濡れ水族館
+    hypernyms:
+      - 沙花叉クロヱ
+  - canonicalName: 阪神ジュベナイルフィリーズ
+    aliases:
+      - 阪神JF
+      - 阪神ジュベナイルF
+    hypernyms:
+      - 競馬
+  - canonicalName: 獅白ぼたんとクリスマス闘nightⅡ
+    aliases:
+      - クリスマス闘nightⅡ
+      - 獅白ぼたんとクリスマス闘nightⅡ 30Φアケコンボタン
+      - 獅白ぼたんとクリスマス闘nightⅡタオル
+      - 獅白ぼたんとクリスマス闘nightⅡアグリースウェット
+    hypernyms:
+      - 獅白ぼたん
+  - canonicalName: 獅白杯4th
+    aliases:
+      - 獅白杯 -オフライン- Day1
+    hypernyms:
+      - 獅白杯シリーズ
+  - canonicalName: 七夕賞
+    aliases:
+      - 競馬七夕賞
+    hypernyms:
+      - 中央競馬
+  - canonicalName: 儒烏風亭らでん生誕祭2026
+    aliases:
+      - 儒烏風亭らでん 誕生日記念2026
+      - 静岡トリエンらでん2026
+    hypernyms:
+      - 儒烏風亭らでん
+  - canonicalName: 秋華賞
+    aliases:
+      - Shuka Sho
+    hypernyms:
+      - 中央競馬
+  - canonicalName: 勝ちたイカ！ホロライブスプラ大会
+    aliases:
+      - 勝ちたイカ！ホロスプラ大会
+      - "#勝ちたイカホロライブ大会"
+    hypernyms:
+      - ホロライブ
+  - canonicalName: 神岡家の気まぐれにゃじお
+    aliases:
+      - 神岡家にゃじお
+    hypernyms:
+      - 神岡家
+  - canonicalName: 水宮枢 誕生日記念2026
+    aliases:
+      - 水宮枢生誕祭2026
+    hypernyms:
+      - 水宮枢
+  - canonicalName: 雀荘ホロくらぶ杯
+    aliases:
+      - 雀荘ホロクラブ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: FIA 世界耐久選手権 2026 第3戦 ル・マン24時間レース
+    aliases:
+      - 世界耐久選手権2026 第3戦 ル・マン24時間レース
+      - WEC 2026 第3戦 ル・マン24時間レース
+      - 第94回ル・マン24時間レース
+      - ル・マン24時間レース 2026
+    hypernyms:
+      - FIA 世界耐久選手権
+  - canonicalName: 星街すいせいファンミーティング 星詠み ぱじゃまぱーてぃー Vol.1
+    aliases:
+      - 星詠み ぱじゃまぱーてぃー Vol.1
+      - ぱじゃぱ
+    hypernyms:
+      - 星街すいせい
+  - canonicalName: 大空スバル 誕生日記念2026
+    aliases:
+      - 大空スバル生誕祭2026
+    hypernyms:
+      - 大空スバル
+  - canonicalName: 大空警察
+    aliases:
+      - 大空警察2024
+      - 大空警察2025
+  - canonicalName: 朝日杯フューチュリティステークス
+    aliases:
+      - 朝日杯フューチュリティS
+  - canonicalName: 天音かなた 2周年記念
+    aliases:
+      - 天音かなた2周年記念 3DLIVE
+      - 天音かなた2周年記念グッズ
+    hypernyms:
+      - 天音かなた
+  - canonicalName: Amane Kanata Graduation LIVE "THE ABSOLUTE IDOL"
+    aliases:
+      - 天音かなた卒業ライブ
+      - 天音かなた卒業ライブ「絶対的アイドル」
+    hypernyms:
+      - 天音かなた
+  - canonicalName: 天皇賞
+    aliases:
+      - 天皇賞（春）
+      - 天皇賞（秋）
+      - 秋天
+      - 秋の天皇賞
+      - 春天
+    hypernyms:
+      - 天皇賞シリーズ
+  - canonicalName: 東京オートサロン
+    aliases:
+      - TOKYO AUTO SALON
+  - canonicalName: 桃鈴ねね誕生日ライブ2026
+    aliases:
+      - 桃鈴ねね誕生日ライブ2026 ～Liminal～
+    hypernyms:
+      - 桃鈴ねね
+  - canonicalName: 猫又おかゆ 誕生日記念2026
+    aliases:
+      - 猫又おかゆ生誕祭2026
+      - 猫又おかゆ生誕グッズ2026
+    hypernyms:
+      - 猫又おかゆ
+  - canonicalName: 函館記念
+    aliases:
+      - 農林水産省賞典 函館記念
+    hypernyms:
+      - 中央競馬
+  - canonicalName: 尾丸ポルカ 誕生日記念2023
+    aliases:
+      - 尾丸ポルカ生誕祭2023
+    hypernyms:
+      - 尾丸ポルカ
+  - canonicalName: 百鬼あやめ 7周年記念
+    aliases:
+      - 百鬼あやめ 7周年記念ライブ
+      - 百鬼あやめ 7周年記念ライブ ～天女繚華～
+      - 百鬼あやめ 7周年記念グッズ
+    hypernyms:
+      - 百鬼あやめ
+  - canonicalName: 不知火フレア生誕祭2026
+    aliases:
+      - 不知火フレア 誕生日記念2026
+    hypernyms:
+      - 不知火フレア
+  - canonicalName: 風真いろは 2周年記念
+    aliases:
+      - 風真いろは 2周年記念ライブ
+      - 風真いろは2周年記念LIVE
+      - 風真いろは 2周年記念グッズ
+    hypernyms:
+      - 風真いろは
+  - canonicalName: 風真いろは 誕生日記念2026
+    aliases:
+      - 風真いろは生誕ライブ2026
+      - Wind Trails
+    hypernyms:
+      - 風真いろは
+  - canonicalName: 宝鐘マリン 7周年記念3Dライブ
+    aliases:
+      - 宝鐘マリン7周年3Dライブ
+      - 宝鐘マリン 7周年3DLIVE
+    hypernyms:
+      - 宝鐘マリン
+  - canonicalName: 北九州記念
+    aliases:
+      - テレビ西日本賞北九州記念
+      - TV西日本賞北九州記念
+    hypernyms:
+      - 中央競馬
+  - canonicalName: 特別展 本阿弥光悦の大宇宙
+    aliases:
+      - 本阿弥光悦の大宇宙
+  - canonicalName: 目黒記念
+    aliases:
+      - 農林水産省賞典 目黒記念
+    hypernyms:
+      - 中央競馬
+  - canonicalName: 戌神ころね 活動7周年記念
+    aliases:
+      - 戌神ころね7周年
+      - 戌神ころね 活動7周年記念グッズ
+    hypernyms:
+      - 戌神ころね
+  - canonicalName: 戌神ころね 誕生日記念2020
+    aliases:
+      - 戌神ころね生誕祭2020
+      - 戌神ころね 誕生日記念ボイス2020
+      - 戌神ころね 誕生日記念グッズ
+    hypernyms:
+      - 戌神ころね
+  - canonicalName: MGMG EAT
+    aliases:
+      - MGMG雑談
+  - canonicalName: 手描き切り抜き鑑賞会
+    aliases:
+      - 手描き切り抜き鑑賞
+  - canonicalName: 綺々羅々ヴィヴィ ライブ配信
+    aliases:
+      - ヴィヴィライブ
+    hypernyms:
+      - 綺々羅々ヴィヴィ
+  - canonicalName: ホロライブ体力王決定戦
+    hypernyms:
+      - ホロライブ
+      - hololive
+  - canonicalName: 第1回ホロライブ体力王決定戦
+    hypernyms:
+      - ホロライブ体力王決定戦
+  - canonicalName: 第2回ホロライブ体力王決定戦
+    hypernyms:
+      - ホロライブ体力王決定戦
+  - canonicalName: 第3回ホロライブ体力王決定戦
+    hypernyms:
+      - ホロライブ体力王決定戦

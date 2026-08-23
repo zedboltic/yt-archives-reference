@@ -1,6 +1,6 @@
-﻿version: 1
+version: 1
 kind: 組織・団体・グループ・ユニット
-comment: 
+comment:
   - 会社企業、スポーツ等競技団体、コラボメンバー名、チーム、サークルなど
 entries:
   - canonicalName: ASIAN KUNG-FU GENERATION
@@ -61,6 +61,11 @@ entries:
   - canonicalName: holoJustice
     aliases:
       - ホロジャスティス
+      - hololive English -Justice-
+      - Justice
+      - ホロライブEnglish -Justice-
+    hypernyms:
+      - hololive English
   - canonicalName: hololive 1st Generation
     aliases:
       - ホロライブ1期生
@@ -180,9 +185,16 @@ entries:
   - canonicalName: かなけん（かなた建設）
     aliases:
       - かなた建設
+      - かなけん
+      - かな建
   - canonicalName: 0期生
     aliases:
       - hololive 0期生
+      - ホロライブ0期生
+      - hololive 0th generation
+      - 0th Gen
+    hypernyms:
+      - hololive
   - canonicalName: 2期生
     aliases:
       - ホロライブ 2期生
@@ -190,6 +202,10 @@ entries:
     aliases:
       - ホロライブ 3期生
       - ホロライブファンタジー
+      - ホロライブ三期生
+      - hololive 3rd Generation
+    hypernyms:
+      - hololive
   - canonicalName: 4期生
     aliases:
       - ホロライブ 4期生
@@ -197,12 +213,22 @@ entries:
     aliases:
       - ホロライブ 5期生
       - ねぽらぼ
+      - hololive 5期生
+      - hololive 5th Generation
+      - ねぽらぼ /ホロライブ
+      - NePoLaBo
+    hypernyms:
+      - hololive
+      - ホロライブ
   - canonicalName: miComet
     aliases:
       - みこめっと
   - canonicalName: ReGLOSS
     aliases:
       - リグロス
+      - hololive DEV_IS ReGLOSS
+    hypernyms:
+      - hololive DEV_IS
   - canonicalName: UMISEA
     aliases:
       - うみしー
@@ -212,6 +238,8 @@ entries:
       - かばーかぶしきがいしゃ
       - カバー
   - canonicalName: スバちょこるなたん
+    aliases:
+      - スバちょこルーナ
   - canonicalName: フワモコ
     aliases:
       - FUWAMOCO
@@ -220,6 +248,10 @@ entries:
     aliases:
       - しらぬいけんせつ
       - しらけん
+      - しらないこと研究会
+      - 知らないこと研究会
+    hypernyms:
+      - 漫画
   - canonicalName: I've Sound 2
   - canonicalName: AKUKIN建設
   - canonicalName: ALcot
@@ -227,6 +259,8 @@ entries:
   - canonicalName: オインクゲームズ
   - canonicalName: カイロソフト
   - canonicalName: カプコン
+    aliases:
+      - CAPCOM
   - canonicalName: 株式会社TT
   - canonicalName: 株式会社ポケットペア
     aliases:
@@ -241,6 +275,9 @@ entries:
       - holoX
       - 6期生
       - 秘密結社ホロックス
+      - SSholoX
+      - "#SSholoX"
+      - "ホロライブ6期生"
   - canonicalName: 上海アリス幻樂団
   - canonicalName: STUDIO EBANS
     aliases:
@@ -261,6 +298,7 @@ entries:
   - canonicalName: hololive
     aliases:
       - ホロライブ
+      - ホロライブ/hololive
   - canonicalName: hololive English
     aliases:
       - ホロライブEnglish
@@ -272,6 +310,11 @@ entries:
       - ホロライブインドネシア
       - ID
       - アイディー
+      - ホロライブID
+      - hololive ID
+      - HoloID
+    hypernyms:
+      - hololive production
   - canonicalName: hololive GAMERS
     aliases:
       - ホロライブゲーマーズ
@@ -348,6 +391,8 @@ entries:
   - canonicalName: YAMAHA
     aliases:
       - ヤマハ
+      - ヤマハ株式会社
+      - YAMAHA CORPORATION
   - canonicalName: セブン-イレブン
     aliases:
       - セブンイレブン
@@ -391,3 +436,485 @@ entries:
   - canonicalName: ほっともっと
     aliases:
       - Hotto Motto
+  - canonicalName: ババドナ
+    aliases:
+      - スバルマリン
+    hypernyms:
+      - ホロライブ
+  - canonicalName: サンリオ
+    aliases:
+      - Sanrio
+      - 株式会社サンリオ
+      - Sanrio Company, Ltd.
+  - canonicalName: りりらでん
+    aliases:
+      - 一条莉々華と儒烏風亭らでん
+    hypernyms:
+      - ReGLOSS
+  - canonicalName: 東海オンエア
+    aliases:
+      - TOKAI ONAIR
+      - 東海
+  - canonicalName: 神岡家
+    aliases:
+      - 猫又おかゆ/椎名唯華
+      - 椎名唯華と猫又おかゆ
+  - canonicalName: Gakken
+    aliases:
+      - 株式会社Gakken
+      - 学研
+  - canonicalName: JT D-LAB
+    aliases:
+      - D-LAB
+    hypernyms:
+      - JT
+  - canonicalName: Midnight Grand Orchestra
+    aliases:
+      - ミドグラ
+      - ミッドナイトグランドオーケストラ
+  - canonicalName: Pearl Abyss
+    aliases:
+      - パールアビス
+  - canonicalName: RosaMiA
+    aliases:
+      - ロザミア
+    hypernyms:
+      - ホロライブ
+  - canonicalName: upd8
+    aliases:
+      - アップデート
+  - canonicalName: ぶいすぽっ！
+    aliases:
+      - Vスポ
+      - VSPO!
+      - ぶいすぽ
+  - canonicalName: アース製薬
+    aliases:
+      - Earth Corporation
+  - canonicalName: アンブレラ
+    aliases:
+      - アンブレラ社
+    hypernyms:
+      - バイオハザードシリーズ
+  - canonicalName: イオン
+    aliases:
+      - AEON
+    hypernyms:
+      - イオングループ
+  - canonicalName: オーディオテクニカ
+    aliases:
+      - audio-technica
+  - canonicalName: オリックス・バファローズ
+    aliases:
+      - ORIX Buffaloes
+  - canonicalName: スクウェア・エニックス
+    aliases:
+      - SQUARE ENIX
+      - スクエニ
+      - SQEX
+  - canonicalName: スシロー
+    aliases:
+      - あきんどスシロー
+      - AKINDO SUSHIRO CO.,LTD.
+      - 株式会社あきんどスシロー
+  - canonicalName: スバおか
+    aliases:
+      - おかスバ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: セガ
+    aliases:
+      - SEGA
+      - 株式会社セガ
+  - canonicalName: ソニー・インタラクティブエンタテインメント
+    aliases:
+      - SIE
+  - canonicalName: ディズニー
+    aliases:
+      - ウォルト・ディズニー・カンパニー
+      - The Walt Disney Company
+  - canonicalName: ネオポリス
+    aliases:
+      - NEO POLICE
+    hypernyms:
+      - VCRGTA
+  - canonicalName: ねねねトワワ
+    aliases:
+      - ねねトワ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: のりプロ
+    aliases:
+      - NoriPro
+    hypernyms:
+      - VTuber事務所
+  - canonicalName: バカタレサーカス
+    aliases:
+      - バカサー
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ハニーストラップ
+    aliases:
+      - ハニスト
+      - Honey Strap
+    hypernyms:
+      - ななしいんく
+  - canonicalName: バンダイナムコフィルムワークス
+    aliases:
+      - 株式会社バンダイナムコフィルムワークス
+      - Bandai Namco Filmworks Inc.
+      - Bandai Namco Filmworks
+    hypernyms:
+      - バンダイナムコグループ
+  - canonicalName: ピザハット
+    aliases:
+      - Pizza Hut
+    hypernyms:
+      - 飲食店チェーン
+  - canonicalName: ファミリーマート
+    aliases:
+      - ファミマ
+      - FamilyMart
+  - canonicalName: フブミオ
+    aliases:
+      - Fubumio
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ブレインスリープ
+    aliases:
+      - BRAIN SLEEP
+  - canonicalName: まがまがーず
+    aliases:
+      - まがまが
+    hypernyms:
+      - ホロライブ
+  - canonicalName: マクドナルド
+    aliases:
+      - McDonald's
+      - 日本マクドナルド
+      - 日本マクドナルドホールディングス
+  - canonicalName: ヤマハミュージック
+    aliases:
+      - 株式会社ヤマハミュージックジャパン
+      - ヤマハミュージックジャパン
+    hypernyms:
+      - ヤマハ
+  - canonicalName: ローソン
+    aliases:
+      - Lawson
+    hypernyms:
+      - コンビニエンスストア
+  - canonicalName: 円谷プロダクション
+    aliases:
+      - Tsuburaya Productions
+    hypernyms:
+      - 映像製作会社
+  - canonicalName: 花王
+    aliases:
+      - 花王株式会社
+      - Kao Corporation
+  - canonicalName: 株式会社創通
+    aliases:
+      - SOTSU CO.,LTD.
+      - 創通
+  - canonicalName: 吉野家
+    aliases:
+      - 株式会社吉野家
+      - YOSHINOYA
+  - canonicalName: 京王電鉄
+    aliases:
+      - 京王電鉄株式会社
+      - Keio Corporation
+  - canonicalName: 九州電力株式会社
+    aliases:
+      - 九州電力
+  - canonicalName: 香川県警察
+    aliases:
+      - 香川県警
+    hypernyms:
+      - 警察
+  - canonicalName: 集英社
+    aliases:
+      - SHUEISHA
+  - canonicalName: 集英社ゲームズ
+    aliases:
+      - SHUEISHA GAMES
+      - 株式会社集英社ゲームズ
+    hypernyms:
+      - 集英社
+  - canonicalName: 神羅カンパニー
+    aliases:
+      - 神羅電気動力株式会社
+      - 神羅
+    hypernyms:
+      - ファイナルファンタジーVIIシリーズ
+  - canonicalName: 中日ドラゴンズ
+    aliases:
+      - Chunichi Dragons
+    hypernyms:
+      - プロ野球チーム
+  - canonicalName: 天鷹酒造
+    aliases:
+      - 天鷹酒造株式会社
+    hypernyms:
+      - 酒造メーカー
+  - canonicalName: 読売ジャイアンツ
+    aliases:
+      - 読売巨人軍
+      - 巨人
+      - 巨人軍
+      - Yomiuri Giants
+      - Tokyo Giants
+    hypernyms:
+      - プロ野球チーム
+  - canonicalName: 日清食品
+    aliases:
+      - NISSIN FOOD PRODUCTS CO., LTD.
+    hypernyms:
+      - 日清食品グループ
+  - canonicalName: 日本HP
+    aliases:
+      - 株式会社日本HP
+  - canonicalName: 北海道日本ハムファイターズ
+    aliases:
+      - Hokkaido Nippon-Ham Fighters
+      - 日本ハムファイターズ
+      - 日ハム
+      - ファイターズ
+    hypernyms:
+      - プロ野球球団
+  - canonicalName: 明利酒類株式会社
+    aliases:
+      - 明利酒類
+      - Meiri Shurui Co., Ltd.
+  - canonicalName: 嵐
+    aliases:
+      - ARASHI
+  - canonicalName: AKB48
+    aliases:
+      - エーケービーフォーティーエイト
+    hypernyms:
+      - アイドルグループ
+  - canonicalName: Amazon
+    aliases:
+      - アマゾン
+      - Amazon.com
+  - canonicalName: Advanced Micro Devices
+    aliases:
+      - AMD
+  - canonicalName: ASRock
+    aliases:
+      - アスロック
+  - canonicalName: AVerMedia
+    aliases:
+      - アバーメディア
+  - canonicalName: B'z
+    aliases:
+      - ビーズ
+    hypernyms:
+      - 音楽ユニット
+  - canonicalName: BUMP OF CHICKEN
+    aliases:
+      - バンプ・オブ・チキン
+      - バンプ
+      - BOC
+    hypernyms:
+      - ロックバンド
+  - canonicalName: Intel
+    aliases:
+      - インテル
+      - Intel Corporation
+  - canonicalName: MOSAIC.WAV
+    aliases:
+      - モザイクウェブ
+  - canonicalName: Mrs. GREEN APPLE
+    aliases:
+      - ミセス・グリーン・アップル
+    hypernyms:
+      - 音楽グループ
+  - canonicalName: Official髭男dism
+    aliases:
+      - ヒゲダン
+      - 髭男
+      - Official HIGE DANdism
+  - canonicalName: OMOCAT
+    aliases:
+      - オモキャット
+  - canonicalName: ONE OK ROCK
+    aliases:
+      - ワンオクロック
+      - ワンオク
+  - canonicalName: Perfume
+    aliases:
+      - パフューム
+    hypernyms:
+      - 音楽ユニット
+  - canonicalName: PUNK WORKSHOP JAPAN
+    aliases:
+      - PWS JAPAN
+      - PWS
+  - canonicalName: クイーン
+    aliases:
+      - QUEEN
+  - canonicalName: supercell
+    aliases:
+      - スーパーセル
+  - canonicalName: UNISON SQUARE GARDEN
+    aliases:
+      - Unison
+      - ユニゾン
+      - USG
+  - canonicalName: vaultroom
+    aliases:
+      - ボルトルーム
+    hypernyms:
+      - ゲーミングコミュニティ
+      - アパレルブランド
+  - canonicalName: YOASOBI
+    aliases:
+      - ヨアソビ
+    hypernyms:
+      - 音楽ユニット
+  - canonicalName: ヴィレッジヴァンガード
+    aliases:
+      - Village Vanguard
+      - ヴィレヴァン
+  - canonicalName: カレーハウスCoCo壱番屋
+    aliases:
+      - CoCo壱番屋
+      - ココイチ
+      - CoCo壱
+  - canonicalName: ホロライブFAMS
+    aliases:
+      - FAMS
+      - OFAMS
+    hypernyms:
+      - ホロライブ
+      - hololive
+  - canonicalName: HLZNTL
+    aliases:
+      - ホリゾンタル
+      - Holizontal
+    hypernyms:
+      - カバー
+      - hololive
+  - canonicalName: バカタレ共
+    aliases:
+      - バカタレ
+      - バカタレドモ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: くら寿司
+    aliases:
+      - くら寿司株式会社
+      - Kura Sushi, Inc.
+      - 無添くら寿司
+  - canonicalName: ケンタッキーフライドチキン
+    aliases:
+      - KFC
+      - ケンタッキー
+  - canonicalName: スタジオジブリ
+    aliases:
+      - ジブリ
+      - STUDIO GHIBLI
+  - canonicalName: スターバックス
+    aliases:
+      - Starbucks
+      - スタバ
+  - canonicalName: タカラトミー
+    aliases:
+      - TOMY COMPANY,LTD.
+  - canonicalName: ツユ
+    aliases:
+      - TUYU
+  - canonicalName: でんぱ組.inc
+    aliases:
+      - Dempagumi.inc
+  - canonicalName: ドスパラ
+    aliases:
+      - Dospara
+  - canonicalName: 鳴門鯛焼本舗
+    aliases:
+      - ナルトたい焼き本舗
+  - canonicalName: フレアイリス
+    aliases:
+      - FlareRyS
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ポルノグラフィティ
+    aliases:
+      - Porno Graffitti
+      - ポルノ
+  - canonicalName: マウスコンピューター
+    aliases:
+      - Mouse Computer
+  - canonicalName: まりなす
+    aliases:
+      - MaRiNaSu
+    hypernyms:
+      - バーチャルアーティスト
+  - canonicalName: ミスタードーナツ
+    aliases:
+      - ミスド
+      - Mister Donut
+  - canonicalName: ももいろクローバーZ
+    aliases:
+      - ももクロ
+      - Momoiro Clover Z
+  - canonicalName: ヨルシカ
+    aliases:
+      - Yorushika
+    hypernyms:
+      - 音楽ユニット
+  - canonicalName: ワルキューレ (マクロスΔ)
+    aliases:
+      - ワルキューレ
+      - Walküre
+    hypernyms:
+      - マクロスΔ
+  - canonicalName: 京都利休園
+    aliases:
+      - 利休園
+  - canonicalName: 東京事変
+    aliases:
+      - Tokyo Incidents
+      - Incidents Tokyo
+      - 事変
+  - canonicalName: 乃木坂46
+    aliases:
+      - Nogizaka46
+    hypernyms:
+      - アイドルグループ
+  - canonicalName: 不二家
+    aliases:
+      - Fujiya
+  - canonicalName: 明治
+    aliases:
+      - 株式会社明治
+      - Meiji
+  - canonicalName: 欅坂46
+    aliases:
+      - Keyakizaka46
+    hypernyms:
+      - 坂道シリーズ
+  - canonicalName: ゴリレバ
+    aliases:
+      - ゴリレバラジオ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: 花重奏
+    aliases:
+      - 花重奏WIN
+  - canonicalName: 兎田建設
+    aliases:
+      - うさ建
+    hypernyms:
+      - ホロライブ
+  - canonicalName: スバおかすい
+    aliases:
+      - スバおか＆すいせい
+    hypernyms:
+      - ホロライブ
+  - canonicalName: 朝ノ姉妹ぷろじぇくと
+    aliases:
+      - Asano Sisters Project

@@ -1,6 +1,6 @@
-﻿version: 1
+version: 1
 kind: 人物・キャラクター
-comment: 
+comment:
   - 実在の人物、架空の人物、キャラクターなど
 entries:
   - canonicalName: HIKAKIN
@@ -39,4 +39,240 @@ entries:
   - canonicalName: ボバ・フェット
     aliases:
       - Boba Fett
-
+  - canonicalName: 40mP
+    aliases:
+      - 40meterP
+  - canonicalName: DECO*27
+    aliases:
+      - デコ・ニーナ
+  - canonicalName: IA
+    aliases:
+      - イア
+      - IA -ARIA ON THE PLANETES-
+    hypernyms:
+      - VOCALOID
+  - canonicalName: イクイノックス
+    aliases:
+      - Equinox
+    hypernyms:
+      - 競走馬
+  - canonicalName: エアリス・ゲインズブール
+    aliases:
+      - Aerith Gainsborough
+  - canonicalName: エイダ・ウォン
+    aliases:
+      - Ada Wong
+    hypernyms:
+      - バイオハザードシリーズ
+  - canonicalName: キタサンブラック
+    aliases:
+      - Kitasan Black
+    hypernyms:
+      - 競走馬
+  - canonicalName: キタニタツヤ
+    aliases:
+      - Tatsuya Kitani
+      - こんにちは谷田さん
+  - canonicalName: くまのプーさん
+    aliases:
+      - Winnie-the-Pooh
+      - プーさん
+    hypernyms:
+      - ディズニー
+  - canonicalName: クラウド・ストライフ
+    aliases:
+      - Cloud Strife
+    hypernyms:
+      - ファイナルファンタジーVII
+  - canonicalName: クロミ
+    aliases:
+      - Kuromi
+    hypernyms:
+      - サンリオ
+  - canonicalName: ザックス・フェア
+    aliases:
+      - Zack Fair
+    hypernyms:
+      - ファイナルファンタジーVIIシリーズ
+  - canonicalName: シナモロール
+    aliases:
+      - シナモン
+      - Cinnamoroll
+    hypernyms:
+      - サンリオ
+  - canonicalName: ゼットン
+    aliases:
+      - Zetton
+    hypernyms:
+      - ウルトラシリーズ
+  - canonicalName: セフィロス
+    aliases:
+      - Sephiroth
+    hypernyms:
+      - ファイナルファンタジーVIIシリーズ
+  - canonicalName: タイトルホルダー
+    aliases:
+      - Titleholder
+  - canonicalName: タイラント
+    aliases:
+      - Tyrant
+    hypernyms:
+      - バイオハザードシリーズ
+  - canonicalName: タキシードサム
+    aliases:
+      - Tuxedo Sam
+    hypernyms:
+      - サンリオ
+  - canonicalName: パペットスンスン
+    aliases:
+      - PUPPET SUNSUN
+  - canonicalName: ハローキティ
+    aliases:
+      - Hello Kitty
+    hypernyms:
+      - サンリオ
+  - canonicalName: ピノキオピー
+    aliases:
+      - ピノキオP
+      - PinocchioP
+  - canonicalName: フィンセント・ファン・ゴッホ
+    aliases:
+      - Vincent van Gogh
+      - ゴッホ
+  - canonicalName: フリーザ
+    aliases:
+      - Frieza
+    hypernyms:
+      - ドラゴンボール
+  - canonicalName: ベジータ
+    aliases:
+      - Vegeta
+    hypernyms:
+      - ドラゴンボール
+  - canonicalName: ポムポムプリン
+    aliases:
+      - Pom Pom Purin
+    hypernyms:
+      - サンリオ
+  - canonicalName: マイメロディ
+    aliases:
+      - My Melody
+      - マイメロ
+    hypernyms:
+      - サンリオ
+  - canonicalName: ミッフィー
+    aliases:
+      - Miffy
+      - うさこちゃん
+  - canonicalName: ミュウツー
+    aliases:
+      - Mewtwo
+    hypernyms:
+      - ポケットモンスターシリーズ
+  - canonicalName: リラックマ
+    aliases:
+      - Rilakkuma
+  - canonicalName: レオン・S・ケネディ
+    aliases:
+      - レオン・スコット・ケネディ
+      - Leon Scott Kennedy
+      - レオン
+    hypernyms:
+      - バイオハザードシリーズ
+  - canonicalName: 宮村優子
+    aliases:
+      - Yuko Miyamura
+  - canonicalName: 自来也
+    aliases:
+      - ガマ仙人
+    hypernyms:
+      - NARUTOシリーズ
+  - canonicalName: 初音ミク
+    aliases:
+      - Hatsune Miku
+    hypernyms:
+      - ピアプロキャラクターズ
+  - canonicalName: 孫悟飯
+    aliases:
+      - Son Gohan
+    hypernyms:
+      - ドラゴンボールシリーズ
+  - canonicalName: 八王子P
+    aliases:
+      - はちおうじピー
+      - HachiojiP
+  - canonicalName: 平沢進
+    aliases:
+      - Susumu Hirasawa
+  - canonicalName: 米津玄師
+    aliases:
+      - Kenshi Yonezu
+  - canonicalName: 林原めぐみ
+    aliases:
+      - Megumi Hayashibara
+  - canonicalName: Eve
+    aliases:
+      - イブ
+  - canonicalName: アイアンマン
+    aliases:
+      - Iron Man
+    hypernyms:
+      - マーベル・コミック
+  - canonicalName: アグレッシブ烈子
+    aliases:
+      - Aggretsuko
+    hypernyms:
+      - サンリオ
+  - canonicalName: ヴェノム
+    aliases:
+      - Venom
+      - ベノム
+    hypernyms:
+      - マーベル・コミック
+  - canonicalName: スパイダーマン
+    aliases:
+      - Spider-Man
+    hypernyms:
+      - マーベル・コミック
+  - canonicalName: 香川愛生
+    aliases:
+      - かがわ まなお
+      - Manao Kagawa
+  - canonicalName: くまモン
+    aliases:
+      - Kumamon
+  - canonicalName: デッドプール
+    aliases:
+      - Deadpool
+      - デップー
+    hypernyms:
+      - マーベル・コミック
+  - canonicalName: バットマン
+    aliases:
+      - Batman
+    hypernyms:
+      - DCコミックス
+  - canonicalName: プロヴィデンスガンダム
+    aliases:
+      - プロビデンスガンダム
+      - PROVIDENCE GUNDAM
+    hypernyms:
+      - 機動戦士ガンダムSEED
+  - canonicalName: ムーミン
+    aliases:
+      - Moomin
+    hypernyms:
+      - ムーミンシリーズ
+  - canonicalName: やなぎなぎ
+    aliases:
+      - yanaginagi
+  - canonicalName: 彩音
+    aliases:
+      - Ayane
+  - canonicalName: 重音テト
+    aliases:
+      - Kasane Teto
+      - かさねてと
+  - canonicalName: 桃太郎
+    aliases:
+      - Momotaro

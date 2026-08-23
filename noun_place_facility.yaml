@@ -1,6 +1,6 @@
-﻿version: 1
+version: 1
 kind: 場所・施設・空間
-comment: 
+comment:
   - 美術館、博物館、図書館、動物園、水族館、遊園地、テーマパーク、商業施設、飲食店、宿泊施設、イベント会場など
   - 実在するものだけでなく仮想空間も含む
 entries:
@@ -17,6 +17,11 @@ entries:
     aliases:
       - ステラマップカフェ
   - canonicalName: さくらみこのえりぃとかふぇ × STELLAMAP CAFE
+    aliases:
+      - さくらみこのえりぃとかふぇ
+      - SAKURAMIKO 3rd Anniversary さくらみこのえりぃとかふぇ
+    hypernyms:
+      - さくらみこ
   - canonicalName: 北海道
   - canonicalName: 松沢村
   - canonicalName: ぽこピーランド
@@ -26,3 +31,277 @@ entries:
   - canonicalName: イマーシブ・フォート東京
     aliases:
       - IMMERSIVE FORT TOKYO
+  - canonicalName: セイコーマート
+    aliases:
+      - セコマ
+      - Seicomart
+    hypernyms:
+      - コンビニエンスストア
+  - canonicalName: 一鶴
+    aliases:
+      - 骨付鳥 一鶴
+      - IKKAKU
+    hypernyms:
+      - 飲食店
+  - canonicalName: 一蘭
+    aliases:
+      - ICHIRAN
+  - canonicalName: 牛角
+    aliases:
+      - 焼肉牛角
+  - canonicalName: 極楽湯
+    aliases:
+      - 株式会社極楽湯
+    hypernyms:
+      - スーパー銭湯
+  - canonicalName: 東京国立博物館
+    aliases:
+      - トーハク
+      - Tokyo National Museum
+    hypernyms:
+      - 博物館
+  - canonicalName: 富士急ハイランド
+    aliases:
+      - Fujikyu Highland
+      - Fuji-Q Highland
+  - canonicalName: esports Challenger's Park
+    aliases:
+      - チャレパ
+  - canonicalName: ユニバーサル・スタジオ・ジャパン
+    aliases:
+      - USJ
+      - Universal Studios Japan
+  - canonicalName: アーティゾン美術館
+    aliases:
+      - Artizon Museum
+  - canonicalName: アニメイト
+    aliases:
+      - animate
+  - canonicalName: いきなり！ステーキ
+    aliases:
+      - IKINARI STEAK
+    hypernyms:
+      - 飲食店
+  - canonicalName: キュアメイドカフェ
+    aliases:
+      - CURE MAID CAFÉ
+  - canonicalName: ココス
+    aliases:
+      - COCO'S
+    hypernyms:
+      - ファミリーレストラン
+  - canonicalName: サイゼリヤ
+    aliases:
+      - SAIZERIYA
+    hypernyms:
+      - 飲食店
+      - ファミリーレストラン
+  - canonicalName: サンシャイン水族館
+    aliases:
+      - Sunshine Aquarium
+      - 池袋サンシャイン水族館
+    hypernyms:
+      - サンシャインシティ
+  - canonicalName: サンリオピューロランド
+    aliases:
+      - Sanrio Puroland
+  - canonicalName: ジョイポリス
+    aliases:
+      - 東京ジョイポリス
+      - Tokyo Joypolis
+  - canonicalName: スイーツパラダイス
+    aliases:
+      - スイパラ
+  - canonicalName: 東京ディズニーランド
+    aliases:
+      - ディズニーランド
+      - Tokyo Disneyland
+      - TDL
+    hypernyms:
+      - 東京ディズニーリゾート
+  - canonicalName: ドン・キホーテ
+    aliases:
+      - ドンキ
+  - canonicalName: ナガシマスパーランド
+    aliases:
+      - Nagashima Spa Land
+    hypernyms:
+      - ナガシマリゾート
+  - canonicalName: ひらかたパーク
+    aliases:
+      - ひらパー
+    hypernyms:
+      - 遊園地
+  - canonicalName: マリオンクレープ
+    aliases:
+      - Marion Crepes
+  - canonicalName: めり乃
+    aliases:
+      - MERINO
+  - canonicalName: ラーメン二郎
+    aliases:
+      - 二郎
+      - Ramen Jiro
+    hypernyms:
+      - ラーメン店
+  - canonicalName: ラウンドワン
+    aliases:
+      - ROUND1
+  - canonicalName: 横浜マリンタワー
+    aliases:
+      - Yokohama Marine Tower
+  - canonicalName: 築地銀だこ
+    aliases:
+      - 銀ダコ
+  - canonicalName: 神田神社
+    aliases:
+      - 神田明神
+    hypernyms:
+      - 神社
+  - canonicalName: 炭焼きレストランさわやか
+    aliases:
+      - さわやか
+  - canonicalName: 東京スカイツリー
+    aliases:
+      - TOKYO SKYTREE
+      - スカイツリー
+  - canonicalName: 東京デザインテクノロジーセンター専門学校
+    aliases:
+      - TECH.C.
+  - canonicalName: ニンテンドーミュージアム
+    aliases:
+      - 任天堂ミュージアム
+    hypernyms:
+      - 任天堂
+  - canonicalName: ロンドン・ナショナル・ギャラリー
+    aliases:
+      - National Gallery
+      - ナショナル・ギャラリー
+      - The National Gallery
+    hypernyms:
+      - 美術館
+  - canonicalName: エスコンフィールドHOKKAIDO
+    aliases:
+      - ES CON FIELD HOKKAIDO
+      - エスコンフィールド北海道
+    hypernyms:
+      - 北海道ボールパークFビレッジ
+  - canonicalName: 高浜市やきものの里かわら美術館・図書館
+    aliases:
+      - かわら美術館・図書館
+      - かわら美術館
+      - 高浜市やきものの里かわら美術館
+    hypernyms:
+      - 美術館
+      - 図書館
+  - canonicalName: サントリー美術館
+    aliases:
+      - Suntory Museum of Art
+  - canonicalName: スズキ歴史館
+    aliases:
+      - SUZUKI PLAZA
+    hypernyms:
+      - スズキ株式会社
+  - canonicalName: 東京ディズニーシー
+    aliases:
+      - ディズニーシー
+      - TDS
+    hypernyms:
+      - 東京ディズニーリゾート
+  - canonicalName: ニュルブルクリンク北コース
+    aliases:
+      - ノルトシュライフェ
+      - ニュル
+      - Nürburgring Nordschleife
+    hypernyms:
+      - ニュルブルクリンク
+  - canonicalName: ぴあアリーナMM
+    aliases:
+      - PIA ARENA MM
+  - canonicalName: ポーラ美術館
+    aliases:
+      - Pola Museum of Art
+  - canonicalName: 茅野市尖石縄文考古館
+    aliases:
+      - 尖石縄文考古館
+    hypernyms:
+      - 博物館
+  - canonicalName: 岐阜県現代陶芸美術館
+    aliases:
+      - Museum of Modern Ceramic Art, Gifu
+  - canonicalName: 九州国立博物館
+    aliases:
+      - 九博
+      - きゅーはく
+    hypernyms:
+      - 博物館
+  - canonicalName: 九州電力 Eco Terrace
+    aliases:
+      - 九州電力エコテラス
+    hypernyms:
+      - 九州電力株式会社
+  - canonicalName: 九州電力薩摩川内複合施設センノオト
+    aliases:
+      - センノオト
+    hypernyms:
+      - 複合施設
+  - canonicalName: 香川県
+    aliases:
+      - うどん県
+    hypernyms:
+      - 日本
+  - canonicalName: 高知県
+    aliases:
+      - 高知
+      - Kochi Prefecture
+  - canonicalName: 国立成育医療研究センター
+    aliases:
+      - National Center for Child Health and Development
+      - NCCHD
+  - canonicalName: 佐渡島
+    aliases:
+      - 佐渡
+    hypernyms:
+      - 新潟県
+  - canonicalName: 川内原子力発電所展示館
+    aliases:
+      - 九州電力 川内原子力発電所展示館
+  - canonicalName: 大分県
+    aliases:
+      - おおいたけん
+      - Oita Prefecture
+    hypernyms:
+      - 日本
+  - canonicalName: 東京タワー
+    aliases:
+      - Tokyo Tower
+    hypernyms:
+      - 電波塔
+  - canonicalName: 東京ディズニーリゾート
+    aliases:
+      - TDR
+      - Tokyo Disney Resort
+  - canonicalName: 東京ドームシティ
+    aliases:
+      - TOKYO DOME CITY
+      - TDC
+  - canonicalName: 白鹿記念酒造博物館
+    aliases:
+      - 酒ミュージアム
+    hypernyms:
+      - 博物館
+  - canonicalName: 箱根
+    aliases:
+      - 箱根町
+    hypernyms:
+      - 神奈川県
+  - canonicalName: 富士山
+    aliases:
+      - Mt. Fuji
+    hypernyms:
+      - 山
+  - canonicalName: 中山競馬場
+    aliases:
+      - Nakayama Racecourse
+    hypernyms:
+      - 競馬場

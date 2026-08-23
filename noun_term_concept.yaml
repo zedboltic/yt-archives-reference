@@ -1,4 +1,4 @@
-﻿version: 1
+version: 1
 kind: 用語・概念・その他
 comment:
   - 用語、概念、その他の既存分類項目に該当しない名詞など
@@ -82,6 +82,9 @@ entries:
   - canonicalName: 開拓者
     aliases:
       - かいたくしゃ
+      - 開拓者組合
+    hypernyms:
+      - AZKi
   - canonicalName: 響咲連合
     aliases:
       - いさきれんごう
@@ -180,9 +183,6 @@ entries:
   - canonicalName: GeckoLib
   - canonicalName: 自殺
   - canonicalName: 進撃の巨人
-  - canonicalName: シンデレラSWITCH
-    aliases:
-      - シンデレラスイッチ
   - canonicalName: Steampunk
     aliases:
       - スチームパンク
@@ -190,6 +190,8 @@ entries:
   - canonicalName: すみっコぐらし
   - canonicalName: ダービー
   - canonicalName: タロットカード
+    aliases:
+      - タロット占い
   - canonicalName: チェス
   - canonicalName: TRPG
   - canonicalName: 丁字路
@@ -245,10 +247,14 @@ entries:
   - canonicalName: 3Dライブ
     aliases:
       - 3D LIVE
+      - 3D LIVE映像
   - canonicalName: ミュージックビデオ
     aliases:
       - MV
       - Music Video
+      - Official Music Video
+      - Official MV
+      - Official Lyric Music Video
   - canonicalName: VTuber
     aliases:
       - バーチャルYouTuber
@@ -275,6 +281,106 @@ entries:
       - 同時視聴
       - コ・ストリーミング
       - Co-streaming
+      - 同時視聴/Watchalong
+      - Watchalong
   - canonicalName: コラボ
     aliases:
       - コラボレーション
+  - canonicalName: スト鯖GTA
+    aliases:
+      - ストリーマーサーバーGTA
+  - canonicalName: ASMR
+    aliases:
+      - Autonomous Sensory Meridian Response
+      - 自律感覚絶頂反応
+  - canonicalName: フォーミュラ1
+    aliases:
+      - F1
+      - Formula One
+      - Formula 1
+    hypernyms:
+      - モータースポーツ
+  - canonicalName: アニメソング
+    aliases:
+      - アニソン
+  - canonicalName: ハードコアモード(Minecraft)
+    aliases:
+      - Minecraft Hardcore
+      - Minecraftのハードコアモード
+    hypernyms:
+      - Minecraft
+  - canonicalName: パチスロ
+    aliases:
+      - 回胴式遊技機
+  - canonicalName: かわ余
+    aliases:
+      - かわ世
+      - Kawayo
+      - 百鬼あやめ 3rdオリジナル楽曲「かわ世」
+    hypernyms:
+      - 百鬼あやめ
+  - canonicalName: ホロライブ ASMRボイス
+    aliases:
+      - ホロライブASMR
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホワイトノイズ
+    aliases:
+      - white noise
+  - canonicalName: 金剛力士像
+    aliases:
+      - 金剛力士立像
+      - 仁王像
+  - canonicalName: 三国志
+    aliases:
+      - 三國志
+  - canonicalName: 薄明光線
+    aliases:
+      - 天使の梯子
+      - 天使のはしご
+      - crepuscular rays
+      - レンブラント光線
+  - canonicalName: 備前焼
+    aliases:
+      - 伊部焼
+    hypernyms:
+      - 陶磁器
+  - canonicalName: エイプリルフール
+    aliases:
+      - April Fools' Day
+      - 四月馬鹿
+  - canonicalName: オフコラボ
+    aliases:
+      - オフラインコラボ
+      - オフコラボ配信
+  - canonicalName: パ・リーグ
+    aliases:
+      - パシフィック・リーグ
+      - Pacific League
+    hypernyms:
+      - プロ野球
+  - canonicalName: ばんえい競馬
+    aliases:
+      - ばんえい十勝
+    hypernyms:
+      - 地方競馬
+  - canonicalName: 逆凸
+    aliases:
+      - 逆突
+  - canonicalName: 七夕
+    aliases:
+      - たなばた
+      - しちせき
+  - canonicalName: ゲリラ
+    aliases:
+      - ゲリラ配信
+  - canonicalName: 縦型歌枠
+    aliases:
+      - 歌枠/縦型
+      - 縦型歌雑枠
+      - 縦型歌枠/KARAOKE
+    hypernyms:
+      - 歌枠
+  - canonicalName: 縦型雑談
+    aliases:
+      - 縦型雑談配信
