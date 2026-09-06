@@ -8459,3 +8459,9 @@ entries:
     aliases:
       - ピクロス
       - PICROSS
+  - canonicalName: サイコブレイク DLC
+    aliases:
+      - PsychoBreak DLC/サイコブレイクDLC
+      - PsychoBreak DLC
+    hypernyms:
+      - サイコブレイク
