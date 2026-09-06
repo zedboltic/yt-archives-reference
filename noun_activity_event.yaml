@@ -2280,8 +2280,12 @@ entries:
   - canonicalName: hololive GAMERS fes. 超超超超ゲーマーズ2
     aliases:
       - 超超超超ゲーマーズ2
+      - ホロライブゲーマーズフェス2025
+      - 超ホロライブゲーマーズフェスティバル
+      - ホロライブゲーマーズ2
     hypernyms:
       - hololive GAMERS fes. シリーズ
+      - hololive Gamers Fes.
   - canonicalName: hololive production COUNTDOWN LIVE 2024▷2025
     aliases:
       - "#holocountdown2024"
