@@ -21,8 +21,9 @@ function entriesByCanonicalName(entries, label) {
   for (const entry of entries) {
     const canonicalName = typeof entry?.canonicalName === "string" ? entry.canonicalName.trim() : "";
     if (!canonicalName) throw new Error(`${label}にcanonicalNameのないentryがあります`);
-    if (result.has(canonicalName)) throw new Error(`${label}にcanonicalNameの重複があります: ${canonicalName}`);
-    result.set(canonicalName, entry);
+    const group = result.get(canonicalName) || [];
+    group.push(entry);
+    result.set(canonicalName, group);
   }
   return result;
 }
@@ -44,6 +45,21 @@ function staticEntry(entry) {
 
 function sameJson(left, right) {
   return JSON.stringify(left) === JSON.stringify(right);
+}
+
+function consolidateEntryGroup(entries, label) {
+  if (entries.length === 0) throw new Error(`${label}にentryがありません`);
+  const first = entries[0];
+  const firstStatic = staticEntry(first);
+  if (entries.some((entry) => !sameJson(staticEntry(entry), firstStatic))) {
+    throw new Error(`${label}の重複canonicalNameに異なる属性があります`);
+  }
+  return {
+    entryCount: entries.length,
+    static: firstStatic,
+    aliases: [...new Set(entries.flatMap((entry) => strings(entry.aliases, `${label}.aliases`)))],
+    hypernyms: [...new Set(entries.flatMap((entry) => strings(entry.hypernyms, `${label}.hypernyms`)))],
+  };
 }
 
 function addedValues(baseValues, headValues, label) {
@@ -68,18 +84,25 @@ function deriveFileOperations(baseText, headText, fileName) {
   const baseEntries = entriesByCanonicalName(base.entries, `${fileName} base`);
   const headEntries = entriesByCanonicalName(head.entries, `${fileName} PR head`);
   const operations = [];
-  for (const [canonicalName, baseEntry] of baseEntries) {
-    const headEntry = headEntries.get(canonicalName);
-    if (!headEntry) throw new Error(`${fileName}からentryが削除されています: ${canonicalName}`);
-    if (!sameJson(staticEntry(baseEntry), staticEntry(headEntry))) {
+  for (const [canonicalName, baseGroup] of baseEntries) {
+    const headGroup = headEntries.get(canonicalName);
+    if (!headGroup) throw new Error(`${fileName}からentryが削除されています: ${canonicalName}`);
+    const baseEntry = consolidateEntryGroup(baseGroup, `${fileName} base ${canonicalName}`);
+    const headEntry = consolidateEntryGroup(headGroup, `${fileName} PR head ${canonicalName}`);
+    if (baseEntry.entryCount !== headEntry.entryCount) {
+      throw new Error(`${fileName}の重複entry数変更は自動rebaseできません: ${canonicalName}`);
+    }
+    if (!sameJson(baseEntry.static, headEntry.static)) {
       throw new Error(`${fileName}のentry属性変更は自動rebaseできません: ${canonicalName}`);
     }
     const aliases = addedValues(baseEntry.aliases, headEntry.aliases, `${fileName}.${canonicalName}.aliases`);
     const hypernyms = addedValues(baseEntry.hypernyms, headEntry.hypernyms, `${fileName}.${canonicalName}.hypernyms`);
     if (aliases.length || hypernyms.length) operations.push({ canonicalName, aliases, hypernyms, entry: null });
   }
-  for (const [canonicalName, entry] of headEntries) {
+  for (const [canonicalName, entryGroup] of headEntries) {
     if (!baseEntries.has(canonicalName)) {
+      if (entryGroup.length !== 1) throw new Error(`${fileName}の新規canonicalNameが重複しています: ${canonicalName}`);
+      const [entry] = entryGroup;
       strings(entry.aliases, `${fileName}.${canonicalName}.aliases`);
       strings(entry.hypernyms, `${fileName}.${canonicalName}.hypernyms`);
       operations.push({ canonicalName, aliases: entry.aliases || [], hypernyms: entry.hypernyms || [], entry });
