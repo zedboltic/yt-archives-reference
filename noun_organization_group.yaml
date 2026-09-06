@@ -1046,5 +1046,10 @@ entries:
   - canonicalName: フブルイ
     aliases:
       - 白上フブキ＆鷹嶺ルイ
+  - canonicalName: ミオみこスバ
+    aliases:
+      - OKFAMS
+      - ミオスバみこ
+      - みこスバミオ
     hypernyms:
       - ホロライブ
