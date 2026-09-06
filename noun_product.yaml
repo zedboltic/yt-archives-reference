@@ -105,6 +105,8 @@ entries:
   - canonicalName: ホロライブ どっちが好き？甘え♡甘やかしボイス
     aliases:
       - ホロライブ どっが好き？甘え♡甘やかしボイス
+      - 甘え甘やかし
+      - 甘え♡甘やかしボイス
   - canonicalName: ホロライブウェハース
     aliases:
       - ホロライブウエハース
@@ -237,6 +239,12 @@ entries:
   - canonicalName: Pフィーバー戦姫絶唱シンフォギア2
   - canonicalName: ヒットソング + VTuber パック
   - canonicalName: ファミリーコンピュータ
+    aliases:
+      - ファミコン
+      - FC
+      - Famicom
+    hypernyms:
+      - ゲーム機
   - canonicalName: VMAXクライマックス
   - canonicalName: フュージョンアーツ
   - canonicalName: PlayStation
@@ -302,6 +310,7 @@ entries:
   - canonicalName: ミリオンゴッド
     aliases:
       - Million God
+      - GOD
     hypernyms:
       - パチスロ
   - canonicalName: ミリオンゴッド-神々の凱旋-
@@ -351,6 +360,8 @@ entries:
   - canonicalName: Amazon Prime Video
     aliases:
       - Amazonプライム・ビデオ
+      - Prime Video
+      - プライムビデオ
   - canonicalName: Audiostock
     aliases:
       - オーディオストック
@@ -6146,3 +6157,28 @@ entries:
       - 風真いろは
   - canonicalName: 湊あくあ黒歴史ボイス
     aliases: []
+  - canonicalName: MFゴースト
+    aliases:
+      - MF GHOST
+    hypernyms:
+      - 漫画
+  - canonicalName: ラジオ英会話
+    aliases:
+      - RADIO ENGLISH
+      - NHKラジオ英会話
+  - canonicalName: SPOTV NOW
+    aliases:
+      - スポティービーナウ
+  - canonicalName: ビビッドキュート
+    aliases:
+      - Vivid Cute
+  - canonicalName: 凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録
+    aliases:
+      - 狂乱令嬢ニアリストン
+      - 強乱城ニアリストン
+      - 凶乱令嬢ニア・リストン
+  - canonicalName: 魔法少女ホロウィッチ！THE STAGE 〜TRICK or MAGIC！〜
+    aliases:
+      - 魔法少女ホロウィッチ！ザ・ステージ
+    hypernyms:
+      - 魔法少女ホロウィッチ！

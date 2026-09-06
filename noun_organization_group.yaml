@@ -69,6 +69,7 @@ entries:
   - canonicalName: hololive 1st Generation
     aliases:
       - ホロライブ1期生
+      - ホロ1期生
   - canonicalName: holoRêve
     aliases:
       - ホロレーヴ
@@ -223,6 +224,9 @@ entries:
   - canonicalName: miComet
     aliases:
       - みこめっと
+      - ホロライブ/miComet
+    hypernyms:
+      - ホロライブ
   - canonicalName: ReGLOSS
     aliases:
       - リグロス
@@ -512,6 +516,8 @@ entries:
       - SQUARE ENIX
       - スクエニ
       - SQEX
+      - 株式会社スクウェア・エニックス
+      - SQUARE ENIX CO., LTD.
   - canonicalName: スシロー
     aliases:
       - あきんどスシロー
@@ -586,6 +592,7 @@ entries:
   - canonicalName: まがまがーず
     aliases:
       - まがまが
+      - まがまがーず /ホロライブ
     hypernyms:
       - ホロライブ
   - canonicalName: マクドナルド
@@ -699,6 +706,9 @@ entries:
     aliases:
       - アマゾン
       - Amazon.com
+      - アマゾンジャパン合同会社
+      - Amazon Japan
+      - アマゾンジャパン
   - canonicalName: Advanced Micro Devices
     aliases:
       - AMD
@@ -918,3 +928,118 @@ entries:
   - canonicalName: 朝ノ姉妹ぷろじぇくと
     aliases:
       - Asano Sisters Project
+  - canonicalName: 株式会社Aiming
+    aliases:
+      - Aiming
+  - canonicalName: KoZMy
+    aliases:
+      - AZKi・雪花ラミィ・博衣こより/ホロライブ
+      - ホロライブ / AZKi / 博衣こより / 雪花ラミィ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: Crazy Raccoon
+    aliases:
+      - CR
+      - クレイジー・ラクーン
+  - canonicalName: Cygames
+    aliases:
+      - サイゲームス
+  - canonicalName: FENNEL
+    aliases:
+      - フェンネル
+  - canonicalName: hololive English -Myth-
+    aliases:
+      - holoMyth
+      - ホロライブEnglish -Myth-
+      - Myth
+    hypernyms:
+      - hololive production
+  - canonicalName: KRAFTON JAPAN
+    aliases:
+      - KRAFTON JAPAN株式会社
+      - クラフトンジャパン
+    hypernyms:
+      - KRAFTON
+  - canonicalName: MLB
+    aliases:
+      - Major League Baseball
+      - メジャーリーグベースボール
+      - メジャーリーグ
+  - canonicalName: Paradox Interactive
+    aliases:
+      - パラドックスインタラクティブ
+  - canonicalName: RIDDLE ORDER
+    aliases:
+      - RIDDLE
+  - canonicalName: SPEED
+    aliases:
+      - スピード
+  - canonicalName: UNLIMIT
+    aliases:
+      - アンリミット
+  - canonicalName: あっぷれあ
+    aliases:
+      - アキ・ローゼンタールと不知火フレア
+  - canonicalName: エム・エル・ビー・ジャパン株式会社
+    aliases:
+      - エムエルビージャパン
+      - MLB Japan
+  - canonicalName: 株式会社コロプラ
+    aliases:
+      - コロプラ
+  - canonicalName: ジェムドロップ株式会社
+    aliases:
+      - ジェムドロップ
+      - Gemdrops, Inc.
+  - canonicalName: ド珍組
+    aliases:
+      - ド珍
+    hypernyms:
+      - ホロライブ
+  - canonicalName: フレア団
+    aliases:
+      - Team Flare
+    hypernyms:
+      - ポケットモンスターシリーズ
+  - canonicalName: ホンダ・レーシング
+    aliases:
+      - Honda Racing
+      - HRC
+      - 株式会社ホンダ・レーシング
+  - canonicalName: モノパス
+    aliases:
+      - Monopass
+  - canonicalName: ユニクロ
+    aliases:
+      - UNIQLO
+  - canonicalName: ロッテリア
+    aliases:
+      - Lotteria
+    hypernyms:
+      - ファストフードチェーン
+  - canonicalName: 株式会社BANDAI SPIRITS
+    aliases:
+      - BANDAI SPIRITS
+      - バンダイスピリッツ
+    hypernyms:
+      - バンダイナムコグループ
+  - canonicalName: 株式会社コナミデジタルエンタテインメント
+    aliases:
+      - コナミデジタルエンタテインメント
+      - KONAMI
+      - KDE
+  - canonicalName: 株式会社タイトー
+    aliases:
+      - TAITO CORPORATION
+      - タイトー
+  - canonicalName: 株式会社バンダイナムコエンターテインメント
+    aliases:
+      - バンダイナムコエンターテインメント
+      - Bandai Namco Entertainment Inc.
+    hypernyms:
+      - バンダイナムコグループ
+  - canonicalName: 頭ピンク組
+    aliases:
+      - こよりマリン
+    hypernyms:
+      - ホロライブ

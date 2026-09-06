@@ -1,4 +1,4 @@
-﻿version: 1
+version: 1
 kind: 活動・イベント・企画
 comment:
   - 配信企画、イベント、コラボ、キャンペーン、ライブ、スポーツ大会、ゲーム大会、展示会、祭り、記念日など
@@ -98,12 +98,19 @@ entries:
   - canonicalName: hololive official shop
     aliases:
       - ホロライブオフィシャルショップ
+      - ホロライブプロダクションオフィシャルショップ
+      - ホロライブプロダクション 公式ショップ
+      - hololive production official shop
+    hypernyms:
+      - ホロライブプロダクション
   - canonicalName: hololive pixel art
     aliases:
       - ホロライブピクセルアート
   - canonicalName: hololive production COUNTDOWN LIVE
     aliases:
       - ホロライブプロダクション カウントダウンライブ
+      - ホロライブカウントダウンライブ
+      - ホロライブカウントダウン
   - canonicalName: hololive Seasonal Days
     aliases:
       - ホロライブシーズナルデイズ
@@ -271,6 +278,9 @@ entries:
       - ときのそら 8th Anniversary Party「Starry Bl∞min'」 (Live Blu-ray)
       - Live Blu-ray 『ときのそら 8th Anniversary Party「Starry Bl∞min’」』
       - ときのそら 8th Anniversary Party「Starry Bl∞min'」 (Blu-ray)
+      - そらパ2025
+    hypernyms:
+      - ときのそら
   - canonicalName: ねねいろ NOODLE らいぶ
   - canonicalName: ねねねねねねねね！大爆走🍑
     aliases:
@@ -667,6 +677,9 @@ entries:
   - canonicalName: MadTown GTA
     aliases:
       - MAD TOWN
+      - GTA5│MAD TOWN
+    hypernyms:
+      - グランド・セフト・オートV
   - canonicalName: 雪山ホロ人狼
   - canonicalName: ホロ五目並べ
   - canonicalName: Apex Legends Global Series
@@ -769,6 +782,9 @@ entries:
     aliases:
       - Blooming Parade!!
       - さくらみこ 2ndライブ
+      - さくらみこ 2nd Live “Blooming Parade!!”
+    hypernyms:
+      - さくらみこ
   - canonicalName: Custom Rule Cup
     aliases:
       - シャドバ Custom Rule Cup
@@ -836,6 +852,7 @@ entries:
   - canonicalName: hololive Splash T-Party!
     aliases:
       - ホロライブスパイスTパーティー
+      - hololive Splash T-Party! Tシャツ
   - canonicalName: ホロライブマインクラフト
     aliases:
       - ホロライブ マイクラ
@@ -1021,6 +1038,7 @@ entries:
       - SHINier
       - 常闇トワ2ndライブ "SHINier"
       - Tokoyami Towa 2nd Live "SHINier"
+      - "#常闇トワ2nd"
     hypernyms:
       - 常闇トワ
   - canonicalName: SorAZ Special Live 刹那的クロニクル
@@ -1212,6 +1230,7 @@ entries:
   - canonicalName: ロボ子さんのサイバーメイドカフェ
     aliases:
       - ROBOCOSAN'S CYBER MAID CAFÉ
+      - ろぼメイドカフェ
     hypernyms:
       - ロボ子さん
   - canonicalName: 角巻わためのHave a nice day
@@ -1251,6 +1270,7 @@ entries:
     aliases:
       - AZKi 活動7周年記念グッズ
       - AZKi 7周年記念グッズ
+      - AZKi7周年
     hypernyms:
       - AZKi
   - canonicalName: 沙花叉クロヱ ギャル叉衣装記念
@@ -1273,6 +1293,7 @@ entries:
     aliases:
       - さくらみこ 活動7周年記念グッズ
       - さくらみこ7周年記念グッズ
+      - さくらみこ7周年
     hypernyms:
       - さくらみこ
   - canonicalName: さくらみこ 誕生日記念2023
@@ -1679,6 +1700,7 @@ entries:
   - canonicalName: 鷹嶺ルイ 4周年記念
     aliases:
       - 鷹嶺ルイ4周年記念グッズ
+      - 鷹嶺ルイ4周年
     hypernyms:
       - 鷹嶺ルイ
   - canonicalName: 天音かなた 誕生日記念2021
@@ -1815,6 +1837,7 @@ entries:
       - 白銀ノエル6周年＆新衣装グッズ
       - 白銀ノエル 新衣装＆活動6周年記念グッズ
       - 白銀ノエル 新衣装＆活動6周年記念
+      - 白銀ノエル6周年
     hypernyms:
       - 白銀ノエル
   - canonicalName: 白銀ノエル 2周年記念
@@ -2189,6 +2212,7 @@ entries:
   - canonicalName: 戌神ころね 誕生日記念2025
     aliases:
       - 戌神ころね誕生日記念グッズ2025
+      - 戌神ころね生誕祭2025
     hypernyms:
       - 戌神ころね
   - canonicalName: 綺々羅々ヴィヴィ 50万人記念
@@ -2815,6 +2839,7 @@ entries:
       - 獅白ぼたんとクリスマス闘nightⅡ 30Φアケコンボタン
       - 獅白ぼたんとクリスマス闘nightⅡタオル
       - 獅白ぼたんとクリスマス闘nightⅡアグリースウェット
+      - "#ししろんとオールナイ闘2025"
     hypernyms:
       - 獅白ぼたん
   - canonicalName: 獅白杯4th
@@ -2895,6 +2920,7 @@ entries:
     aliases:
       - 天音かなた卒業ライブ
       - 天音かなた卒業ライブ「絶対的アイドル」
+      - 天音かなた卒業グッズ
     hypernyms:
       - 天音かなた
   - canonicalName: 天皇賞
@@ -3012,3 +3038,218 @@ entries:
   - canonicalName: 第3回ホロライブ体力王決定戦
     hypernyms:
       - ホロライブ体力王決定戦
+  - canonicalName: ホロライブ0期生 7周年記念
+    aliases:
+      - ０期生周年プリンセス グッズ
+  - canonicalName: AZKi SOLO LiVE 2025 "Departure"
+    aliases:
+      - AZKiと未来へ
+    hypernyms:
+      - AZKi
+  - canonicalName: e-elements DREAM MATCH
+    aliases:
+      - DREAM MATCH
+  - canonicalName: FLOW GLOW 3Dお披露目ライブ
+    aliases:
+      - FG3Dライブ
+    hypernyms:
+      - FLOW GLOW
+  - canonicalName: FLOW GLOW 周年歌みたリレー
+    aliases:
+      - FG周年歌みたリレー
+    hypernyms:
+      - FLOW GLOW
+  - canonicalName: ホロアコースティックライブ in Summer
+    aliases:
+      - holoAcousticLive
+      - ホロアコースティックライブ
+    hypernyms:
+      - ホロライブプロダクション
+  - canonicalName: ～ hololive production 8th Anniversary Fireworks ～ Shiny Sparklers Symphony
+    aliases:
+      - ホロライブプロダクション8周年記念花火イベント
+      - Shiny Sparklers Symphony
+      - ホロ花火
+    hypernyms:
+      - hololive production
+  - canonicalName: hololive night
+    aliases:
+      - MLBxhololive
+      - MLB×hololive
+    hypernyms:
+      - hololive
+  - canonicalName: MLB Breakfast Club
+    aliases:
+      - MLBブレックファストクラブ夏のプレゼントキャンペーン
+      - MLBブレックファストクラブ
+    hypernyms:
+      - MLB
+  - canonicalName: Mythmash cheMythtry
+    aliases:
+      - MYTHMASH
+  - canonicalName: PUBG MOBILE ぺこら軍 vs ぼたん軍 バトルイベント
+    aliases:
+      - ぺこら軍VSぼたん軍 2025年夏の陣
+    hypernyms:
+      - PUBG MOBILE
+  - canonicalName: SLEEP FIGHTER II
+    aliases:
+      - SLEEP FIGHTER 2
+      - 睡眠計量e-SPORTS CUP SLEEP FIGHTER II
+    hypernyms:
+      - SLEEP FIGHTER
+  - canonicalName: アキ・ローゼンタール 新衣装記念
+    aliases:
+      - アキロゼ新衣装
+    hypernyms:
+      - アキ・ローゼンタール
+  - canonicalName: アニメクラシックス アニソン花火
+    aliases:
+      - アニソン花火
+    hypernyms:
+      - アニメクラシックス
+  - canonicalName: 綺々羅々ヴィヴィ 誕生日記念2026
+    aliases:
+      - ヴィヴィ生誕祭2026
+    hypernyms:
+      - 綺々羅々ヴィヴィ
+  - canonicalName: さくらみこ × Della Key コラボキャンペーン
+    aliases:
+      - さくらみこ Della Key コラボキャンペーン
+      - Della Keyコラボキーキャップ
+    hypernyms:
+      - さくらみこ
+  - canonicalName: さくらみこ 新衣装記念
+    aliases:
+      - さくらみこ新衣装記念グッズ
+    hypernyms:
+      - さくらみこ
+  - canonicalName: Cinderella switch ～ふたりでみるホロライブ～ シリーズ
+    aliases:
+      - シンデレラスイッチ
+      - Cinderella switch
+      - Cinderella switch ～ふたりでみるホロライブ～
+  - canonicalName: VALORANT スカーミッシュトーナメント
+    aliases:
+      - スカーミッシュトーナメント
+      - Skirmish Tournament
+    hypernyms:
+      - VALORANT
+  - canonicalName: ときのそら 誕生日記念
+    aliases:
+      - ときのそら誕生日記念グッズ
+    hypernyms:
+      - ときのそら
+  - canonicalName: ねぽっくす！ 〜ねぽらぼ×秘密結社holoX〜
+    aliases:
+      - ねぽっくす
+    hypernyms:
+      - ねぽらぼ
+      - 秘密結社holoX
+  - canonicalName: ロボ子さん ファンミーティング
+    aliases:
+      - ファンミにはろーぼー
+  - canonicalName: ホロライブぷよテト大会2026
+    aliases:
+      - ぷよテト大会2026
+      - hololive ぷよテト大会2026
+      - ホロぷよテト大会2026
+    hypernyms:
+      - ぷよテト大会シリーズ
+      - ホロライブぷよテト大会
+  - canonicalName: ぺこら軍
+    aliases:
+      - ぺこら軍視点
+    hypernyms:
+      - 兎田ぺこら
+  - canonicalName: ホロ3Dアモアス
+    aliases:
+      - "#ホロAmongUs3D"
+    hypernyms:
+      - Among Us 3D
+  - canonicalName: ホロ7DTDハード
+    aliases:
+      - 7DAYS TO DIE 2 ハードモード
+    hypernyms:
+      - ホロ7DTD
+  - canonicalName: ホロPEAK
+    aliases:
+      - ホロピーク
+    hypernyms:
+      - PEAK
+  - canonicalName: ホロスマブラ最弱王決定戦
+    aliases:
+      - ホロスマブラ最弱王
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロナツクイーン決定戦
+    aliases:
+      - ビーチで対決！ホロナツクイーン決定戦 in VRChat
+    hypernyms:
+      - ホロナツパラダイス
+  - canonicalName: ホロぷよテト大会シリーズ
+    aliases:
+      - ホロぷよテト大会
+      - ホロライブぷよテト大会
+  - canonicalName: ホロライブわちゃわちゃ学園祭
+    aliases:
+      - "#ホロわちゃ学園祭"
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ学力テスト
+    aliases:
+      - ホロライブ共通テスト
+    hypernyms:
+      - ホロライブ
+  - canonicalName: ホロライブ甲子園2026
+    aliases:
+      - ホロ甲2026
+    hypernyms:
+      - ホロライブ甲子園
+  - canonicalName: ゆるホロチームカート シリーズ
+    aliases:
+      - ゆるホロチームカート
+      - ゆるホロマリカー
+    hypernyms:
+      - ホロライブ
+  - canonicalName: 儒烏風亭らでん 2周年記念
+    aliases:
+      - らでんちゃん2周年
+    hypernyms:
+      - 儒烏風亭らでん
+  - canonicalName: 運命のトリガー TGS2025
+    aliases:
+      - 運命のトリガー∥TGS2025
+    hypernyms:
+      - 運命のトリガー
+      - 東京ゲームショウ2025
+  - canonicalName: 吉野家×白銀ノエル「こんまっする！」アプリポイントキャンペーン
+    aliases:
+      - 吉野家こんまっするキャンペーン
+    hypernyms:
+      - ホロライブ
+  - canonicalName: 月曜定期雑談
+    aliases:
+      - 月曜日定期雑談
+  - canonicalName: 常闇祭シリーズ
+    aliases:
+      - 常闇祭 SF6
+      - 常闇祭
+  - canonicalName: 赤井はあと爆誕祭
+    aliases:
+      - 赤井はあと生誕祭
+      - 赤井はあと誕生日記念
+    hypernyms:
+      - 赤井はあと
+  - canonicalName: 切り抜き鑑賞会
+    aliases:
+      - 切り抜き鑑賞
+  - canonicalName: 冥界Halloween Night! 2025
+    aliases:
+      - 冥ハロ2025
+    hypernyms:
+      - 冥界Halloween Night!
+  - canonicalName: 輪ゴムスイカ
+    aliases:
+      - 輪ゴムでスイカ割り
+      - スイカ輪ゴム実験

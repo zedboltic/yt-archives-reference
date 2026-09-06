@@ -16,6 +16,8 @@ entries:
       - あずき
       - AZKiちゃん
       - あずきち
+      - "#あずきち見て"
+      - あずきんち
   - canonicalName: IRyS
     aliases:
       - アイリス
@@ -291,6 +293,7 @@ entries:
       - Su Mizumiya
       - Su Ch. 水宮枢
       - Mizumiya Su
+      - 水宮枢／FLOW GLOW
     hypernyms:
       - FLOW GLOW
   - canonicalName: 星街すいせい
@@ -977,3 +980,125 @@ entries:
     aliases:
       - KAF
       - 花譜-KAF-
+  - canonicalName: Meiy
+    aliases:
+      - メイ
+      - Ibuki Seki
+  - canonicalName: Obuyan
+    aliases:
+      - おぶやん
+  - canonicalName: V.I.P
+    aliases:
+      - 〓V．Ｉ．Ｐ〓
+      - おおともりょう
+  - canonicalName: エリー・コニファー
+    aliases:
+      - Eli Conifer
+  - canonicalName: きら子
+    aliases:
+      - Kirako
+      - KirakoCh
+  - canonicalName: シーアーチャー
+    aliases:
+      - Sea Archer
+  - canonicalName: スカヤ
+    aliases:
+      - Skaya
+  - canonicalName: ルンルン
+    aliases:
+      - Lunlun
+  - canonicalName: 愛園愛美
+    aliases:
+      - あいぞのまなみ
+      - Aizono Manami
+    hypernyms:
+      - にじさんじ
+  - canonicalName: 羽継烏有
+    aliases:
+      - Utsugi Uyu
+    hypernyms:
+      - ホロスターズ
+  - canonicalName: 音霊魂子
+    aliases:
+      - おとだま たまこ
+      - 魂子ちゃん
+      - たまちゃん
+    hypernyms:
+      - あおぎり高校
+  - canonicalName: 栗駒こまる
+    aliases:
+      - Komaru Kurikoma
+    hypernyms:
+      - あおぎり高校
+  - canonicalName: 月赴ゐぶき
+    aliases:
+      - つきゆきいぶき
+      - Tsukiyuki Ibuki
+    hypernyms:
+      - あおぎり高校
+  - canonicalName: 社築
+    aliases:
+      - やしろきずく
+      - やしきず
+  - canonicalName: 渋谷ハル
+    aliases:
+      - 渋ハル
+  - canonicalName: 森中花咲
+    aliases:
+      - Kazaki Morinaka
+    hypernyms:
+      - にじさんじ
+  - canonicalName: 水無瀬
+    aliases:
+      - Minase
+    hypernyms:
+      - Neo-Porte
+  - canonicalName: 石神のぞみ
+    aliases:
+      - Ishigami Nozomi
+  - canonicalName: 千羽黒乃
+    aliases:
+      - せんば くろの
+  - canonicalName: 奏手イヅル
+    aliases:
+      - かなでいづる
+      - Kanade Izuru
+      - Izuru Ch. 奏手イヅル
+    hypernyms:
+      - ホロスターズ
+  - canonicalName: 早乙女ベリー
+    aliases:
+      - Saotome Berry
+  - canonicalName: 朝陽にいな
+    aliases:
+      - Nina Asahi
+      - Nina Ch.
+  - canonicalName: 天硝路ろまん
+    aliases:
+      - Roman Tenshoji
+    hypernyms:
+      - StellArt.
+  - canonicalName: 兎咲ミミ
+    aliases:
+      - Tosaki Mimi
+    hypernyms:
+      - ぶいすぽっ！
+  - canonicalName: 八雲べに
+    aliases:
+      - Yakumo Beni
+  - canonicalName: 本間ひまわり
+    aliases:
+      - Himawari Honma
+      - ほんひま
+  - canonicalName: 明堂しろね
+    aliases:
+      - Meido Shirone
+  - canonicalName: 竜胆 尊
+    aliases:
+      - Rindou Mikoto
+    hypernyms:
+      - にじさんじ
+  - canonicalName: 巫てんり
+    aliases:
+      - かんなぎてんり
+      - Kannagi Tenri

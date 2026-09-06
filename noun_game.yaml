@@ -20,6 +20,9 @@ entries:
   - canonicalName: 2.5次元の誘惑 天使たちのステージ
     aliases:
       - 2.5次元の誘惑（リリサ） 天使たちのステージ
+      - リリステ
+    hypernyms:
+      - 2.5次元の誘惑
   - canonicalName: 30 Days on Ship
   - canonicalName: 428 〜封鎖された渋谷で〜
   - canonicalName: 44 Minutes in Nightmare
@@ -29,6 +32,8 @@ entries:
   - canonicalName: 7 Days to Die
     aliases:
       - 7dtd
+      - 7 Days to Dieシリーズ
+      - 7D2D
   - canonicalName: 7 Days to End with You
   - canonicalName: 777REAL
   - canonicalName: 8番のりば
@@ -887,14 +892,21 @@ entries:
     aliases:
       - ファイナルファンタジーII
       - ファイナルファンタジー2
+      - FF2
+      - FFII
+      - ファイファンII
     hypernyms:
       - FINAL FANTASYシリーズ
+      - ファイナルファンタジーシリーズ
   - canonicalName: FINAL FANTASY III
     aliases:
       - ファイナルファンタジーⅢ
       - ファイナルファンタジー3
+      - FF3
+      - FFIII
     hypernyms:
       - FINAL FANTASYシリーズ
+      - ファイナルファンタジーシリーズ
   - canonicalName: FINAL FANTASY IV
     aliases:
       - FF4
@@ -918,6 +930,9 @@ entries:
   - canonicalName: FINAL FANTASY Pixel Remaster
     aliases:
       - ファイナルファンタジー ピクセルリマスター
+      - ピクセルリマスター版
+      - FFピクセルリマスター版
+      - ファイナルファンタジー ピクセルリマスター版
     hypernyms:
       - FINAL FANTASYシリーズ
   - canonicalName: FINAL FANTASY TACTICS
@@ -931,6 +946,8 @@ entries:
       - FF5
       - ファイナルファンタジーV
       - ファイナルファンタジー5
+      - ファイナルファンタジーVシリーズ
+      - FINAL FANTASY Vシリーズ
     hypernyms:
       - FINAL FANTASYシリーズ
   - canonicalName: FINAL FANTASY V Pixel Remaster
@@ -1014,8 +1031,11 @@ entries:
     aliases:
       - ファイナルファンタジーVIII
       - ファイナルファンタジー8
+      - FF8
+      - FFVIII
     hypernyms:
       - FINAL FANTASYシリーズ
+      - ファイナルファンタジーシリーズ
   - canonicalName: FINAL FANTASY X
     aliases:
       - FF10
@@ -1364,6 +1384,8 @@ entries:
   - canonicalName: HEAVY RAIN -心の軋み-
     aliases:
       - HEAVY RAIN
+      - HEAVY RAIN -心の軋むとき-
+      - Heavy Rain -心のきしみ-
   - canonicalName: HELLMART
   - canonicalName: Hello Kitty Island Adventure
     aliases:
@@ -1677,6 +1699,7 @@ entries:
   - canonicalName: Keep Talking and Nobody Explodes
     aliases:
       - キープトーキングアンドノーバディエクスプローズ
+      - 爆弾解除
   - canonicalName: Kemono Teatime
     aliases:
       - ケモノティータイム
@@ -2679,11 +2702,18 @@ entries:
   - canonicalName: Shadow Corridor
     aliases:
       - Shadow Corridor　影廊
+      - 影廊
+      - 影廊 -Shadow Corridor-
+      - カゲロウ
+      - 影牢
   - canonicalName: Shadow Corridor 2 雨ノ四葩
     aliases:
       - Shadow Corridor 2
       - 影廊-2
     hypernyms:
+      - 影廊シリーズ
+  - canonicalName: Shadow Corridorシリーズ
+    aliases:
       - 影廊シリーズ
   - canonicalName: Shadows of Doubt
     aliases:
@@ -3372,6 +3402,7 @@ entries:
       - どこかで見た“あのゲー”ムたちを棒人間で作ってみたけれど、果たしてあなたはクリアできるのか？
       - YEAH, YOU WANT THOSE GAMES, RIGHT? SO HERE YOU GO, NOW LET'S SEE YOU
         CLEAR THEM!
+      - あのゲーシリーズ
     hypernyms:
       - あのゲーシリーズ
   - canonicalName: あのゲー2
@@ -3522,6 +3553,8 @@ entries:
     aliases:
       - アナザーゴッドハーデス-奪われたZEUSver.-
   - canonicalName: アビスディア
+    aliases:
+      - ABYSSDIA
   - canonicalName: アベレーション
   - canonicalName: アマガミ
   - canonicalName: アリスの時間迷宮
@@ -3633,6 +3666,7 @@ entries:
   - canonicalName: ウマ娘 プリティーダービー
     aliases:
       - ウマ娘
+      - プリティーダービー
   - canonicalName: ウミガメのスープ
   - canonicalName: ウミガメのスープ2
   - canonicalName: ウラヤマ
@@ -3648,11 +3682,13 @@ entries:
       - ACE COMBAT ZERO
       - ACE COMBAT ZERO THE BELKAN WAR
       - エースコンバット・ゼロ
+      - エースコンバット・ゼロ｜PS2版
   - canonicalName: エースコンバット5 ジ・アンサング・ウォー
     aliases:
       - ACE COMBAT 5
       - 'ACE COMBAT 5: THE UNSUNG WAR'
       - エースコンバット5
+      - エースコンバット5｜PS2版
   - canonicalName: エースコンバット7 スカイズ・アンノウン
     aliases:
       - エースコンバット7
@@ -3856,6 +3892,8 @@ entries:
       - クライシスコア-FF7-リユニオン
       - クライシス コア -ファイナルファンタジーVII- リユニオン
       - クライシス コア –ファイナルファンタジーVII- リユニオン
+      - CCFF7R
+      - CRISIS CORE -FINAL FANTASY VII- REUNION
   - canonicalName: クライマキナ/CRYMACHINA
     aliases:
       - クライマキナ
@@ -4055,6 +4093,7 @@ entries:
   - canonicalName: コール オブ デューティ ブラックオプス7
     aliases:
       - 'Call of Duty: Black Ops 7'
+      - CoD:BO7
     hypernyms:
       - コール オブ デューティシリーズ
   - canonicalName: コール オブ デューティ モダン・ウォーフェア
@@ -4411,6 +4450,8 @@ entries:
   - canonicalName: スターフォックス
     aliases:
       - Star Fox
+      - スターフォックスシリーズ
+      - Star Fox series
     hypernyms:
       - スターフォックスシリーズ
   - canonicalName: スターフォックス64
@@ -4453,6 +4494,7 @@ entries:
       - sf6
       - スト6
       - ストリートファイターシックス
+      - ストリートファイター6シリーズ
     hypernyms:
       - ストリートファイターシリーズ
       - ストリートファイター
@@ -4867,6 +4909,8 @@ entries:
   - canonicalName: ディノクライシス
     aliases:
       - Dino Crisis
+      - ディノクライシスシリーズ
+      - Dino Crisis series
     hypernyms:
       - ディノクライシスシリーズ
   - canonicalName: デヴィエーション・ゲーム
@@ -4885,6 +4929,7 @@ entries:
       - Death Stranding 2
       - デス・ストランディング2
       - 'DEATH STRANDING 2: ON THE BEACH'
+      - デススト2
   - canonicalName: テストプレイをサボりすぎたRPG
   - canonicalName: デッドライジング
     aliases:
@@ -4909,6 +4954,9 @@ entries:
   - canonicalName: デッドライジング デラックスリマスター
     hypernyms:
       - デッドライジングシリーズ
+    aliases:
+      - デッドライジングDR
+      - DRDR
   - canonicalName: テトテコネクト
   - canonicalName: テトリス
   - canonicalName: テニスの王子様 ドキドキサバイバル
@@ -4980,6 +5028,7 @@ entries:
     aliases:
       - Doki Doki Literature Club!
       - Doki Doki Literature Club! (ドキドキ文芸部！)
+      - DDLC
   - canonicalName: ドキドキ文芸部プラス
   - canonicalName: ドクターマリオ
   - canonicalName: ドッグス・オーガナイズド・ネートリー
@@ -5003,6 +5052,7 @@ entries:
     aliases:
       - ドラクエI
       - ドラゴンクエストI
+      - ドラクエ1
     hypernyms:
       - ドラゴンクエストシリーズ
   - canonicalName: ドラゴンクエスト ダイの大冒険 -魂の絆-
@@ -5018,6 +5068,9 @@ entries:
     aliases:
       - ドラクエ3
       - ドラゴンクエストIII
+      - SFC版 ドラゴンクエストIII そして伝説へ…
+      - SFC版ドラクエ3
+      - スーパーファミコン版 ドラゴンクエストIII そして伝説へ…
     hypernyms:
       - ドラゴンクエストシリーズ
   - canonicalName: ドラゴンクエストIV 導かれし者たち
@@ -5106,6 +5159,9 @@ entries:
       - ドラゴンクエスト3 そして伝説へ…
       - ドラゴンクエストIII そして伝説へ… (HD-2D版)
       - ドラゴンクエストIII そして伝説へ…（リメイク版）
+      - ドラクエ3リメイク
+      - ドラゴンクエストIII HD-2D版
+      - ドラクエ3 HD-2Dリメイク
     hypernyms:
       - ドラゴンクエストシリーズ
   - canonicalName: ドラゴンクエストシリーズ
@@ -5166,8 +5222,12 @@ entries:
     aliases:
       - ドラゴンボール 激戦スクアドラ
       - ドラゴンボール 激闘！スクアドラ
+      - ゲキシン スクアドラ
+      - DRAGON BALL GEKISHIN SQUADRA
+      - ゲキスク
     hypernyms:
       - ドラゴンボールシリーズ
+      - ドラゴンボール
   - canonicalName: ドラゴンボール ザ ブレイカーズ
     hypernyms:
       - ドラゴンボールシリーズ
@@ -5515,8 +5575,10 @@ entries:
   - canonicalName: バトルフィールド 6
     aliases:
       - Battlefield 6
+      - BF6
     hypernyms:
       - バトルフィールドシリーズ
+      - Battlefield
   - canonicalName: バトルフィールド1942
     aliases:
       - Battlefield 1942
@@ -5593,6 +5655,7 @@ entries:
       - パワプロ
       - 実況パワフルプロ野球
       - パワプロ(実況パワフルプロ野球)
+      - パワプロシリーズ
   - canonicalName: バンジョーとカズーイの大冒険
   - canonicalName: パンチアウト!!
   - canonicalName: ひぐらしのなく頃に
@@ -5943,6 +6006,7 @@ entries:
     aliases:
       - ポケットモンスター ルビー
       - ポケットモンスター サファイア
+      - ポケモンルビー
   - canonicalName: ポケットモンスター 金・銀
     hypernyms:
       - ポケットモンスターシリーズ
@@ -5951,6 +6015,7 @@ entries:
       - ポケットモンスター 銀
       - ポケットモンスター キン・ギン
       - ポケットモンスター金・銀シリーズ
+      - ポケモン銀
   - canonicalName: ポケットモンスター 赤・緑
     hypernyms:
       - ポケットモンスターシリーズ
@@ -5993,8 +6058,12 @@ entries:
     aliases:
       - ポケットモンスター ZA
       - ポケモンレジェンズZ-A
+      - ポケモンZA
+      - ポケモンLZA
+      - 新作!! ポケモンZA
     hypernyms:
       - Pokémon LEGENDSシリーズ
+      - ポケットモンスターシリーズ
   - canonicalName: Pokémon LEGENDS アルセウス
     aliases:
       - ポケモンレジェンドアルセウス
@@ -6132,6 +6201,8 @@ entries:
       - マリオカート8DX
       - マリオカートDX8
       - Mario Kart 8DX
+      - マリカ8DX
+      - MK8D
     hypernyms:
       - マリオカートシリーズ
   - canonicalName: マリオカートDS
@@ -6764,11 +6835,6 @@ entries:
   - canonicalName: 嘘を整理する
   - canonicalName: 運任せの召喚士
   - canonicalName: 運命のトリガー
-  - canonicalName: 影廊 -Shadow Corridor-
-    aliases:
-      - カゲロウ
-      - 影牢
-      - 影廊
   - canonicalName: 英雄伝説 軌跡シリーズ
     aliases:
       - 奇跡シリーズ
@@ -6804,6 +6870,9 @@ entries:
     aliases:
       - LOST JUDGMENT 海藤正治の事件簿
       - "Lost Judgment: The Kaito Files"
+      - LOST JUDGMENT：裁かれざる記憶 海藤正治の事件簿
+    hypernyms:
+      - "LOST JUDGMENT: 裁かれざる記憶"
   - canonicalName: 街 運命の交差点
   - canonicalName: 学園アイドルマスター
     aliases:
@@ -7158,6 +7227,8 @@ entries:
   - canonicalName: 仁王
     aliases:
       - 仁王1
+      - 仁王シリーズ
+      - Nioh
   - canonicalName: 仁王2
   - canonicalName: 数字でGO
   - canonicalName: 数字でIQクイズ
@@ -7275,6 +7346,8 @@ entries:
   - canonicalName: 戦国無双
   - canonicalName: 閃刀姫
   - canonicalName: 全国一般人常識チェック
+    aliases:
+      - 全国一般人常識クイズ
   - canonicalName: 創作ハンバーガー堂
   - canonicalName: 双天の守護者
   - canonicalName: 葬回診
@@ -7481,6 +7554,7 @@ entries:
       - 日本事故物件監視協会 Japan Stigmatized Property
       - 日本事故物件監視協会 / JSP
       - JSP
+      - JSP/日本事故物件監視協会
     hypernyms:
       - 日本事故物件監視協会シリーズ
   - canonicalName: 日本事故物件監視協会2 -Japan Stigmatized Property-
@@ -7749,6 +7823,8 @@ entries:
   - canonicalName: 龍が如く 極
     hypernyms:
       - 龍が如くシリーズ
+    aliases:
+      - 龍が如く 極 シリーズ
   - canonicalName: 龍が如く 極2
     hypernyms:
       - 龍が如くシリーズ
@@ -8339,3 +8415,32 @@ entries:
       - Pokémon Detective Pikachu
     hypernyms:
       - ポケットモンスターシリーズ
+  - canonicalName: 鬼子母 Hariti
+    aliases:
+      - Hariti
+  - canonicalName: エースコンバットシリーズ
+    aliases:
+      - エースコンバット
+      - ACE COMBAT
+  - canonicalName: ご応募ありがとうございます
+    aliases:
+      - Thank You For Your Application
+  - canonicalName: スーパードンキーコングシリーズ
+    aliases:
+      - Super Donkey Kong series
+    hypernyms:
+      - ドンキーコングシリーズ
+  - canonicalName: 空の軌跡 the 1st
+    aliases:
+      - Trails in the Sky the 1st
+      - 英雄伝説 空の軌跡 the 1st
+    hypernyms:
+      - 英雄伝説 空の軌跡
+  - canonicalName: 首都高バトルシリーズ
+    aliases:
+      - 首都バト
+  - canonicalName: 星のカービィ ディスカバリー Nintendo Switch 2 Edition ＋ スターリーワールド
+    aliases:
+      - 星のカービィ ディスカバリー スターリーワールド
+    hypernyms:
+      - 星のカービィシリーズ

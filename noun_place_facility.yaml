@@ -305,3 +305,27 @@ entries:
       - Nakayama Racecourse
     hypernyms:
       - 競馬場
+  - canonicalName: CLUB CITTA'
+    aliases:
+      - クラブチッタ
+  - canonicalName: 箱根ガラスの森美術館
+    aliases:
+      - ガラスの森美術館
+    hypernyms:
+      - 美術館
+  - canonicalName: 小倉競輪場
+    aliases:
+      - 小倉けいりん
+  - canonicalName: 中京競馬場
+    aliases:
+      - Chukyo Racecourse
+    hypernyms:
+      - 競馬場
+  - canonicalName: 東京国際フォーラム ホールA
+    aliases:
+      - Tokyo International Forum Hall A
+    hypernyms:
+      - 東京国際フォーラム
+  - canonicalName: 備前陶芸センター
+    aliases:
+      - Bizen pottery center

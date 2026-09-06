@@ -276,3 +276,111 @@ entries:
   - canonicalName: 桃太郎
     aliases:
       - Momotaro
+  - canonicalName: ガノンドロフ
+    aliases:
+      - ガノンドルフ
+      - Ganondorf
+    hypernyms:
+      - ゼルダの伝説シリーズ
+  - canonicalName: クレア・レッドフィールド
+    aliases:
+      - Claire Redfield
+    hypernyms:
+      - バイオハザードシリーズ
+  - canonicalName: ケフカ・パラッツォ
+    aliases:
+      - ケフカ
+    hypernyms:
+      - ファイナルファンタジーⅥ
+  - canonicalName: オズムンド・サドラー
+    aliases:
+      - サドラー
+    hypernyms:
+      - バイオハザードシリーズ
+  - canonicalName: さはら
+    aliases:
+      - Sahara
+  - canonicalName: シェリー・バーキン
+    aliases:
+      - Sherry Birkin
+    hypernyms:
+      - バイオハザード
+  - canonicalName: ジガルデ
+    aliases:
+      - Zygarde
+    hypernyms:
+      - ポケモン
+  - canonicalName: ダイワスカーレット
+    aliases:
+      - Daiwa Scarlet
+    hypernyms:
+      - ウマ娘 プリティーダービー
+  - canonicalName: タマモクロス
+    aliases:
+      - Tamamo Cross
+    hypernyms:
+      - ウマ娘 プリティーダービー
+  - canonicalName: ティファ・ロックハート
+    aliases:
+      - Tifa Lockhart
+    hypernyms:
+      - ファイナルファンタジーVIIシリーズ
+  - canonicalName: ナナヲアカリ
+    aliases:
+      - Nanaoakari
+  - canonicalName: バーダック
+    aliases:
+      - Bardock
+    hypernyms:
+      - ドラゴンボール
+  - canonicalName: フリーダムガンダム
+    aliases:
+      - FREEDOM GUNDAM
+    hypernyms:
+      - 機動戦士ガンダムSEED
+  - canonicalName: ポール・ゴーギャン
+    aliases:
+      - Paul Gauguin
+      - ゴーガン
+  - canonicalName: ミスター・サタン
+    aliases:
+      - Mr. Satan
+    hypernyms:
+      - ドラゴンボールシリーズ
+  - canonicalName: リンク
+    aliases:
+      - Link
+    hypernyms:
+      - ゼルダの伝説シリーズ
+  - canonicalName: 塩野海
+    aliases:
+      - Kai Shiono
+  - canonicalName: 宮園拓真
+    aliases:
+      - Takuma Miyazono
+  - canonicalName: 佐々木朗希
+    aliases:
+      - Roki Sasaki
+  - canonicalName: 山本由伸
+    aliases:
+      - Yoshinobu Yamamoto
+  - canonicalName: 杉田智和
+    aliases:
+      - Tomokazu Sugita
+  - canonicalName: 西村歩乃果
+    aliases:
+      - 西村ほのか
+      - ほのぴぃ
+  - canonicalName: 多井隆晴
+    aliases:
+      - おおい たかはる
+      - Takaharu Oi
+      - takachannel
+  - canonicalName: 大谷翔平
+    aliases:
+      - Shohei Ohtani
+  - canonicalName: 桃白白
+    aliases:
+      - タオパイパイ
+    hypernyms:
+      - ドラゴンボール

@@ -283,6 +283,8 @@ entries:
       - Co-streaming
       - 同時視聴/Watchalong
       - Watchalong
+      - 🔴同時視聴
+      - 初配信同時視聴
   - canonicalName: コラボ
     aliases:
       - コラボレーション
@@ -307,6 +309,7 @@ entries:
     aliases:
       - Minecraft Hardcore
       - Minecraftのハードコアモード
+      - Minecraft/ハードコア
     hypernyms:
       - Minecraft
   - canonicalName: パチスロ
@@ -353,6 +356,9 @@ entries:
     aliases:
       - オフラインコラボ
       - オフコラボ配信
+      - オフコラボ🏠
+      - 🏡オフコラボ
+      - 🔴オフコラボ
   - canonicalName: パ・リーグ
     aliases:
       - パシフィック・リーグ
@@ -384,3 +390,27 @@ entries:
   - canonicalName: 縦型雑談
     aliases:
       - 縦型雑談配信
+  - canonicalName: 3D歌枠
+    aliases:
+      - 3D歌枠🎤
+  - canonicalName: 飲酒雑談
+    aliases:
+      - 晩酌雑談
+  - canonicalName: holoIndie応援大使
+    aliases:
+      - 応援大使🎮
+    hypernyms:
+      - holoIndie
+  - canonicalName: 手描き切り抜き
+    aliases:
+      - 手書き切り抜き
+  - canonicalName: 縦型雑談歌枠
+    aliases:
+      - 縦型歌雑談
+    hypernyms:
+      - 縦型配信
+  - canonicalName: 色違い
+    aliases:
+      - 色ちがい
+      - いろちがい
+      - 光るポケモン
