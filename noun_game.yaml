@@ -4138,6 +4138,8 @@ entries:
   - canonicalName: サイコブレイク
     aliases:
       - PsychoBreak
+      - PsychoBreak/サイコブレイク
+    hypernyms: []
   - canonicalName: サイコブレイク2
     aliases:
       - PsychoBreak 2
@@ -5888,6 +5890,10 @@ entries:
   - canonicalName: 'ペルソナ5: The Phantom X'
     hypernyms:
       - ペルソナシリーズ
+    aliases:
+      - P5XJP
+      - P5X
+      - ペルソナ5X
   - canonicalName: ペルソナシリーズ
   - canonicalName: ヘンゼルとグレーテルDS
   - canonicalName: ほくそ笑むリャマ
@@ -8459,3 +8465,9 @@ entries:
     aliases:
       - ピクロス
       - PICROSS
+  - canonicalName: サイコブレイク DLC
+    aliases:
+      - PsychoBreak DLC/サイコブレイクDLC
+      - PsychoBreak DLC
+    hypernyms:
+      - サイコブレイク

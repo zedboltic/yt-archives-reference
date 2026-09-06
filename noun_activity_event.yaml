@@ -1091,6 +1091,7 @@ entries:
     aliases:
       - "#ホロREPO"
       - "#突発ホロREPO"
+      - "#HoloREPO"
     hypernyms:
       - R.E.P.O.
   - canonicalName: SorAZ Major Debut Live「First Gravity」
@@ -1630,6 +1631,9 @@ entries:
   - canonicalName: 赤井はあと 7周年記念
     aliases:
       - 赤井はあと7周年記念グッズ
+      - はあちゃま7周年記念
+      - はあちゃま7周年
+      - はあちゃま7周年記念グッズ
     hypernyms:
       - 赤井はあと
   - canonicalName: 雪花ラミィ 活動1周年記念
@@ -3278,3 +3282,14 @@ entries:
       - ロゼキャンARK
     hypernyms:
       - アキ・ローゼンタール
+  - canonicalName: ホロライブ1期生 7周年記念
+    aliases:
+      - ホロライブ1期生7周年
+      - ホロライブ1期生7周年記念グッズ
+    hypernyms:
+      - ホロライブ1期生
+  - canonicalName: ねねねトワワ3周年記念旅行
+    aliases:
+      - ねねねトワワ3周年記念日
+    hypernyms:
+      - ねねねトワワ
