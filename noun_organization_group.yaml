@@ -1062,3 +1062,8 @@ entries:
     aliases:
       - クローバーワークス
       - CLW
+  - canonicalName: ウォルト・ディズニー・ジャパン株式会社
+    aliases:
+      - ウォルト・ディズニー・ジャパン
+    hypernyms:
+      - ディズニー
