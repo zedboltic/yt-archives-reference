@@ -3253,3 +3253,8 @@ entries:
     aliases:
       - 輪ゴムでスイカ割り
       - スイカ輪ゴム実験
+  - canonicalName: 夏色まつり 活動7周年記念
+    aliases:
+      - 夏色まつり 活動7周年記念グッズ
+    hypernyms:
+      - 夏色まつり
