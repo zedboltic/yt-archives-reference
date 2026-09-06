@@ -4138,6 +4138,8 @@ entries:
   - canonicalName: サイコブレイク
     aliases:
       - PsychoBreak
+      - PsychoBreak/サイコブレイク
+    hypernyms: []
   - canonicalName: サイコブレイク2
     aliases:
       - PsychoBreak 2
