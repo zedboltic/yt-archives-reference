@@ -5890,6 +5890,10 @@ entries:
   - canonicalName: 'ペルソナ5: The Phantom X'
     hypernyms:
       - ペルソナシリーズ
+    aliases:
+      - P5XJP
+      - P5X
+      - ペルソナ5X
   - canonicalName: ペルソナシリーズ
   - canonicalName: ヘンゼルとグレーテルDS
   - canonicalName: ほくそ笑むリャマ
