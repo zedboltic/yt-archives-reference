@@ -88,7 +88,10 @@ jobs:
               if git -C candidate diff --numstat "${PR_BASE_SHA}...origin/noun-review-candidate" \
                 | awk '$2 != 0 { exit 1 }'; then
                 echo "Ordinary rebase conflicted; retrying additive dictionary changes with the union strategy."
-                git -C candidate rebase --merge -X union "origin/${DEFAULT_BRANCH}"
+                # unionはstrategy optionではなく、attributesで指定する組込みmerge driver。
+                # PR側の.gitattributesは使わず、candidateのローカル設定だけで有効化する。
+                printf 'noun_*.yaml merge=union\n' > candidate/.git/info/attributes
+                git -C candidate rebase --merge "origin/${DEFAULT_BRANCH}"
               else
                 echo "The PR contains deleted lines, so union rebase is not permitted." >&2
                 exit 1
