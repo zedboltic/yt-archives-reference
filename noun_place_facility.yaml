@@ -329,3 +329,8 @@ entries:
   - canonicalName: 備前陶芸センター
     aliases:
       - Bizen pottery center
+  - canonicalName: ニジゲンノモリ
+    aliases:
+      - Nijigen no Mori
+    hypernyms:
+      - 兵庫県立淡路島公園
