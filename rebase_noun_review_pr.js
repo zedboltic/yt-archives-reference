@@ -157,9 +157,13 @@ function main(argv = process.argv.slice(2)) {
   const baseRef = options.get("--base-ref");
   const headRef = options.get("--head-ref");
   const changedFilesPath = options.get("--changed-files");
-  if (!repository || !baseRef || !headRef || !changedFilesPath) throw new Error("--repository, --base-ref, --head-ref, --changed-filesが必要です");
+  if (!repository || !baseRef || !headRef) throw new Error("--repository, --base-ref, --head-refが必要です");
 
-  const changedFiles = JSON.parse(fs.readFileSync(changedFilesPath, "utf8"));
+  const changedFiles = changedFilesPath
+    ? JSON.parse(fs.readFileSync(changedFilesPath, "utf8"))
+    : execFileSync("git", ["diff", "--name-only", `${baseRef}...${headRef}`], { cwd: repository, encoding: "utf8" })
+      .split(/\r?\n/u)
+      .filter(Boolean);
   if (!Array.isArray(changedFiles) || changedFiles.some((fileName) => !NOUN_FILE_KINDS.has(fileName))) {
     throw new Error("変更ファイルは許可されたnoun_*.yamlだけである必要があります");
   }
