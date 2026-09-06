@@ -1,4 +1,4 @@
-﻿version: 1
+version: 1
 kind: 活動・イベント・企画
 comment:
   - 配信企画、イベント、コラボ、キャンペーン、ライブ、スポーツ大会、ゲーム大会、展示会、祭り、記念日など
@@ -3278,6 +3278,12 @@ entries:
       - サドンデスバトル
     hypernyms:
       - 大乱闘スマッシュブラザーズ
+  - canonicalName: hololive SUPER EXPO 2025 後夜祭 ~bonus stage~
+    aliases:
+      - hololive SUPER EXPO 2025 後後祭 ~bonus stage~
+      - hololive SUPER EXPO 2025 後後夜祭 ~bonus stage~
+    hypernyms:
+      - hololive SUPER EXPO
   - canonicalName: AKIROSE CAMP -SURVIVAL BLOOM in ARK-
     aliases:
       - ロゼキャンARK
