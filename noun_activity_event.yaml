@@ -1091,6 +1091,7 @@ entries:
     aliases:
       - "#ホロREPO"
       - "#突発ホロREPO"
+      - "#HoloREPO"
     hypernyms:
       - R.E.P.O.
   - canonicalName: SorAZ Major Debut Live「First Gravity」
@@ -1346,6 +1347,7 @@ entries:
   - canonicalName: ときのそら 誕生日記念2025
     aliases:
       - ときのそら誕生日記念グッズ2025
+      - ときのそらお披露目誕生日2025
     hypernyms:
       - ときのそら
   - canonicalName: 輪堂千速 ニックの日記念
@@ -1630,6 +1632,9 @@ entries:
   - canonicalName: 赤井はあと 7周年記念
     aliases:
       - 赤井はあと7周年記念グッズ
+      - はあちゃま7周年記念
+      - はあちゃま7周年
+      - はあちゃま7周年記念グッズ
     hypernyms:
       - 赤井はあと
   - canonicalName: 雪花ラミィ 活動1周年記念
@@ -3278,3 +3283,33 @@ entries:
       - AZKi 活動6周年記念グッズ
     hypernyms:
       - AZKi
+  - canonicalName: GeoGuessr World Championship 2025
+    aliases:
+      - GeoGuessr World Championships 2025
+    hypernyms:
+      - GeoGuessr World Championship
+  - canonicalName: hololive SUPER EXPO 2025 後夜祭 ~bonus stage~
+    aliases:
+      - hololive SUPER EXPO 2025 後後祭 ~bonus stage~
+      - hololive SUPER EXPO 2025 後後夜祭 ~bonus stage~
+    hypernyms:
+      - hololive SUPER EXPO
+  - canonicalName: AKIROSE CAMP -SURVIVAL BLOOM in ARK-
+    aliases:
+      - ロゼキャンARK
+    hypernyms:
+      - アキ・ローゼンタール
+  - canonicalName: ホロライブ1期生 7周年記念
+    aliases:
+      - ホロライブ1期生7周年
+      - ホロライブ1期生7周年記念グッズ
+    hypernyms:
+      - ホロライブ1期生
+  - canonicalName: ねねねトワワ3周年記念旅行
+    aliases:
+      - ねねねトワワ3周年記念日
+    hypernyms:
+      - ねねねトワワ
+  - canonicalName: ホロ落選マリカ
+    aliases:
+      - hololive落選マリカ
