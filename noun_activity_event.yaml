@@ -1091,6 +1091,7 @@ entries:
     aliases:
       - "#ホロREPO"
       - "#突発ホロREPO"
+      - "#HoloREPO"
     hypernyms:
       - R.E.P.O.
   - canonicalName: SorAZ Major Debut Live「First Gravity」
