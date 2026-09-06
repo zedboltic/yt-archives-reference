@@ -1630,6 +1630,9 @@ entries:
   - canonicalName: 赤井はあと 7周年記念
     aliases:
       - 赤井はあと7周年記念グッズ
+      - はあちゃま7周年記念
+      - はあちゃま7周年
+      - はあちゃま7周年記念グッズ
     hypernyms:
       - 赤井はあと
   - canonicalName: 雪花ラミィ 活動1周年記念
@@ -3279,3 +3282,8 @@ entries:
       - ホロライブ1期生7周年記念グッズ
     hypernyms:
       - ホロライブ1期生
+  - canonicalName: ねねねトワワ3周年記念旅行
+    aliases:
+      - ねねねトワワ3周年記念日
+    hypernyms:
+      - ねねねトワワ
