@@ -387,6 +387,12 @@ entries:
   - canonicalName: ダニー・ボイル
     aliases:
       - Danny Boyle
+  - canonicalName: DYES IWASAKI
+    aliases:
+      - ダイスイワサキ
+      - DYES IWASAKI(FAKE TYPE.)
+    hypernyms:
+      - FAKE TYPE.
   - canonicalName: アレックス・ガーランド
     aliases:
       - Alex Garland
