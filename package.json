@@ -1,0 +1,13 @@
+{
+  "name": "yt-archives-reference",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "validate": "node validator.js"
+  },
+  "dependencies": {
+    "wanakana": "5.3.1",
+    "yaml": "2.9.0"
+  }
+}
