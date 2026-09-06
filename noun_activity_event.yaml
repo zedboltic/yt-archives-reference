@@ -399,6 +399,12 @@ entries:
   - canonicalName: 風真いろは生誕LIVE2025
     aliases:
       - 風真いろは生誕ライブ2025
+      - 風真いろは 誕生日記念2025
+      - 風真いろは 誕生日記念2025 グッズ
+      - 風真いろは 誕生日記念2025 フルセット
+      - 風真いろは 誕生日記念2025 ぬいぐるみ
+    hypernyms:
+      - 風真いろは
   - canonicalName: HOLOIDCUP2023
     aliases:
       - ホロお正月CUP2023
