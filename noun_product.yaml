@@ -253,6 +253,9 @@ entries:
   - canonicalName: PlayStation 2
     aliases:
       - プレイステーション2
+      - PS2
+    hypernyms:
+      - PlayStation
   - canonicalName: PlayStation 5
     aliases:
       - PS5
