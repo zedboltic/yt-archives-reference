@@ -5689,6 +5689,9 @@ entries:
   - canonicalName: ヒットマン
     aliases:
       - HITMAN
+      - HITMAN1
+    hypernyms:
+      - ヒットマンシリーズ
   - canonicalName: ヒットマン ワールド・オブ・アサシネーション
     aliases:
       - HITMAN World of Assassination
