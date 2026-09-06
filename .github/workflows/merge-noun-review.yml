@@ -1,0 +1,133 @@
+name: Validate and merge noun review
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review]
+
+concurrency:
+  group: noun-review-auto-merge
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  validate-and-merge:
+    if: >-
+      github.event.pull_request.head.repo.full_name == github.repository &&
+      startsWith(github.event.pull_request.head.ref, 'noun-review/')
+    runs-on: ubuntu-latest
+
+    steps:
+      # pull_request_targetでもrefを省略せず、信頼済みのdefault branchだけを取得する。
+      - name: Check out trusted workflow dependencies
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          path: trusted
+          persist-credentials: false
+
+      - name: Install trusted validator dependencies
+        working-directory: trusted
+        run: npm ci --ignore-scripts
+
+      - name: Test trusted validator
+        working-directory: trusted
+        run: npm test
+
+      - name: Create repository token
+        id: repository-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ secrets.ARCHIVE_APP_CLIENT_ID }}
+          private-key: ${{ secrets.ARCHIVE_APP_PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
+          repositories: ${{ github.event.repository.name }}
+          permission-contents: write
+          permission-pull-requests: write
+          permission-issues: write
+
+      - name: Read changed file list
+        env:
+          GH_TOKEN: ${{ steps.repository-token.outputs.token }}
+          REPOSITORY: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          gh api --paginate \
+            -H "Accept: application/vnd.github+json" \
+            "/repos/${REPOSITORY}/pulls/${PR_NUMBER}/files?per_page=100" \
+            --jq '.[].filename' | jq -R -s 'split("\n") | map(select(length > 0))' > "$RUNNER_TEMP/changed-files.json"
+
+      - name: Create candidate tree on latest default branch
+        env:
+          GH_TOKEN: ${{ steps.repository-token.outputs.token }}
+          REPOSITORY: ${{ github.repository }}
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          git clone "https://x-access-token:${GH_TOKEN}@github.com/${REPOSITORY}.git" candidate
+          git -C candidate fetch origin "${DEFAULT_BRANCH}"
+          git -C candidate fetch origin "pull/${PR_NUMBER}/head:refs/remotes/origin/noun-review-candidate"
+          git -C candidate checkout -B validation-base "origin/${DEFAULT_BRANCH}"
+          git -C candidate rev-parse "origin/${DEFAULT_BRANCH}" > "$RUNNER_TEMP/validated-base-sha"
+          git -C candidate -c user.name=github-actions -c user.email=github-actions@github.com \
+            merge --no-commit --no-ff "origin/noun-review-candidate"
+
+      - name: Validate PR metadata and candidate dictionary
+        id: validate
+        continue-on-error: true
+        env:
+          EVENT_PATH: ${{ github.event_path }}
+        run: |
+          set -o pipefail
+          node trusted/validator.js \
+            --directory candidate \
+            --event "$EVENT_PATH" \
+            --changed-files "$RUNNER_TEMP/changed-files.json" \
+            --expected-author '${{ steps.repository-token.outputs.app-slug }}[bot]' \
+            2>&1 | tee "$RUNNER_TEMP/validation.log"
+
+      - name: Report validation failure
+        if: steps.validate.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ steps.repository-token.outputs.token }}
+          REPOSITORY: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          {
+            echo '自動マージ前の辞書検証に失敗しました。PRはマージしていません。'
+            echo
+            echo '```text'
+            head -c 60000 "$RUNNER_TEMP/validation.log"
+            echo
+            echo '```'
+          } > "$RUNNER_TEMP/comment.md"
+          gh api --method POST "/repos/${REPOSITORY}/issues/${PR_NUMBER}/comments" -F body=@"$RUNNER_TEMP/comment.md"
+          exit 1
+
+      - name: Merge validated pull request
+        env:
+          GH_TOKEN: ${{ steps.repository-token.outputs.token }}
+          REPOSITORY: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          validated_base=$(cat "$RUNNER_TEMP/validated-base-sha")
+          current_base=$(gh api "/repos/${REPOSITORY}/git/ref/heads/${DEFAULT_BRANCH}" --jq '.object.sha')
+          if [ "$validated_base" != "$current_base" ]; then
+            echo "Default branch changed after validation; refusing to merge an unvalidated combination."
+            exit 1
+          fi
+          result=$(gh api --method PUT "/repos/${REPOSITORY}/pulls/${PR_NUMBER}/merge" \
+            -f merge_method=squash \
+            -f sha="$HEAD_SHA")
+          echo "$result" | jq -e '.merged == true'
+
+      - name: Delete merged branch
+        env:
+          GH_TOKEN: ${{ steps.repository-token.outputs.token }}
+          REPOSITORY: ${{ github.repository }}
+          HEAD_REF: ${{ github.event.pull_request.head.ref }}
+        run: |
+          gh api --method DELETE "/repos/${REPOSITORY}/git/refs/heads/${HEAD_REF}"
