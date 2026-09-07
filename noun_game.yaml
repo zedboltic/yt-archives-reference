@@ -4172,6 +4172,8 @@ entries:
   - canonicalName: サガ フロンティア2 リマスター
     hypernyms:
       - サガフロンティアシリーズ
+    aliases:
+      - サガフロ2リマスター
   - canonicalName: サガ2 秘宝伝説
   - canonicalName: サガシリーズ
   - canonicalName: サカバンバスピスクロニクル
