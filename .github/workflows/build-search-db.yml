@@ -49,6 +49,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: reference
+          # PR作成時は定時処理後に発行する書込用tokenへ切り替える。
+          persist-credentials: false
 
       - name: Check out build tools
         uses: actions/checkout@v4
@@ -121,6 +123,39 @@ jobs:
         if: always()
         working-directory: tools
         run: node tool/upload_automation_log.js "$RUNNER_TEMP/automation.log"
+
+      - name: Check scheduled noun review result
+        id: noun-review-result
+        working-directory: tools
+        run: |
+          if [ -f work/scheduled_noun_review.json ]; then
+            echo "available=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "available=false" >> "$GITHUB_OUTPUT"
+            echo "Scheduled noun review result was not generated; proposal creation is skipped."
+          fi
+
+      - name: Create noun review proposal token
+        if: steps.noun-review-result.outputs.available == 'true'
+        id: noun-review-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ secrets.ARCHIVE_APP_CLIENT_ID }}
+          private-key: ${{ secrets.ARCHIVE_APP_PRIVATE_KEY }}
+          owner: zedboltic
+          repositories: yt-archives-reference
+          permission-contents: write
+          permission-pull-requests: write
+          permission-issues: write
+
+      - name: Create noun review proposals
+        if: steps.noun-review-result.outputs.available == 'true'
+        working-directory: tools
+        env:
+          GITHUB_TOKEN: ${{ steps.noun-review-token.outputs.token }}
+        run: |
+          git -C ../reference remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/zedboltic/yt-archives-reference.git"
+          npm run noun-review:propose -- --input work/scheduled_noun_review.json --apply --reference-dir ../reference
 
       - name: Create view push token
         id: view-push-token
