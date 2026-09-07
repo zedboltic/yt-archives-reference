@@ -3313,3 +3313,8 @@ entries:
   - canonicalName: ホロ落選マリカ
     aliases:
       - hololive落選マリカ
+  - canonicalName: 天音かなた 誕生日記念
+    aliases:
+      - 天音かなた生誕祭
+    hypernyms:
+      - 天音かなた
