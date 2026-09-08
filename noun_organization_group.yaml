@@ -1072,6 +1072,11 @@ entries:
       - 戌神ころね/紫咲シオン
     hypernyms:
       - ホロライブ
+  - canonicalName: 1NF
+    aliases:
+      - 1NFWIN
+    hypernyms:
+      - VTuber最協決定戦
   - canonicalName: ガイル村
     aliases:
       - ガイル村WIN
