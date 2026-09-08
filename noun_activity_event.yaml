@@ -3317,3 +3317,9 @@ entries:
     aliases:
       - ベイブレードドドド杯
       - 角巻わためベイブレード杯
+  - canonicalName: Nintendo Direct 2025.4.2
+    aliases:
+      - "Nintendo Direct: Nintendo Switch 2 - 4.2.2025"
+      - "Nintendo Direct: Nintendo Switch 2 - 2025.4.2"
+    hypernyms:
+      - Nintendo Direct
