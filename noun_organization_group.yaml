@@ -1075,6 +1075,9 @@ entries:
   - canonicalName: ひいろうず
     aliases:
       - ひいろうずWIN
+  - canonicalName: 1NF
+    aliases:
+      - 1NFWIN
     hypernyms:
       - VTuber最協決定戦
   - canonicalName: ガイル村
