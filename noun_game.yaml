@@ -3336,6 +3336,10 @@ entries:
     aliases:
       - ワイルドハーツ
   - canonicalName: WIND BREAKER 不良たちの英雄譚
+    aliases:
+      - ウィンヒロ
+    hypernyms:
+      - WIND BREAKER
   - canonicalName: Windjammers 2 - フライング・パワー・ディスク
     aliases:
       - Windjammers 2
