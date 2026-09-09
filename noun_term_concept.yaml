@@ -414,3 +414,8 @@ entries:
       - 色ちがい
       - いろちがい
       - 光るポケモン
+  - canonicalName: Artnose
+    aliases:
+      - 音乃瀬奏ファンアート
+    hypernyms:
+      - 音乃瀬奏
