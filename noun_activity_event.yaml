@@ -3317,3 +3317,8 @@ entries:
     aliases:
       - ベイブレードドドド杯
       - 角巻わためベイブレード杯
+  - canonicalName: アキロゼ生誕祭
+    aliases:
+      - アキ・ローゼンタール生誕祭
+    hypernyms:
+      - アキ・ローゼンタール
