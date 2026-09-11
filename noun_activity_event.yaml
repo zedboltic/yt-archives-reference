@@ -1380,6 +1380,8 @@ entries:
       - ロボ子さん 活動7周年記念グッズ
       - ロボ子さん7周年記念グッズ
       - ロボ子さん7周年記念
+      - ロボ子7周年記念
+      - ロボ子7周年記念配信
     hypernyms:
       - ロボ子さん
   - canonicalName: ロボ子さん 新衣装記念2024
@@ -3329,3 +3331,13 @@ entries:
       - らでん生誕祭2025
     hypernyms:
       - 儒烏風亭らでん
+  - canonicalName: 桃鈴ねね 誕生日記念2025
+    aliases:
+      - 桃鈴ねね生誕祭2025
+    hypernyms:
+      - 桃鈴ねね
+  - canonicalName: 尾丸ポルカ 誕生日記念2025
+    aliases:
+      - 尾丸ポルカ生誕祭2025
+    hypernyms:
+      - 尾丸ポルカ
