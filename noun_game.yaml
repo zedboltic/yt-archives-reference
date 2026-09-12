@@ -6540,6 +6540,13 @@ entries:
   - canonicalName: モンスターハンターワールド:アイスボーン
     hypernyms:
       - モンスターハンターシリーズ
+    aliases:
+      - MHW:IB/モンハンワールド
+      - MHW:IB
+      - MHWI
+      - アイスボーン
+      - モンハンワールドアイスボーン
+      - MHWアイスボーン
   - canonicalName: モンスターハンターワイルズ
     aliases:
       - モンスターハンター ワイルドズ
