@@ -500,6 +500,10 @@ entries:
   - canonicalName: チャンピオンズカップ
   - canonicalName: 中京記念
   - canonicalName: DTTO. CUP
+    aliases:
+      - DTTO. CUP／Apex Legends
+    hypernyms:
+      - Apex Legends
   - canonicalName: D4DJ
   - canonicalName: 東海ステークス
   - canonicalName: 東京ゲームショウ
