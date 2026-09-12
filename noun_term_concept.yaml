@@ -414,3 +414,8 @@ entries:
       - 色ちがい
       - いろちがい
       - 光るポケモン
+  - canonicalName: トライアルチャンバー
+    aliases:
+      - Trial Chamber
+    hypernyms:
+      - Minecraft
