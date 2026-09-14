@@ -107,6 +107,7 @@ entries:
   - canonicalName: Among Us
     aliases:
       - アモングアス
+      - Amoug Us
   - canonicalName: Among Us 3D
   - canonicalName: An automaton's journey
   - canonicalName: ANIMAL WELL
@@ -5175,6 +5176,7 @@ entries:
       - ドラクエ3リメイク
       - ドラゴンクエストIII HD-2D版
       - ドラクエ3 HD-2Dリメイク
+      - ドラゴンクエストIIIリメイク
     hypernyms:
       - ドラゴンクエストシリーズ
   - canonicalName: ドラゴンクエストシリーズ
@@ -8496,5 +8498,11 @@ entries:
       - ドラクエ10 ver.2
       - ドラゴンクエストX バージョン2
       - DQ10 ver.2
+    hypernyms:
+      - ドラゴンクエストシリーズ
+  - canonicalName: ドラゴンクエストビルダーズ アレフガルドを復活せよ
+    aliases:
+      - ドラゴンクエストビルダーズ
+      - ドラクエビルダーズ
     hypernyms:
       - ドラゴンクエストシリーズ
