@@ -107,6 +107,7 @@ entries:
   - canonicalName: Among Us
     aliases:
       - アモングアス
+      - Amoug Us
   - canonicalName: Among Us 3D
   - canonicalName: An automaton's journey
   - canonicalName: ANIMAL WELL
@@ -4212,6 +4213,11 @@ entries:
       - 静かなお掃除
   - canonicalName: しばきあげパンチング
   - canonicalName: じゃんつの -Janken Horn-
+    aliases:
+      - じゃんつの
+      - Janken Horn
+    hypernyms:
+      - holo Indie
   - canonicalName: しょぼんのアクション
   - canonicalName: しょぼんのるきみん!
   - canonicalName: しょぼんのるきみん!しょぼみと幻の遺跡
@@ -5175,6 +5181,7 @@ entries:
       - ドラクエ3リメイク
       - ドラゴンクエストIII HD-2D版
       - ドラクエ3 HD-2Dリメイク
+      - ドラゴンクエストIIIリメイク
     hypernyms:
       - ドラゴンクエストシリーズ
   - canonicalName: ドラゴンクエストシリーズ
@@ -6540,10 +6547,20 @@ entries:
   - canonicalName: モンスターハンターワールド:アイスボーン
     hypernyms:
       - モンスターハンターシリーズ
+    aliases:
+      - MHW:IB/モンハンワールド
+      - MHW:IB
+      - MHWI
+      - アイスボーン
+      - モンハンワールドアイスボーン
+      - MHWアイスボーン
   - canonicalName: モンスターハンターワイルズ
     aliases:
       - モンスターハンター ワイルドズ
       - モンハンワイルズ
+      - MHWilds | PS5版
+      - Monster Hunter Wilds
+      - MHWilds
     hypernyms:
       - モンスターハンターシリーズ
   - canonicalName: モンスターファーム
@@ -8501,3 +8518,9 @@ entries:
   - canonicalName: Astraeos
     aliases:
       - ASA￤Astraeos
+  - canonicalName: ドラゴンクエストビルダーズ アレフガルドを復活せよ
+    aliases:
+      - ドラゴンクエストビルダーズ
+      - ドラクエビルダーズ
+    hypernyms:
+      - ドラゴンクエストシリーズ
