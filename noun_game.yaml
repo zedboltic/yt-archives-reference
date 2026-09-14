@@ -4213,6 +4213,11 @@ entries:
       - 静かなお掃除
   - canonicalName: しばきあげパンチング
   - canonicalName: じゃんつの -Janken Horn-
+    aliases:
+      - じゃんつの
+      - Janken Horn
+    hypernyms:
+      - holo Indie
   - canonicalName: しょぼんのアクション
   - canonicalName: しょぼんのるきみん!
   - canonicalName: しょぼんのるきみん!しょぼみと幻の遺跡
