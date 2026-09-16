@@ -414,3 +414,8 @@ entries:
       - 色ちがい
       - いろちがい
       - 光るポケモン
+  - canonicalName: リアル凸待ち
+    aliases:
+      - リア凸待ち
+    hypernyms:
+      - 凸待ち
