@@ -3368,3 +3368,8 @@ entries:
   - canonicalName: ふれたこーん
     aliases:
       - fltakon
+  - canonicalName: ホロライブ×ロードモバイルコラボ
+    aliases:
+      - ホロロバ
+    hypernyms:
+      - ホロライブ
