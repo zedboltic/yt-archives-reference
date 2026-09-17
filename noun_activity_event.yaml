@@ -3368,3 +3368,8 @@ entries:
   - canonicalName: ふれたこーん
     aliases:
       - fltakon
+  - canonicalName: ゆるホロGFトーナメント2nd
+    aliases:
+      - ゆるゆるゴッドフィールドトーナメント2nd
+    hypernyms:
+      - ゆるホロGFトーナメントシリーズ
