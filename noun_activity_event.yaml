@@ -3368,3 +3368,8 @@ entries:
   - canonicalName: ふれたこーん
     aliases:
       - fltakon
+  - canonicalName: 百鬼あやめ 誕生日記念2024
+    aliases:
+      - 百鬼あやめ生誕祭2024
+    hypernyms:
+      - 百鬼あやめ
