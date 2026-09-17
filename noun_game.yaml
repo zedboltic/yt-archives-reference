@@ -6683,6 +6683,9 @@ entries:
   - canonicalName: レッツプレイ!オインクゲームズ
   - canonicalName: ロイヤルキングダム
   - canonicalName: ロードモバイル
+    aliases:
+      - ローモバ
+      - Lords Mobile
   - canonicalName: ロケットリーグ
   - canonicalName: ロゼと黄昏の古城
   - canonicalName: ロックマン
