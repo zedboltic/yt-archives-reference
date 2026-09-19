@@ -3368,3 +3368,8 @@ entries:
   - canonicalName: ふれたこーん
     aliases:
       - fltakon
+  - canonicalName: 機密解禁フブキングダム
+    aliases:
+      - FBKINGDOM Fest.
+    hypernyms:
+      - 白上フブキ
