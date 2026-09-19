@@ -4452,6 +4452,9 @@ entries:
   - canonicalName: スーパー野田ゲーPARTY
   - canonicalName: スーパー野田ゲーWORLD
   - canonicalName: スゴイツヨイトウフ
+    aliases:
+      - スゴクツヨイトウフ
+      - The Strongest TOFU
   - canonicalName: スターオーシャン
   - canonicalName: スターオーシャン 6 THE DIVINE FORCE
     aliases:
