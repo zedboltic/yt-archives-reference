@@ -1083,3 +1083,9 @@ entries:
   - canonicalName: ガイル村
     aliases:
       - ガイル村WIN
+  - canonicalName: サミー株式会社
+    aliases:
+      - Sammy株式会社
+      - Sammy Corporation
+    hypernyms:
+      - セガサミーグループ
