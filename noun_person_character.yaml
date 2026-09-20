@@ -1,4 +1,4 @@
-version: 1
+﻿version: 1
 kind: 人物・キャラクター
 comment:
   - 実在の人物、架空の人物、キャラクターなど
@@ -403,6 +403,7 @@ entries:
       - Hiroyuki ODA
       - 鼻そうめんP
       - HSP
-  - canonicalName: ふ～ど
+  - canonicalName: 松本梨香
     aliases:
-      - Fuudo
+      - Rica Matsumoto
+      - 梨香姉
