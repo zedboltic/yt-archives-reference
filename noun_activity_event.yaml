@@ -3368,3 +3368,21 @@ entries:
   - canonicalName: ふれたこーん
     aliases:
       - fltakon
+  - canonicalName: ホロライブ×ロードモバイルコラボ
+    aliases:
+      - ホロロバ
+    hypernyms:
+      - ホロライブ
+  - canonicalName: 機密解禁フブキングダム
+    aliases:
+      - FBKINGDOM Fest.
+    hypernyms:
+      - 白上フブキ
+  - canonicalName: 1期生お披露目リレー配信
+    aliases:
+      - 1期生お披露目配信リレー
+  - canonicalName: 百鬼あやめ 誕生日記念2024
+    aliases:
+      - 百鬼あやめ生誕祭2024
+    hypernyms:
+      - 百鬼あやめ
