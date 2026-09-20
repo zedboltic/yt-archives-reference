@@ -1,4 +1,4 @@
-version: 1
+﻿version: 1
 kind: 活動・イベント・企画
 comment:
   - 配信企画、イベント、コラボ、キャンペーン、ライブ、スポーツ大会、ゲーム大会、展示会、祭り、記念日など
@@ -3387,3 +3387,8 @@ entries:
       - 百鬼あやめ生誕祭2024
     hypernyms:
       - 百鬼あやめ
+  - canonicalName: ゆるゆるゴッドフィールドトーナメント2nd
+    aliases:
+      - ゆるホロGFトーナメント2nd
+    hypernyms:
+      - ゆるホロGFトーナメントシリーズ
