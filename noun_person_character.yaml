@@ -1,4 +1,4 @@
-﻿version: 1
+version: 1
 kind: 人物・キャラクター
 comment:
   - 実在の人物、架空の人物、キャラクターなど
@@ -407,3 +407,6 @@ entries:
     aliases:
       - Rica Matsumoto
       - 梨香姉
+  - canonicalName: 板橋ザンギエフ
+    aliases:
+      - 板ザン
