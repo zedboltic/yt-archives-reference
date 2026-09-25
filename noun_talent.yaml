@@ -1135,3 +1135,8 @@ entries:
   - canonicalName: ふ～ど
     aliases:
       - Fuudo
+  - canonicalName: ドンピシャ
+    aliases:
+      - Donpisha
+    hypernyms:
+      - 三人称
