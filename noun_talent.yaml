@@ -1135,3 +1135,8 @@ entries:
   - canonicalName: ふ～ど
     aliases:
       - Fuudo
+  - canonicalName: 或世イヌ
+    aliases:
+      - Aruse Inu
+    hypernyms:
+      - Neo-Porte
