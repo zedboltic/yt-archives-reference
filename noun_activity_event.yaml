@@ -1,4 +1,4 @@
-﻿version: 1
+version: 1
 kind: 活動・イベント・企画
 comment:
   - 配信企画、イベント、コラボ、キャンペーン、ライブ、スポーツ大会、ゲーム大会、展示会、祭り、記念日など
@@ -1542,6 +1542,8 @@ entries:
   - canonicalName: 獅白ぼたん 活動4周年記念
     aliases:
       - 獅白ぼたん4周年記念グッズ
+      - 獅白ぼたん4周年
+      - 獅白ぼたん4周年記念
     hypernyms:
       - 獅白ぼたん
   - canonicalName: 獅白ぼたん 1周年記念
