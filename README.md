@@ -18,6 +18,8 @@ Please open a pull request for either of the following:
 
 For channel additions, use the official YouTube channel ID and provide the display name, `class`, and `cohort` fields. Keep changes focused and avoid unrelated reformatting.
 
+Set `excludeFromSearch: true` on a channel to keep collecting its videos in the master database while excluding its videos and publisher entry from the public search database. The field is optional and defaults to `false`.
+
 ## Alias Dictionary Format
 
 Each `noun_<english-kind>.yaml` has a versioned root object, its fixed `kind`, and an `entries` array.
