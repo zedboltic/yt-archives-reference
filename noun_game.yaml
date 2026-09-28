@@ -5264,6 +5264,8 @@ entries:
   - canonicalName: ドラゴンボール ファイターズ
     hypernyms:
       - ドラゴンボールシリーズ
+    aliases:
+      - DBFZ
   - canonicalName: ドラゴンボールZ KAKAROT
     aliases:
       - ドラゴンボールZ カカロット
