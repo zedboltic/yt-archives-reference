@@ -3940,6 +3940,13 @@ entries:
       - Craftopia / クラフトピア
   - canonicalName: グランサガ
   - canonicalName: グランサガポケット
+    aliases:
+      - GranSagaPocket
+      - グラポケ
+      - "グランサガポケット: KNIGHTSxKNIGHTS"
+      - "Gran Saga Idle: KNIGHTSxKNIGHTS"
+    hypernyms:
+      - グランサガシリーズ
   - canonicalName: グランツーリスモ
   - canonicalName: グランツーリスモ 7
     aliases:
