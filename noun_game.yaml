@@ -4379,6 +4379,9 @@ entries:
   - canonicalName: スーパーマリオギャラクシー
     hypernyms:
       - スーパーマリオシリーズ
+    aliases:
+      - マリオギャラクシー
+      - Super Mario Galaxy
   - canonicalName: スーパーマリオギャラクシー2
     hypernyms:
       - スーパーマリオシリーズ
