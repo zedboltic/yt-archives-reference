@@ -38,10 +38,12 @@ entries:
       - アーニャ
       - Anya Melfissa
       - アイラ・メルフィッサ
+      - Anya
   - canonicalName: アイラニ・イオフィフティーン
     aliases:
       - Airani Iofifteen
       - イオフィ
+      - Iofi
   - canonicalName: アキ・ローゼンタール
     aliases:
       - アキロゼ
@@ -57,33 +59,43 @@ entries:
     aliases:
       - Ayunda Risu
       - リス
+      - Risu
   - canonicalName: エリザベス・ローズ・ブラッドフレイム
     aliases:
       - エリザベス
       - Elizabeth Rose Bloodfream
       - Elizabeth Rose Bloodflame
+      - Elizabeth
+      - Liz
   - canonicalName: オーロ・クロニー
     aliases:
       - クロニー
       - Ouro Crony
+      - Ouro Kronii
+      - Kronii
   - canonicalName: がうる・ぐら
     aliases:
       - ぐら
       - Gawr Gura
+      - Gura
   - canonicalName: カエラ・コヴァルスキア
     aliases:
       - カエラ
       - カエラ神
       - Kaela Kovalskia
+      - Kaela
   - canonicalName: クレイジ・オリー
     aliases:
       - オリー
       - Crazy Olie
       - Kureiji Ollie
+      - クレイジー・オリー
+      - Ollie
   - canonicalName: こぼ・かなえる
     aliases:
       - こぼ
       - Kobo Kanaeru
+      - Kobo
   - canonicalName: さくらみこ
     aliases:
       - みこち
@@ -93,21 +105,26 @@ entries:
     aliases:
       - シオリ
       - Shiori Novella
+      - Shiori
   - canonicalName: ジジ・ムリン
     aliases:
       - ジジ
       - Gigi Mulin
       - Gigi Murin
+      - Gigi
   - canonicalName: セシリア・イマーグリーン
     aliases:
       - セシリア
       - セシ
       - Cecilia Imargreen
       - Cecilia Immergreen
+      - Cecilia
+      - Ceci
   - canonicalName: セレス・ファウナ
     aliases:
       - ファウナ
       - Ceres Fauna
+      - Fauna
   - canonicalName: ときのそら
     aliases:
       - そらちゃん
@@ -120,38 +137,50 @@ entries:
     aliases:
       - ネリッサ
       - nerissa Ravenclaw
+      - Nerissa Ravencroft
+      - Nerissa
   - canonicalName: パヴォリア・レイネ
     aliases:
       - レイネ
       - Reine Pavolia
       - Pavolia Reine
+      - Reine
   - canonicalName: ハコス・ベールズ
     aliases:
       - ハコス
       - ハコ太郎
       - Hakos Baelz
+      - Baelz
+      - Bae
   - canonicalName: フワワ・アビスガード
     aliases:
       - フワワ
       - Fwawa Abyssgard
       - Fuwawa Abyssgard
+      - Fuwawa
   - canonicalName: ベスティア・ゼータ
     aliases:
       - ゼータ
       - Vestia Zeta
+      - Zeta
+      - ゼタ
   - canonicalName: ムーナ・ホシノヴァ
     aliases:
       - Moona Hoshinova
       - ムーナ
+      - Moona
   - canonicalName: モココ・アビスガード
     aliases:
       - モココ
       - Mococo Abyssgard
+      - Mococo
   - canonicalName: ラオーラ・パンテーラ
     aliases:
       - ラオーラ
       - Raora Pantera
       - Raora Panthera
+      - Raora
+      - ラオラ
     hypernyms: []
   - canonicalName: ラプラス・ダークネス
     aliases:
@@ -169,6 +198,9 @@ entries:
       - アメリア
       - アメ
       - Watson Amelia
+      - Amelia Watson
+      - Amelia
+      - Ame
   - canonicalName: 一伊那尓栖
     aliases:
       - にのまえいなにす
@@ -176,6 +208,9 @@ entries:
       - イナ
       - Ninashi Inanis
       - Ninomae Ina'nis
+      - Ninomae Inanis
+      - Ina'nis
+      - Ina
   - canonicalName: 一条莉々華
     aliases:
       - いちじょうりりか
@@ -231,12 +266,19 @@ entries:
     aliases:
       - つくもさな
       - さな
+      - Tsukumo Sana
+      - Sana
   - canonicalName: 古石・ビジュー
     aliases:
       - こせきびじゅー
       - ビジュー
       - ビブ
       - Koséki Bijou
+      - 古石ビジュー
+      - Koseki Bijou
+      - Bijou
+      - Biboo
+      - ビジュ
   - canonicalName: 虎金妃笑虎
     aliases:
       - こがねいにこ
@@ -286,6 +328,7 @@ entries:
       - キアラ
       - キワワ
       - Takanashi Kiara
+      - Kiara
   - canonicalName: 常闇トワ
     aliases:
       - とこやみとわ
@@ -299,6 +342,8 @@ entries:
       - カリ
       - Calliope Mori
       - Mori Calliope
+      - Calliope
+      - Calli
   - canonicalName: 水宮枢
     aliases:
       - みずみやすう
