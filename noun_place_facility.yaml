@@ -337,3 +337,8 @@ entries:
   - canonicalName: 幕張メッセ
     aliases:
       - Makuhari Messe
+  - canonicalName: 新ホロ鯖
+    aliases:
+      - Minecraft hololive Server New World
+    hypernyms:
+      - ホロライブサーバー
