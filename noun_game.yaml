@@ -5976,6 +5976,8 @@ entries:
   - canonicalName: ポケットモンスター ゴールドコイキング
     hypernyms:
       - ポケットモンスターシリーズ
+    aliases:
+      - ポケットモンスターゴールドコイキング/ジム戦編
   - canonicalName: ポケットモンスター スカーレット・バイオレット
     hypernyms:
       - ポケットモンスターシリーズ
