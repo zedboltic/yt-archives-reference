@@ -4258,6 +4258,10 @@ entries:
     aliases:
       - Shadows of Rose
       - シャドウ オブ ローズ
+      - バイオ8 DLC
+      - ウィンターズ エクスパンション
+    hypernyms:
+      - バイオハザード ヴィレッジ
   - canonicalName: シャドウバース
     aliases:
       - Shadowverse
