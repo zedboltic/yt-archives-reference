@@ -124,6 +124,10 @@ entries:
   - canonicalName: Apex Legends Mobile
     aliases:
       - エーペックスレジェンズ モバイル
+      - Apexモバイル
+      - エペモバ
+    hypernyms:
+      - Apex Legends
   - canonicalName: ARC Raiders
     aliases:
       - アークレイダース
