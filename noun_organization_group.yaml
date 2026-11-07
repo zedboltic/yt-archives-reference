@@ -1089,3 +1089,8 @@ entries:
       - Sammy Corporation
     hypernyms:
       - セガサミーグループ
+  - canonicalName: Hololive English 0th Generation
+    aliases:
+      - HoloEN 0
+    hypernyms:
+      - hololive
