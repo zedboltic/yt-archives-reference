@@ -4710,6 +4710,9 @@ entries:
   - canonicalName: ソードアート・オンライン ヴァリアント・ショウダウン
     hypernyms:
       - ソードアート・オンラインシリーズ
+    aliases:
+      - SAOVS
+      - "Sword Art Online: Variant Showdown"
   - canonicalName: ソードアート・オンライン エコーズ・オブ・アインクラッド
     aliases:
       - 'Sword Art Online: Echoes of Aincrad'
