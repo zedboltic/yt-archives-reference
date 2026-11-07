@@ -320,6 +320,8 @@ entries:
   - canonicalName: ミリオンゴッド-神々の凱旋-
   - canonicalName: メガドライブ
   - canonicalName: メガドライブミニ
+    aliases:
+      - メガドラミニ
   - canonicalName: Meta Quest
     aliases:
       - メタクエスト
