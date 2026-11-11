@@ -1,4 +1,4 @@
-﻿version: 1
+version: 1
 kind: 活動・イベント・企画
 comment:
   - 配信企画、イベント、コラボ、キャンペーン、ライブ、スポーツ大会、ゲーム大会、展示会、祭り、記念日など
@@ -1935,6 +1935,8 @@ entries:
   - canonicalName: 尾丸ポルカ 4周年記念
     hypernyms:
       - 尾丸ポルカ
+    aliases:
+      - 尾丸ポルカ 4周年記念グッズ
   - canonicalName: 尾丸ポルカ 5周年記念
     aliases:
       - 尾丸ポルカ 活動5周年記念グッズ
