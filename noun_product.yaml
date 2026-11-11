@@ -1018,6 +1018,10 @@ entries:
     aliases:
       - ホロライブ・オルタナティブ
   - canonicalName: ホロライブ学力診断
+    aliases:
+      - ホロライブ学力診断 中学５教科
+    hypernyms:
+      - ホロライブ
   - canonicalName: ホロライブ・キュリアスユニバース
   - canonicalName: ホロライブミステリー劇場
   - canonicalName: ホロライブミステリー劇場3
