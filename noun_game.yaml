@@ -5009,6 +5009,9 @@ entries:
   - canonicalName: デュエホロ
   - canonicalName: デュエル・マスターズ
   - canonicalName: デュエル・マスターズ プレイス
+    aliases:
+      - デュエプレ
+      - DUEL MASTERS PLAY'S
   - canonicalName: とある魔術の禁書目録 幻想収束
   - canonicalName: どうぶつタワーバトル
     aliases:
