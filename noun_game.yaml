@@ -4167,6 +4167,8 @@ entries:
     hypernyms:
       - サウスパーク
   - canonicalName: サガ エメラルド ビヨンド
+    aliases:
+      - サガエメ
   - canonicalName: サガ フロンティア
     hypernyms:
       - サガフロンティアシリーズ
