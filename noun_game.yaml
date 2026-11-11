@@ -5106,6 +5106,11 @@ entries:
   - canonicalName: ドラゴンクエストIX 星空の守り人
     hypernyms:
       - ドラゴンクエストシリーズ
+    aliases:
+      - ドラクエⅨ
+      - ドラクエ9
+      - DQ9
+      - ドラゴンクエスト9
   - canonicalName: ドラゴンクエストV 天空の花嫁
     aliases:
       - ドラクエ5
