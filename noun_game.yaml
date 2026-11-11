@@ -3934,6 +3934,8 @@ entries:
   - canonicalName: グラディウス外伝
     hypernyms:
       - グラディウスシリーズ
+    aliases:
+      - グラディウス外伝｜PS
   - canonicalName: クラフトピア
     aliases:
       - Craftopia
