@@ -1,4 +1,4 @@
-﻿version: 1
+version: 1
 kind: 活動・イベント・企画
 comment:
   - 配信企画、イベント、コラボ、キャンペーン、ライブ、スポーツ大会、ゲーム大会、展示会、祭り、記念日など
@@ -1624,6 +1624,8 @@ entries:
   - canonicalName: 星街すいせい 誕生日＆4周年記念
     aliases:
       - 星街すいせい 誕生日&活動4周年記念グッズ
+      - 星街すいせい4周年LIVE
+      - Selfish of a Rough Stone
     hypernyms:
       - 星街すいせい
   - canonicalName: 星街すいせい 誕生日＆活動3周年記念
