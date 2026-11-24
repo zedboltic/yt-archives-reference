@@ -3975,6 +3975,9 @@ entries:
     aliases:
       - Grand Theft Auto VI
       - GTA6
+      - GTAVI
+    hypernyms:
+      - グランド・セフト・オートシリーズ
   - canonicalName: グランブルーファンタジー
     aliases:
       - GRANBLUE FANTASY
