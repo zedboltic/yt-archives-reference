@@ -290,6 +290,11 @@ entries:
   - canonicalName: ポケモンカードゲーム フュージョンアーツ
   - canonicalName: ホロプラス
   - canonicalName: ほろよいAmong Us
+    aliases:
+      - ほろ酔いAmongUs
+      - ほろ酔いアモングアス
+    hypernyms:
+      - Among Us
   - canonicalName: hololive OCG
   - canonicalName: hololive OFFICIAL CARD GAME
     aliases:
