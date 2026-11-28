@@ -3277,6 +3277,9 @@ entries:
       - ヴィサージュ
   - canonicalName: Voice of Cards できそこないの巫女
   - canonicalName: Voice of Cards ドラゴンの島
+    aliases:
+      - ドラゴンの島/ネタバレあり
+      - ドラゴンの島
   - canonicalName: void tRrLM(); //ボイド・テラリウム
     aliases:
       - void tRrLM();
